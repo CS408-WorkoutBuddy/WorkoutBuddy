@@ -23,10 +23,13 @@ python -m spacy link en_core_web_md en
 9. actions 폴더에서 ```rasa run actions``` 명령어 실행하기
 
 ## Facebook에서 WorkoutBuddy 실행하기
-* 1. 어쩌구
+1. heroku에 chatbot을 위한 app 생성하기 (이하 ***chatbot_app***)
+2. heroku에 actions를 위한 app 생성하기 (이하 ***actions_app***)
+3. chatbot/endpoints.yml의 action_endpoint 수정
+* https\://actions_app.herokuapp.com/webhook
 
 ## WorkoutBuddy 수정하기
-* 1. 어쩌구
+1. 어쩌구
 
 ## 유의사항
-* 1. 어쩌구
+1. 어쩌구
