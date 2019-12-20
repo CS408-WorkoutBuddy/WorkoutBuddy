@@ -5,7 +5,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 ## WorkoutBuddy 예제 실행
 1. abc  
 2. abc  
-\3. abc  
+1.3. abc  
 4  
 
 ## Facebook에서 WorkoutBuddy 실행
