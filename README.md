@@ -12,7 +12,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 6. heroku에 actions를 위한 app 생성 (이하 ***actions_app***)
 7. ***actions_app***에 ClearDB Add-on 추가
 8. chatbot/endpoints.yml의 action_endpoint 수정
-	* https://***actions_app***.herokuapp.com/webhook
+	* url: "https://***actions_app***.herokuapp.com/webhook"
 9. chatbot/credentials.yml의 facebook 항목 수정
 	* verify: ***verify_token*** (원하는 문자열)
 	* secret: ***secret_code*** (설정 - 기본 설정 - 앱 시크릿 코드)
@@ -56,12 +56,14 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 6. MeCab 설치
 7. MeCab의 사전 폴더에 chatbot/rasa_korean_material/dic 폴더의 내용을 덮어씌우기
 8. actions/init_db.py 실행
-9. chatbot 폴더에서 ```rasa shell``` 명령어 실행하기
-10. actions 폴더에서 ```rasa run actions``` 명령어 실행하기
+9. chatbot/endpoints.yml의 action_endpoint 수정
+	* url: "http://localhost:5055/webhook"
+10. chatbot 폴더에서 ```rasa shell``` 명령어 실행하기
+11. actions 폴더에서 ```rasa run actions``` 명령어 실행하기
 	* Facebook에서 실행하기 과정 중 DB 설정이 되지 않았을 경우 정상적으로 작동하지 않음
 
 ## WorkoutBuddy 수정하기
-1. 어쩌구
+1. 내용
 
 ## 유의사항
-1. 어쩌구
+1. WorkoutBuddy 챗봇이 Facebook에서 정상 동작하지 않는 경우, ***chatbot_app***을 재시작 할 것
