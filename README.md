@@ -43,32 +43,43 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 > heroku git:remote ***actions_app***  
 > git add .
 > git commit -am "***message***"  
-> git push heroku master
-12. facebook 앱에 콜백 URL 추가
+> git push heroku master  
+
+### 3. Facebook app과 Heroku에 업로드한 app 연동
+3.1. facebook 앱에 콜백 URL 추가
 	* URL: https://***chatbot_app***.herokuapp.com/webhooks/facebook/webhook
 	* 확인 토큰: ***verify_token*** (credentials.yml에서 입력한 문자열)
-13. 로컬에서 mypysql 패키지를 설치한 후 actions/init_db.py 실행
-14. 생성했던 페이지에 추가했던 메시지 보내기 버튼을 눌러 챗봇과 대화
+3.2. 로컬에서 mypysql 패키지를 설치한 후 actions/init_db.py 실행
+3.3. 생성했던 페이지에 추가했던 메시지 보내기 버튼을 눌러 챗봇과 대화  
 
 ## 로컬에서 WorkoutBuddy 실행
-1. rasa[spacy]==1.3.9, pymysql 패키지 설치
+
+### 1. 기본 환경 구축
+1.1. rasa[spacy]==1.3.9, pymysql 패키지 설치  
 > pip install rasa[spacy]==1.3.9  
-> pip install pymysql
-2. rasa 실행 환경 구축
+> pip install pymysql  
+
+1.2. rasa 실행 환경 구축  
 > python -m spacy download en_core_web_md  
-> python -m spacy link en_core_web_md en
-3. rasa 폴더에 chatbot/rasa_korean_material/registry.py 파일을 덮어씌우기
-	* rasa 폴더 위치의 기본값: C:/Users/user/Anaconda3/envs/***env_name***/Lib/site-packages/rasa
-4. rasa/nlu/tokenizers 폴더에 chatbot/rasa_korean_material/korean_tokenizer.py 파일을 복사하기
-5. rasa/nlu/extractors 폴더에 chatbot/rasa_korean_material/crf_entity_extractor_korean.py 파일을 복사하기
-6. mecab-ko (또는 MeCab) 설치
-7. MeCab의 사전 폴더에 chatbot/rasa_korean_material/dic 폴더의 내용을 덮어씌우기
-8. actions/init_db.py 실행
-9. chatbot/endpoints.yml의 action_endpoint 수정
-	* url: "http\://localhost:5055/webhook"
-10. chatbot 폴더에서 ```rasa shell``` 명령어 실행하기
-11. actions 폴더에서 ```rasa run actions``` 명령어 실행하기
-	* Facebook에서 실행하기 과정 중 DB 설정이 되지 않았을 경우 정상적으로 작동하지 않음
+> python -m spacy link en_core_web_md en  
+
+### 2. RASA pipeline 한글화
+2.1. rasa 폴더에 chatbot/rasa_korean_material/registry.py 파일을 덮어쓰기  
+> rasa 폴더 위치의 기본값: C:/Users/user/Anaconda3/envs/***env_name***/Lib/site-packages/rasa  
+
+2.2. rasa/nlu/tokenizers 폴더에 chatbot/rasa_korean_material/korean_tokenizer.py 파일을 복사  
+2.3. rasa/nlu/extractors 폴더에 chatbot/rasa_korean_material/crf_entity_extractor_korean.py 파일을 복사  
+2.4. mecab-ko (또는 MeCab) 설치  
+2.5. MeCab의 사전 폴더에 chatbot/rasa_korean_material/dic 폴더의 내용을 덮어쓰기  
+
+### 3. 실행
+3.1. actions/init_db.py 실행  
+3.2. chatbot/endpoints.yml의 action_endpoint 수정  
+> url: "http\://localhost:5055/webhook"  
+
+3.3. chatbot 폴더에서 ```rasa shell``` 명령어 실행  
+3.4. actions 폴더에서 ```rasa run actions``` 명령어 실행  
+> Facebook에서 실행하기 과정 중 DB 설정이 되지 않았을 경우 정상 작동 불가  
 
 ## 유의사항
 1. WorkoutBuddy 챗봇이 Facebook에서 정상 동작하지 않는 경우, ***chatbot_app***을 재시작 할 것
