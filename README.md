@@ -37,7 +37,8 @@ python -m spacy link en_core_web_md en
   * secret: ***secret_code*** (설정 - 기본 설정 - 앱 시크릿 코드)
   * page-access-token: ***page_access_token*** (messenger - 토큰 생성)
 9. Heroku 서버에 업로드
-> heroku login    
+> heroku login  
+>   
 > chatbot 폴더 진입  
 > git init  
 > heroku git:remote
