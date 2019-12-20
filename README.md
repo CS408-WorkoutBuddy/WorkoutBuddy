@@ -82,38 +82,34 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 3.4. actions 폴더에서 ```rasa run actions``` 명령어 실행  
 > Facebook에서 실행하기 과정 중 DB 설정이 되지 않았을 경우 정상 작동 불가  
 
-## 유의사항
-1. WorkoutBuddy 챗봇이 Facebook에서 정상 동작하지 않는 경우, ***chatbot_app***을 재시작 할 것
-
 ## RASA pipeline 한글화
 
-KoreanTokenizer
-문장을 일정 단위로 분해해 주는 pipeline입니다.
-한국어에 적용하기 위해 형태소 분석기인 mecab을 사용하였습니다.
-그러므로 mecab이 실행 환경에 mecab이 설치가 되어 있어야 합니다.
+### KoreanTokenizer
+문장을 일정 단위로 분해해 주는 pipeline입니다.  
+한국어에 적용하기 위해 형태소 분석기인 mecab을 사용하였습니다.  
+그러므로 mecab이 실행 환경에 mecab이 설치가 되어 있어야 합니다.  
+  
+설치시 현재 환경의 파이썬 버전을 잘 확인하시고 다운 및 설치하셔야 합니다.  
 
-설치시 현재 환경의 파이썬 버전을 잘 확인하시고 다운 및 설치하셔야 합니다.
 
-
-CRFEntityExtractorKorean
-Tokenizer에서 parsing한 정보와 원래 문장에서의 entity위치 정보를 토대로 entity를 추출하는 pipeline입니다.
-기존 Extractor에서는 단순히 string에 대해 index함수를 직접 적용하여 원래 문장에서 entity 위치를 검색하는 방식이었지만, 한글의 경우 형태소로 추출하게 되면 원래 문장과 모양이 변하게 되는 경우가 빈번하여 string에 직접 index 함수를 적용할 수 없습니다.
-그래서 기존 CRFEntityExtractor 코드를 한글에 맞도록 약간 변경하였습니다.
+### CRFEntityExtractorKorean
+Tokenizer에서 parsing한 정보와 원래 문장에서의 entity위치 정보를 토대로 entity를 추출하는 pipeline입니다.  
+기존 Extractor에서는 단순히 string에 대해 index함수를 직접 적용하여 원래 문장에서 entity 위치를 검색하는 방식이었지만, 한글의 경우 형태소로 추출하게 되면 원래 문장과 모양이 변하게 되는 경우가 빈번하여 string에 직접 index 함수를 적용할 수 없습니다.  
+그래서 기존 CRFEntityExtractor 코드를 한글에 맞도록 약간 변경하였습니다.  
 
 
 ## pipeline 오류 관련 주의사항
 
-1. 현재 tokenizer에서는 외래어를 한글로 그대로 사용하는 경우에는 오류가 발생하기 쉽습니다. 
-그러므로 최대한 외래어를 entity로 사용하지 않는 방향으로 사용해야 하며 꼭 사용해야 할 때는 entity에 대한 용어들을 mecab 사전에 꼭 추가해 주셔야 합니다.
-
-그러나 사전에 아무리 추가해도 오류를 내는 문장들이 있습니다.
-
-예) - 거침없이 [로우 킥](entity)
-위 문장을 mecab을 이용할 시 "로우 킥" 은 무조건 "롭ㄴ 킥"으로 바뀝니다. (자비롭다 or 자비로운 에 사용하는 로우로 해석)
-이 경우 '로우'를 mecab사전에 추가하여도 발생하는 문제이므로 최대한 이런 문장을 만들지 말아야 합니다.
-
-2. entity 양식에 빈 칸을 넣을 경우에도 오류가 발생합니다.
-
-예) - 지붕뚫고 [하이 킥 ](entity)  : X
-- 지붕뚫고 [하이 킥](entity)  : O
-
+1. 현재 tokenizer에서는 외래어를 한글로 그대로 사용하는 경우에는 오류가 발생하기 쉽습니다.  
+그러므로 최대한 외래어를 entity로 사용하지 않는 방향으로 사용해야 하며 꼭 사용해야 할 때는 entity에 대한 용어들을 mecab 사전에 꼭 추가해 주셔야 합니다.  
+  
+그러나 사전에 아무리 추가해도 오류를 내는 문장들이 있습니다.  
+  
+예) - 거침없이 [로우 킥](entity)  
+위 문장을 mecab을 이용할 시 "로우 킥" 은 무조건 "롭ㄴ 킥"으로 바뀝니다. (자비롭다 or 자비로운 에 사용하는 로우로 해석)  
+이 경우 '로우'를 mecab사전에 추가하여도 발생하는 문제이므로 최대한 이런 문장을 만들지 말아야 합니다.  
+  
+2. entity 양식에 빈 칸을 넣을 경우에도 오류가 발생합니다.  
+  
+예) - 지붕뚫고 [하이 킥 ](entity)  : X  
+- 지붕뚫고 [하이 킥](entity)  : O  
