@@ -1,29 +1,34 @@
 # WorkoutBuddy
 WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.  
-아래 문서는 Windows, Anaconda Python 3.6.9를 기준으로 작성되었습니다.
+아래 문서는 Windows, Anaconda Python 3.6.9를 기준으로 작성되었습니다.  
 
 ## Facebook에서 WorkoutBuddy 실행
-### 1. 새로운 facebook app 추가
-1.1. facebook for developers에서 Messenger 앱 추가  
+
+### 1. 새로운 Facebook app 추가
+1.1. Facebook for developers에서 Messenger 앱 추가  
 > https://developers.facebook.com/apps  
 
 1.2. 새로운 페이지 만들기 버튼을 눌러 챗봇이 적용될 페이지 생성  
 1.3. 페이지에 Messenger 버튼 추가  
-1.4. 생성한 facebook 앱에 새로 만든 페이지 추가  
+1.4. 생성한 Facebook 앱에 새로 만든 페이지 추가  
+
 ### 2. Heroku에  app 업로드
-5. heroku에 chatbot을 위한 app 생성 (이하 ***chatbot_app***)
-6. heroku에 actions를 위한 app 생성 (이하 ***actions_app***)
-7. ***actions_app***에 ClearDB Add-on 추가
-8. chatbot/endpoints.yml의 action_endpoint 수정
-	* url: "https://***actions_app***.herokuapp.com/webhook"
-9. chatbot/credentials.yml의 facebook 항목 수정
-	* verify: ***verify_token*** (원하는 문자열)
-	* secret: ***secret_code*** (설정 - 기본 설정 - 앱 시크릿 코드)
-	* page-access-token: ***page_access_token*** (messenger - 토큰 생성)
-10. actions/db.py의 pymysql.connect() 매개변수 수정
-	* DB의 URL은 ***actions_app***의 설정 창에서 Reveal Config Vars 버튼을 눌러 확인 가능
-	* URL의 형태: mysql://user:password@host/db?reconnect=true
-11. Heroku 서버에 업로드
+2.1. Heroku에 chatbot을 위한 app 생성 (이하 ***chatbot_app***)
+2.2. Heroku에 actions를 위한 app 생성 (이하 ***actions_app***)
+2.3. ***actions_app***에 ClearDB Add-on 추가
+2.4. chatbot/endpoints.yml의 action_endpoint 수정
+> url: "https://***actions_app***.herokuapp.com/webhook"  
+
+2.5. chatbot/credentials.yml의 facebook 항목 수정
+> verify: ***verify_token*** (원하는 문자열)  
+> secret: ***secret_code*** (설정 - 기본 설정 - 앱 시크릿 코드)  
+> page-access-token: ***page_access_token*** (messenger - 토큰 생성)  
+
+2.6. actions/db.py의 pymysql.connect() 매개변수 수정
+> DB의 URL은 ***actions_app***의 설정 창에서 Reveal Config Vars 버튼을 눌러 확인 가능  
+> URL의 형태: mysql://user:password@host/db?reconnect=true  
+
+2.7. Heroku 서버에 업로드
 > heroku login  
 >   
 > chatbot 폴더 진입  
