@@ -78,8 +78,8 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 3.2. chatbot/endpoints.yml의 action_endpoint를 수정합니다.  
 > url: "http\://localhost:5055/webhook"  
 
-3.3. chatbot 폴더에서 ```rasa shell``` 명령어를 실행합니다.  
-3.4. actions 폴더에서 ```rasa run actions``` 명령어를 실행합니다.  
+3.3. chatbot 폴더에서 rasa shell 명령어를 실행합니다.  
+3.4. actions 폴더에서 rasa run actions 명령어를 실행합니다.  
 > Facebook에서 실행하기 과정 중 DB 설정이 되지 않았을 경우 정상적으로 작동하지 않습니다.  
 
 ## RASA pipeline 한글화
