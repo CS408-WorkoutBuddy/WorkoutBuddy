@@ -1,0 +1,4829 @@
+## intent:change
+- 어렵게 해 줘
+- 어렵게
+- 어렵게 바꿔 줘
+- 어려운걸로
+- 어려운걸로 해 줘
+- 어려운걸로 해 주세요
+- 어려운걸로 바꿔 줘
+- 어려운걸로 바꿔 주세요
+- 바꿔줘
+- 바꿀래
+- 바꿀게
+- 바꿀래요
+- 어렵게 해 줘요
+- 어렵게 바꿔 줘요
+- 바꿔줘요
+- 어렵게 해 주세요
+- 어렵게 바꿔 주세요
+- 바꿔주세요
+- 더 어렵게 해 줘
+- 더 어렵게
+- 더 어렵게 바꿀래
+- 더 어렵게 바꿔 줘
+- 더 어려운걸로
+- 더 어려운걸로 해 줘
+- 더 어려운걸로 해 주세요
+- 더 어려운걸로 바꿔 줘
+- 더 어려운걸로 바꿀게
+- 더 어려운걸로 바꿔 주세요
+- 더 어렵게 해 줘요
+- 더 어렵게 바꿔 줘요
+- 더 어렵게 해 주세요
+- 더 어렵게 바꿔 주세요
+- 쉽다
+- 쉬운데
+- 쉬운데?
+- 쉬운 것 같아
+- 쉬워요
+- 쉬워
+- 쉬운 것 같아요
+- 쉬운데요
+- 쉬운데요?
+- 너무 쉽다
+- 너무 쉬운데
+- 너무 쉬운 것 같아
+- 너무 쉬워요
+- 너무 쉬워
+- 너무 쉬운 것 같아요
+- 너무 쉬운데요
+- 좀 쉽다
+- 좀 쉬운데
+- 좀 쉬운 것 같아
+- 좀 쉬워요
+- 좀 쉬워
+- 좀 쉬운 것 같아요
+- 좀 쉬운데요
+- 쉽다 어렵게 해 줘
+- 쉽다 어렵게
+- 쉽다 어렵게 바꿔 줘
+- 쉽다 어려운걸로
+- 쉽다 어려운걸로 해 줘
+- 쉽다 어려운걸로 해 주세요
+- 쉽다 어려운걸로 바꿔 줘
+- 쉽다 어려운걸로 바꿔 주세요
+- 쉽다 바꿔줘
+- 쉽다 어렵게 해 줘요
+- 쉽다 어렵게 바꿔 줘요
+- 쉽다 바꿔줘요
+- 쉽다 어렵게 해 주세요
+- 쉽다 어렵게 바꿔 주세요
+- 쉽다 바꿔주세요
+- 쉬우니까 어렵게 해 줘
+- 쉬우니까 어렵게
+- 쉬우니까 어렵게 바꿔 줘
+- 쉬우니까 어려운걸로
+- 쉬우니까 어려운걸로 해 줘
+- 쉬우니까 어려운걸로 해 주세요
+- 쉬우니까 어려운걸로 바꿔 줘
+- 쉬우니까 어려운걸로 바꿔 주세요
+- 쉬우니까 바꿔줘
+- 쉬우니까 어렵게 해 줘요
+- 쉬우니까 어렵게 바꿔 줘요
+- 쉬우니까 바꿔줘요
+- 쉬우니까 어렵게 해 주세요
+- 쉬우니까 어렵게 바꿔 주세요
+- 쉬우니까 바꿔주세요
+- 좀 쉬우니 바꿔줘
+- 좀 쉬우니 어렵게 해 줘요
+- 좀 쉬우니 어렵게 바꿔 줘요
+- 좀 쉬우니 바꿔줘요
+- 나한테 좀 쉬우니까 바꿔줘
+- 저한테는 좀 쉬우니까 어렵게 해 줘요
+- 저한테 좀 쉬우니 어렵게 바꿔 줘요
+- 나한테는 좀 쉬우니 바꿔줘요
+- 쉬운데 어렵게 해 줘
+- 쉬운데 어렵게
+- 쉬운데 어렵게 바꿔 줘
+- 쉬운데 어려운걸로
+- 쉬운데 어려운걸로 해 줘
+- 쉬운데 어려운걸로 해 주세요
+- 쉬운데 어려운걸로 바꿔 줘
+- 쉬운데 어려운걸로 바꿔 주세요
+- 쉬운데 바꿔줘
+- 쉬운데 어렵게 해 줘요
+- 쉬운데 어렵게 바꿔 줘요
+- 쉬운데 바꿔줘요
+- 쉬운데 어렵게 해 주세요
+- 쉬운데 어렵게 바꿔 주세요
+- 쉬운데 바꿔주세요
+- 쉬운 것 같아 어렵게 해 줘
+- 쉬운 것 같아 어렵게
+- 쉬운 것 같아 어렵게 바꿔 줘
+- 쉬운 것 같아 어렵게 바꿀래
+- 쉬운 것 같아 어렵게 바꿀래요
+- 쉬운 것 같아 어렵게 바꿀게
+- 쉬운 것 같아 어려운걸로
+- 쉬운 것 같아 어려운걸로 해 줘
+- 쉬운 것 같아 어려운걸로 해 주세요
+- 쉬운 것 같아 어려운걸로 바꿔 줘
+- 쉬운 것 같아 어려운걸로 바꿔 주세요
+- 쉬운 것 같아 바꿔줘
+- 쉬운 것 같아 어렵게 해 줘요
+- 쉬운 것 같아 어렵게 바꿔 줘요
+- 쉬운 것 같아 바꿔줘요
+- 쉬운 것 같아 어렵게 해 주세요
+- 쉬운 것 같아 어렵게 바꿔 주세요
+- 쉬운 것 같아 바꿔주세요
+- 쉬워요 어렵게 해 줘
+- 쉬워요 어렵게
+- 쉬워요 어렵게 바꿔 줘
+- 쉬워요 어려운걸로
+- 쉬워요 어려운걸로 해 줘
+- 쉬워요 어려운걸로 해 주세요
+- 쉬워요 어려운걸로 바꿔 줘
+- 쉬워요 어려운걸로 바꿔 주세요
+- 쉬워요 바꿔줘
+- 쉬워요 어렵게 해 줘요
+- 쉬워요 어렵게 바꿔 줘요
+- 쉬워요 바꿔줘요
+- 쉬워요 어렵게 해 주세요
+- 쉬워요 어렵게 바꿔 주세요
+- 쉬워요 바꿔주세요
+- 쉬워 어렵게 해 줘
+- 쉬워 어렵게
+- 쉬워 어렵게 바꿔 줘
+- 쉬워 어려운걸로
+- 쉬워 어려운걸로 해 줘
+- 쉬워 어려운걸로 해 주세요
+- 쉬워 어려운걸로 바꿔 줘
+- 쉬워 어려운걸로 바꿔 주세요
+- 쉬워 바꿔줘
+- 쉬워 어렵게 해 줘요
+- 쉬워 어렵게 바꿔 줘요
+- 쉬워 바꿔줘요
+- 쉬워 어렵게 해 주세요
+- 쉬워 어렵게 바꿔 주세요
+- 쉬워 바꿔주세요
+- 쉬운 것 같아요 어렵게 해 줘
+- 쉬운 것 같아요 어렵게
+- 쉬운 것 같아요 어렵게 바꿔 줘
+- 쉬운 것 같아요 어려운걸로
+- 쉬운 것 같아요 어려운걸로 해 줘
+- 쉬운 것 같아요 어려운걸로 해 주세요
+- 쉬운 것 같아요 어려운걸로 바꿔 줘
+- 쉬운 것 같아요 어려운걸로 바꿔 주세요
+- 쉬운 것 같아요 바꿔줘
+- 쉬운 것 같아요 어렵게 해 줘요
+- 쉬운 것 같아요 어렵게 바꿔 줘요
+- 쉬운 것 같아요 바꿔줘요
+- 쉬운 것 같아요 어렵게 해 주세요
+- 쉬운 것 같아요 어렵게 바꿔 주세요
+- 쉬운 것 같아요 바꿔주세요
+- 쉬운데요 어렵게 해 줘
+- 쉬운데요 어렵게
+- 쉬운데요 어렵게 바꿔 줘
+- 쉬운데요 어려운걸로
+- 쉬운데요 어려운걸로 해 줘
+- 쉬운데요 어려운걸로 해 주세요
+- 쉬운데요 어려운걸로 바꿔 줘
+- 쉬운데요 어려운걸로 바꿔 주세요
+- 쉬운데요 바꿔줘
+- 쉬운데요 어렵게 해 줘요
+- 쉬운데요 어렵게 바꿔 줘요
+- 쉬운데요 바꿔줘요
+- 쉬운데요 어렵게 해 주세요
+- 쉬운데요 어렵게 바꿔 주세요
+- 쉬운데요 바꿔주세요
+- 너무 쉽다 어렵게 해 줘
+- 너무 쉽다 어렵게
+- 너무 쉽다 어렵게 바꿔 줘
+- 너무 쉽다 어려운걸로
+- 너무 쉽다 어려운걸로 해 줘
+- 너무 쉽다 어려운걸로 해 주세요
+- 너무 쉽다 어려운걸로 바꿔 줘
+- 너무 쉽다 어려운걸로 바꿔 주세요
+- 너무 쉽다 바꿔줘
+- 너무 쉽다 어렵게 해 줘요
+- 너무 쉽다 어렵게 바꿔 줘요
+- 너무 쉽다 바꿔줘요
+- 너무 쉽다 어렵게 해 주세요
+- 너무 쉽다 어렵게 바꿔 주세요
+- 너무 쉽다 바꿔주세요
+- 너무 쉬운데 어렵게 해 줘
+- 너무 쉬운데 어렵게
+- 너무 쉬운데 어렵게 바꿔 줘
+- 너무 쉬운데 어려운걸로
+- 너무 쉬운데 어려운걸로 해 줘
+- 너무 쉬운데 어려운걸로 해 주세요
+- 너무 쉬운데 어려운걸로 바꿔 줘
+- 너무 쉬운데 어려운걸로 바꿔 주세요
+- 너무 쉬운데 바꿔줘
+- 너무 쉬운데 어렵게 해 줘요
+- 너무 쉬운데 어렵게 바꿔 줘요
+- 너무 쉬운데 바꿔줘요
+- 너무 쉬운데 어렵게 해 주세요
+- 너무 쉬운데 어렵게 바꿔 주세요
+- 너무 쉬운데 바꿔주세요
+- 너무 쉬운 것 같아 어렵게 해 줘
+- 너무 쉬운 것 같아 어렵게
+- 너무 쉬운 것 같아 어렵게 바꿔 줘
+- 너무 쉬운 것 같아 어려운걸로
+- 너무 쉬운 것 같아 어려운걸로 해 줘
+- 너무 쉬운 것 같아 어려운걸로 해 주세요
+- 너무 쉬운 것 같아 어려운걸로 바꿔 줘
+- 너무 쉬운 것 같아 어려운걸로 바꿔 주세요
+- 너무 쉬운 것 같아 바꿔줘
+- 너무 쉬운 것 같아 어렵게 해 줘요
+- 너무 쉬운 것 같아 어렵게 바꿔 줘요
+- 너무 쉬운 것 같아 바꿔줘요
+- 너무 쉬운 것 같아 어렵게 해 주세요
+- 너무 쉬운 것 같아 어렵게 바꿔 주세요
+- 너무 쉬운 것 같아 바꿔주세요
+- 너무 쉬워요 어렵게 해 줘
+- 너무 쉬워요 어렵게
+- 너무 쉬워요 어렵게 바꿔 줘
+- 너무 쉬워요 어려운걸로
+- 너무 쉬워요 어려운걸로 해 줘
+- 너무 쉬워요 어려운걸로 해 주세요
+- 너무 쉬워요 어려운걸로 바꿔 줘
+- 너무 쉬워요 어려운걸로 바꿔 주세요
+- 너무 쉬워요 바꿔줘
+- 너무 쉬워요 어렵게 해 줘요
+- 너무 쉬워요 어렵게 바꿔 줘요
+- 너무 쉬워요 바꿔줘요
+- 너무 쉬워요 어렵게 해 주세요
+- 너무 쉬워요 어렵게 바꿔 주세요
+- 너무 쉬워요 바꿔주세요
+- 너무 쉬워 어렵게 해 줘
+- 너무 쉬워 어렵게
+- 너무 쉬워 어렵게 바꿔 줘
+- 너무 쉬워 어려운걸로
+- 너무 쉬워 어려운걸로 해 줘
+- 너무 쉬워 어려운걸로 해 주세요
+- 너무 쉬워 어려운걸로 바꿔 줘
+- 너무 쉬워 어려운걸로 바꿔 주세요
+- 너무 쉬워 바꿔줘
+- 너무 쉬워 어렵게 해 줘요
+- 너무 쉬워 어렵게 바꿔 줘요
+- 너무 쉬워 바꿔줘요
+- 너무 쉬워 어렵게 해 주세요
+- 너무 쉬워 어렵게 바꿔 주세요
+- 너무 쉬워 바꿔주세요
+- 너무 쉬운 것 같아요 어렵게 해 줘
+- 너무 쉬운 것 같아요 어렵게
+- 너무 쉬운 것 같아요 어렵게 할래
+- 너무 쉬운 것 같아요 어렵게 바꿀래
+- 너무 쉬운 것 같아요 어렵게 바꿔 줘
+- 너무 쉬운 것 같아요 어려운걸로
+- 너무 쉬운 것 같아요 어려운걸로 해 줘
+- 너무 쉬운 것 같아요 어려운걸로 해 주세요
+- 너무 쉬운 것 같아요 어려운걸로 바꿔 줘
+- 너무 쉬운 것 같아요 어려운걸로 바꿔 주세요
+- 너무 쉬운 것 같아요 바꿔줘
+- 너무 쉬운 것 같아요 어렵게 해 줘요
+- 너무 쉬운 것 같아요 어렵게 바꿔 줘요
+- 너무 쉬운 것 같아요 바꿔줘요
+- 너무 쉬운 것 같아요 어렵게 해 주세요
+- 너무 쉬운 것 같아요 어렵게 바꿔 주세요
+- 너무 쉬운 것 같아요 바꿔주세요
+- 너무 쉬운데요 어렵게 해 줘
+- 너무 쉬운데요 어렵게
+- 너무 쉬운데요 어렵게 바꿔 줘
+- 너무 쉬운데요? 어렵게 바꿔 줘봐요
+- 너무 쉬운데요 어려운걸로
+- 너무 쉬운데요 어려운걸로 해 줘
+- 너무 쉬운데요 어려운걸로 해 주세요
+- 너무 쉬운데요 어려운걸로 바꿔 줘
+- 너무 쉬운데요 어려운걸로 바꿔 주세요
+- 너무 쉬운데요 바꿔줘
+- 너무 쉬운데요 어렵게 해 줘요
+- 너무 쉬운데요 어렵게 바꿔 줘요
+- 너무 쉬운데요 바꿔줘요
+- 너무 쉬운데요 어렵게 해 주세요
+- 너무 쉬운데요 어렵게 바꿔 주세요
+- 너무 쉬운데요 바꿔주세요
+- 좀 쉽다 어렵게 해 줘
+- 좀 쉽다 어렵게
+- 좀 쉽다 어렵게 바꿔 줘
+- 좀 쉽다 어려운걸로
+- 좀 쉽다 어려운걸로 해 줘
+- 좀 쉽다 어려운걸로 해 주세요
+- 좀 쉽다 어려운걸로 바꿔 줘
+- 좀 쉽다 어려운걸로 바꿔 주세요
+- 좀 쉽다 바꿔줘
+- 좀 쉽다 어렵게 해 줘요
+- 좀 쉽다 어렵게 바꿔 줘요
+- 좀 쉽다 바꿔줘요
+- 좀 쉽다 어렵게 해 주세요
+- 좀 쉽다 어렵게 바꿔 주세요
+- 좀 쉽다 바꿔주세요
+- 좀 쉬운데 어렵게 해 줘
+- 좀 쉬운데 어렵게
+- 좀 쉬운데? 어렵게
+- 좀 쉬운데 어렵게 바꿔 줘
+- 좀 쉬운데 어려운걸로
+- 좀 쉬운데 어려운걸로 해 줘
+- 좀 쉬운데 어려운걸로 해 주세요
+- 좀 쉬운데 어려운걸로 바꿔 줘
+- 좀 쉬운데 어려운걸로 바꿔 주세요
+- 좀 쉬운데 바꿔줘
+- 좀 쉬운데 어렵게 해 줘요
+- 좀 쉬운데 어렵게 바꿔 줘요
+- 좀 쉬운데 바꿔줘요
+- 좀 쉬운데 어렵게 해 주세요
+- 좀 쉬운데 어렵게 바꿔 주세요
+- 좀 쉬운데 바꿔주세요
+- 좀 쉬운 것 같아 어렵게 해 줘
+- 좀 쉬운 것 같아 어렵게
+- 좀 쉬운 것 같아 어렵게 바꿔 줘
+- 좀 쉬운 것 같아 어려운걸로
+- 좀 쉬운 것 같아 어려운걸로 해 줘
+- 좀 쉬운 것 같아 어려운걸로 해 주세요
+- 좀 쉬운 것 같아 어려운걸로 바꿔 줘
+- 좀 쉬운 것 같아 어려운걸로 바꿔 주세요
+- 좀 쉬운 것 같아 바꿔줘
+- 좀 쉬운 것 같아 어렵게 해 줘요
+- 좀 쉬운 것 같아 어렵게 바꿔 줘요
+- 좀 쉬운 것 같아 바꿔줘요
+- 좀 쉬운 것 같아 어렵게 해 주세요
+- 좀 쉬운 것 같아 어렵게 바꿔 주세요
+- 좀 쉬운 것 같아 바꿔주세요
+- 좀 쉬워요 어렵게 해 줘
+- 좀 쉬워요 어렵게
+- 좀 쉬워요 어렵게 바꿔 줘
+- 좀 쉬워요 어려운걸로
+- 좀 쉬워요 어려운걸로 해 줘
+- 좀 쉬워요 어려운걸로 해 주세요
+- 좀 쉬워요 어려운걸로 바꿔 줘
+- 좀 쉬워요 어려운걸로 바꿔 주세요
+- 좀 쉬워요 바꿔줘
+- 좀 쉬워요 어렵게 해 줘요
+- 좀 쉬워요 어렵게 바꿔 줘요
+- 좀 쉬워요 바꿔줘요
+- 좀 쉬워요 어렵게 해 주세요
+- 좀 쉬워요 어렵게 바꿔 주세요
+- 좀 쉬워요 바꿔주세요
+- 좀 쉬워 어렵게 해 줘
+- 좀 쉬워 어렵게
+- 좀 쉬워 어렵게 바꿔 줘
+- 좀 쉬워 어려운걸로
+- 좀 쉬워 어려운걸로 해 줘
+- 좀 쉬워 어려운걸로 해 주세요
+- 좀 쉬워 어려운걸로 바꿔 줘
+- 좀 쉬워 어려운걸로 바꿔 주세요
+- 좀 쉬워 바꿔줘
+- 좀 쉬워 어렵게 해 줘요
+- 좀 쉬워 어렵게 바꿔 줘요
+- 좀 쉬워 바꿔줘요
+- 좀 쉬워 어렵게 해 주세요
+- 좀 쉬워 어렵게 바꿔 주세요
+- 좀 쉬워 바꿔주세요
+- 좀 쉬운 것 같아요 어렵게 해 줘
+- 좀 쉬운 것 같아요 어렵게
+- 좀 쉬운 것 같아요 어렵게 바꿔 줘
+- 좀 쉬운 것 같아요 어려운걸로
+- 좀 쉬운 것 같아요 어려운걸로 해 줘
+- 좀 쉬운 것 같아요 어려운걸로 해 주세요
+- 좀 쉬운 것 같아요 어려운걸로 바꿔 줘
+- 좀 쉬운 것 같아요 어려운걸로 바꿔 주세요
+- 좀 쉬운 것 같아요 바꿔줘
+- 좀 쉬운 것 같아요 어렵게 해 줘요
+- 좀 쉬운 것 같아요 어렵게 바꿔 줘요
+- 좀 쉬운 것 같아요 바꿔줘요
+- 좀 쉬운 것 같아요 어렵게 해 주세요
+- 좀 쉬운 것 같아요 어렵게 바꿔 주세요
+- 좀 쉬운 것 같아요 바꿔주세요
+- 좀 쉬운데요 어렵게 해 줘
+- 좀 쉬운데요 어렵게
+- 좀 쉬운데요 어렵게 바꿔 줘
+- 좀 쉬운데요 어려운걸로
+- 좀 쉬운데요 어려운걸로 해 줘
+- 좀 쉬운데요 어려운걸로 해 주세요
+- 좀 쉬운데요 어려운걸로 바꿔 줘
+- 좀 쉬운데요 어려운걸로 바꿔 주세요
+- 좀 쉬운데요 바꿔줘
+- 좀 쉬운데요 어렵게 해 줘요
+- 좀 쉬운데요 어렵게 바꿔 줘요
+- 좀 쉬운데요 바꿔줘요
+- 좀 쉬운데요 어렵게 해 주세요
+- 좀 쉬운데요 어렵게 바꿔 주세요
+- 좀 쉬운데요 바꿔주세요
+- [180도 점프 스쿼트](changing_exercise)는 [10번](number)만 할게
+- [180도 점프 스쿼트](changing_exercise)를 [10번](number) 할래
+- [180도 점프 스쿼트](changing_exercise) [45회](number)만 하자
+- [180도 점프 스쿼트](changing_exercise) [98번](number) 하자
+- [180도 점프 스쿼트](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [180도 점프](changing_exercise)는 [54번](number)만 할게요
+- [180도 점프](changing_exercise)를 [54번](number) 할래
+- [180도 점프](changing_exercise) [77회](number) 할게요
+- [180도 점프](changing_exercise) [59회](number)로 바꾸자
+- [4카운트 버피](changing_exercise)는 [43회](number)만
+- [4카운트 버피](changing_exercise)를 [43회](number)로
+- [4카운트 버피](changing_exercise) [68번](number) 할래요
+- [4카운트 버피](changing_exercise) [3세트](number)로 바꿀래요
+- [6카운트 버피](changing_exercise) [10번](number)만 할게
+- [6카운트 버피](changing_exercise)는 [45회](number)만 하자
+- [6카운트 버피](changing_exercise)를 [45회](number) 할래
+- [6카운트 버피](changing_exercise) [98번](number) 하자
+- [6카운트 버피](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [엘리게이터 푸시업](changing_exercise) [54번](number)만 할게요
+- [엘리게이터 푸시업](changing_exercise)은 [77회](number) 할게요
+- [엘리게이터 푸시업](changing_exercise)을 [77회](number)로
+- [엘리게이터 푸시업](changing_exercise) [59회](number)로 바꾸자
+- [팔 뒤로 돌리기](changing_exercise) [43회](number)만
+- [팔 뒤로 돌리기](changing_exercise)는 [68번](number) 할래요
+- [팔 뒤로 돌리기](changing_exercise)를 [68번](number) 할게
+- [팔 뒤로 돌리기](changing_exercise) [3세트](number)로 바꿀래요
+- [팔 앞으로 돌리기](changing_exercise) [10번](number)만 할게
+- [팔 앞으로 돌리기](changing_exercise) [45회](number)만 하자
+- [팔 앞으로 돌리기](changing_exercise)는 [98번](number) 하자
+- [팔 앞으로 돌리기](changing_exercise)를 [98번](number) 할게
+- [팔 앞으로 돌리기](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [후방 런지](changing_exercise) [54번](number)만 할게요
+- [후방 런지](changing_exercise) [77회](number) 할게요
+- [후방 런지](changing_exercise)는 [59회](number)로 바꾸자
+- [후방 런지](changing_exercise)를 [59회](number)로 바꿔
+- [딱정벌레 자세](changing_exercise) [43회](number)만
+- [딱정벌레 자세](changing_exercise) [68번](number) 할래요
+- [딱정벌레 자세](changing_exercise)는 [3세트](number)로 바꿀래요
+- [딱정벌레 자세](changing_exercise)를 [3세트](number)로 바꿔 줘
+- [벤트 레그 크로스 오버](changing_exercise) [10번](number)만 할게
+- [벤트 레그 크로스 오버](changing_exercise) [45회](number)만 하자
+- [벤트 레그 크로스 오버](changing_exercise) [98번](number) 하자
+- [벤트 레그 크로스 오버](changing_exercise)는 [5세트](number)로 바꾸겠습니다
+- [벤트 레그 크로스 오버](changing_exercise)를 [5세트](number)로 바꿔줘요
+- [바이시클 크런치](changing_exercise)는 [21번](number)만 할거야
+- [바이시클 크런치](changing_exercise)를 [21번](number) 할거야
+- [바이시클 크런치](changing_exercise) [54번](number)만 할게요
+- [바이시클 크런치](changing_exercise) [77회](number) 할게요
+- [바이시클 크런치](changing_exercise) [59회](number)로 바꾸자
+- [브릿지](changing_exercise)는 [10회](number)만 하게 해줘
+- [브릿지](changing_exercise)를 [10회](number)만 할래
+- [브릿지](changing_exercise) [43회](number)만
+- [브릿지](changing_exercise) [68번](number) 할래요
+- [브릿지](changing_exercise) [3세트](number)로 바꿀래요
+- [버트 키커 점프 스쿼트](changing_exercise) [10번](number)만 할게
+- [버트 키커 점프 스쿼트](changing_exercise)는 [21회](number)만 하겠습니다
+- [버트 키커 점프 스쿼트](changing_exercise)를 [21회](number) 할게
+- [버트 키커 점프 스쿼트](changing_exercise) [45회](number)만 하자
+- [버트 키커 점프 스쿼트](changing_exercise) [98번](number) 하자
+- [버트 키커 점프 스쿼트](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [카프레이즈](changing_exercise) [54번](number)만 할게요
+- [카프레이즈](changing_exercise)는 [54회](number) 할게
+- [카프레이즈](changing_exercise)를 [54회](number) 할래
+- [카프레이즈](changing_exercise) [77회](number) 할게요
+- [카프레이즈](changing_exercise) [59회](number)로 바꾸자
+- [고양이 자세](changing_exercise) [43회](number)만
+- [고양이 자세](changing_exercise)는 [95번](number) 하게 해줘
+- [고양이 자세](changing_exercise)를 [95번](number)으로 바꿔줘
+- [고양이 자세](changing_exercise) [68번](number) 할래요
+- [고양이 자세](changing_exercise) [3세트](number)로 바꿀래요
+- [아기 자세](changing_exercise) [10번](number)만 할게
+- [아기 자세](changing_exercise) [45회](number)만 하자
+- [아기 자세](changing_exercise)는 [86번](number) 하고 싶어
+- [아기 자세](changing_exercise)를 [86번](number) 하고 싶어
+- [아기 자세](changing_exercise) [98번](number) 하자
+- [아기 자세](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [팔 내밀어 뛰기](changing_exercise) [54번](number)만 할게요
+- [팔 내밀어 뛰기](changing_exercise) [77회](number) 할게요
+- [팔 내밀어 뛰기](changing_exercise)는 [59번](number)으로 바꿀게
+- [팔 내밀어 뛰기](changing_exercise)를 [59번](number)으로 바꿀게
+- [팔 내밀어 뛰기](changing_exercise) [59회](number)로 바꾸자
+- [코블러 스트레칭](changing_exercise) [43회](number)만
+- [코블러 스트레칭](changing_exercise) [68번](number) 할래요
+- [코블러 스트레칭](changing_exercise)은 [9회](number)로 바꿔줘
+- [코블러 스트레칭](changing_exercise)을 [9회](number)로 바꿔줘
+- [코블러 스트레칭](changing_exercise) [3세트](number)로 바꿀래요
+- [커맨더 푸시업](changing_exercise) [10번](number)만 할게
+- [커맨더 푸시업](changing_exercise) [45회](number)만 하자
+- [커맨더 푸시업](changing_exercise) [98번](number) 하자
+- [커맨더 푸시업](changing_exercise)은 [2세트](number)로 바꿔
+- [커맨더 푸시업](changing_exercise)을 [2세트](number)로 바꿔
+- [커맨더 푸시업](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [테이블탑 브릿지](changing_exercise) [54번](number)만 할게요
+- [테이블탑 브릿지](changing_exercise) [77회](number) 할게요
+- [테이블탑 브릿지](changing_exercise) [59회](number)로 바꾸자
+- [테이블탑 브릿지](changing_exercise) [2분](number)으로 바꿔 줘
+- [테이블탑 브릿지](changing_exercise) [1분](number) 할래
+- [테이블탑 브릿지](changing_exercise)는 [7세트](number)로 바꾸고 싶어
+- [테이블탑 브릿지](changing_exercise)를 [7세트](number)로 바꾸고 싶어
+- [교차 펀치](changing_exercise)는 [32번](number)만 할래
+- [교차 펀치](changing_exercise)를 [32번](number)만 할래
+- [교차 펀치](changing_exercise) [43회](number)만
+- [교차 펀치](changing_exercise) [68번](number) 할래요
+- [교차 펀치](changing_exercise) [3세트](number)로 바꿀래요
+- [크런치](changing_exercise) [10번](number)만 할게
+- [크런치](changing_exercise)는 [43번](number)만 하고 싶어
+- [크런치](changing_exercise)를 [43번](number)만 하고 싶어
+- [크런치](changing_exercise) [45회](number)만 하자
+- [크런치](changing_exercise) [98번](number) 하자
+- [크런치](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [컬시 런지](changing_exercise) [54번](number)만 할게요
+- [컬시 런지](changing_exercise)는 [32회](number)만 할래요
+- [컬시 런지](changing_exercise)를 [32회](number)만 할래요
+- [컬시 런지](changing_exercise) [77회](number) 할게요
+- [컬시 런지](changing_exercise) [59회](number)로 바꾸자
+- [디클라인 푸시업](changing_exercise) [43회](number)만
+- [디클라인 푸시업](changing_exercise)은 [95회](number) 할거야
+- [디클라인 푸시업](changing_exercise)을 [95회](number) 할거야
+- [디클라인 푸시업](changing_exercise) [68번](number) 할래요
+- [디클라인 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [덩키 킥](changing_exercise) [10번](number)만 할게
+- [덩키 킥](changing_exercise) [45회](number)만 하자
+- [덩키 킥](changing_exercise)은 [86회](number) 할래
+- [덩키 킥](changing_exercise)을 [86회](number) 할래
+- [덩키 킥](changing_exercise) [98번](number) 하자
+- [덩키 킥](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [종아리 스트레](changing_exercise) [54번](number)만 할게요
+- [종아리 스트레](changing_exercise) [77회](number) 할게요
+- [종아리 스트레](changing_exercise)는 [77번](number) 하겠습니다
+- [종아리 스트레](changing_exercise)를 [77번](number) 하겠습니다
+- [종아리 스트레](changing_exercise) [59회](number)로 바꾸자
+- [소화전 운동](changing_exercise) [43회](number)만
+- [소화전 운동](changing_exercise) [68번](number) 할래요
+- [소화전 운동](changing_exercise)은 [9번](number)으로 바꿀래
+- [소화전 운동](changing_exercise)을 [9번](number)으로 바꿀래
+- [소화전 운동](changing_exercise) [3세트](number)로 바꿀래요
+- [전속력 턱 점프 버피](changing_exercise) [10번](number)만 할게
+- [전속력 턱 점프 버피](changing_exercise) [45회](number)만 하자
+- [전속력 턱 점프 버피](changing_exercise) [98번](number) 하자
+- [전속력 턱 점프 버피](changing_exercise)는 [68회](number)로 바꿀거야
+- [전속력 턱 점프 버피](changing_exercise)를 [68회](number)로 바꿀거야
+- [전속력 턱 점프 버피](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [전속력 버피](changing_exercise) [54번](number)만 할게요
+- [전속력 버피](changing_exercise) [77회](number) 할게요
+- [전속력 버피](changing_exercise) [59회](number)로 바꾸자
+- [전속력 버피](changing_exercise)는 [6세트](number)로 하자
+- [전속력 버피](changing_exercise)를 [6세트](number)로 하자
+- [앞 점프 스쿼트](changing_exercise) [43회](number)만
+- [앞 점프 스쿼트](changing_exercise) [68번](number) 할래요
+- [앞 점프 스쿼트](changing_exercise) [3세트](number)로 바꿀래요
+- [앞 점프 스쿼트](changing_exercise)는 [8세트](number) 하자
+- [앞 점프 스쿼트](changing_exercise)를 [8세트](number) 하자
+- [전방 런지](changing_exercise)는 [10번](number)만 할게
+- [전방 런지](changing_exercise)를 [10번](number)만 할게
+- [전방 런지](changing_exercise) [45회](number)만 하자
+- [전방 런지](changing_exercise) [98번](number) 하자
+- [전방 런지](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [개구리 스쿼트](changing_exercise)는 [54번](number)만 할게요
+- [개구리 스쿼트](changing_exercise)를 [54번](number)만 할게요
+- [개구리 스쿼트](changing_exercise) [77회](number) 할게요
+- [개구리 스쿼트](changing_exercise) [59회](number)로 바꾸자
+- [하이 니](changing_exercise)는 [43회](number)만
+- [하이 니](changing_exercise)를 [43회](number)만
+- [하이 니](changing_exercise) [68번](number) 할래요
+- [하이 니](changing_exercise) [3세트](number)로 바꿀래요
+- [하이 플랭크](changing_exercise) [10번](number)만 할게
+- [하이 플랭크](changing_exercise)는 [45회](number)만 하자
+- [하이 플랭크](changing_exercise)를 [45회](number)만 하자
+- [하이 플랭크](changing_exercise) [98번](number) 하자
+- [하이 플랭크](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [하이 플랭크 더블 니](changing_exercise) [54번](number)만 할게요
+- [하이 플랭크 더블 니](changing_exercise)는 [77회](number) 할게요
+- [하이 플랭크 더블 니](changing_exercise)를 [77회](number) 할게요
+- [하이 플랭크 더블 니](changing_exercise) [59회](number)로 바꾸자
+- [하이 플랭크 잭](changing_exercise) [43회](number)만
+- [하이 플랭크 잭](changing_exercise)은 [68번](number) 할래요
+- [하이 플랭크 잭](changing_exercise)을 [68번](number) 할래요
+- [하이 플랭크 잭](changing_exercise) [3세트](number)로 바꿀래요
+- [하이 플랭크 점핑 잭](changing_exercise) [10번](number)만 할게
+- [하이 플랭크 점핑 잭](changing_exercise) [45회](number)만 하자
+- [하이 플랭크 점핑 잭](changing_exercise)은 [98번](number) 하자
+- [하이 플랭크 점핑 잭](changing_exercise)을 [98번](number) 하자
+- [하이 플랭크 점핑 잭](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [하이 플랭크 점프](changing_exercise) [54번](number)만 할게요
+- [하이 플랭크 점프](changing_exercise) [77회](number) 할게요
+- [하이 플랭크 점프](changing_exercise)는 [59회](number)로 바꾸자
+- [하이 플랭크 점프](changing_exercise)를 [59회](number)로 바꾸자
+- [하이 플랭크 니 크로스](changing_exercise) [43회](number)만
+- [하이 플랭크 니 크로스](changing_exercise) [68번](number) 할래요
+- [하이 플랭크 니 크로스](changing_exercise)는 [3세트](number)로 바꿀래요
+- [하이 플랭크 니 크로스](changing_exercise)를 [3세트](number)로 바꿀래요
+- [하이 플랭크 니 드롭](changing_exercise) [10번](number)만 할게
+- [하이 플랭크 니 드롭](changing_exercise) [45회](number)만 하자
+- [하이 플랭크 니 드롭](changing_exercise) [98번](number) 하자
+- [하이 플랭크 니 드롭](changing_exercise)은 [5세트](number)로 바꾸겠습니다
+- [하이 플랭크 니 드롭](changing_exercise)을 [5세트](number)로 바꾸겠습니다
+- [하이 플랭크 니 투 엘보](changing_exercise)는 [21번](number)만 할거야
+- [하이 플랭크 니 투 엘보](changing_exercise)를 [21번](number)만 할거야
+- [하이 플랭크 니 투 엘보](changing_exercise) [54번](number)만 할게요
+- [하이 플랭크 니 투 엘보](changing_exercise) [77회](number) 할게요
+- [하이 플랭크 니 투 엘보](changing_exercise) [59회](number)로 바꾸자
+- [하이 플랭크 레그 리프트](changing_exercise)는 [10회](number)만 하게 해줘
+- [하이 플랭크 레그 리프트](changing_exercise)를 [10회](number)만 하게 해줘
+- [하이 플랭크 레그 리프트](changing_exercise) [43회](number)만
+- [하이 플랭크 레그 리프트](changing_exercise) [68번](number) 할래요
+- [하이 플랭크 레그 리프트](changing_exercise) [3세트](number)로 바꿀래요
+- [하이 플랭크 림 레이즈](changing_exercise) [10번](number)만 할게
+- [하이 플랭크 림 레이즈](changing_exercise)는 [21회](number)만 하겠습니다
+- [하이 플랭크 림 레이즈](changing_exercise)를 [21회](number)만 하겠습니다
+- [하이 플랭크 림 레이즈](changing_exercise) [45회](number)만 하자
+- [하이 플랭크 림 레이즈](changing_exercise) [98번](number) 하자
+- [하이 플랭크 림 레이즈](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [하이 사이드 플랭크](changing_exercise) [54번](number)만 할게요
+- [하이 사이드 플랭크](changing_exercise)는 [54회](number) 할게
+- [하이 사이드 플랭크](changing_exercise)를 [54회](number) 할게
+- [하이 사이드 플랭크](changing_exercise) [77회](number) 할게요
+- [하이 사이드 플랭크](changing_exercise) [59회](number)로 바꾸자
+- [힙 어브덕션](changing_exercise) [43회](number)만
+- [힙 어브덕션](changing_exercise)은 [95번](number) 하게 해줘
+- [힙 어브덕션](changing_exercise)을 [95번](number) 하게 해줘
+- [힙 어브덕션](changing_exercise) [68번](number) 할래요
+- [힙 어브덕션](changing_exercise) [3세트](number)로 바꿀래요
+- [힙 어덕션](changing_exercise) [10번](number)만 할게
+- [힙 어덕션](changing_exercise) [45회](number)만 하자
+- [힙 어덕션](changing_exercise)은 [86번](number) 하고 싶어
+- [힙 어덕션](changing_exercise)을 [86번](number) 하고 싶어
+- [힙 어덕션](changing_exercise) [98번](number) 하자
+- [힙 어덕션](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [힙 오프너](changing_exercise) [54번](number)만 할게요
+- [힙 오프너](changing_exercise) [77회](number) 할게요
+- [힙 오프너](changing_exercise)는 [59번](number)으로 바꿀게
+- [힙 오프너](changing_exercise)를 [59번](number)으로 바꿀게
+- [힙 오프너](changing_exercise) [59회](number)로 바꾸자
+- [인치웜 턱 점프](changing_exercise) [43회](number)만
+- [인치웜 턱 점프](changing_exercise) [68번](number) 할래요
+- [인치웜 턱 점프](changing_exercise)는 [9회](number)로 바꿔줘
+- [인치웜 턱 점프](changing_exercise)를 [9회](number)로 바꿔줘
+- [인치웜 턱 점프](changing_exercise) [3세트](number)로 바꿀래요
+- [인치웜](changing_exercise) [10번](number)만 할게
+- [인치웜](changing_exercise) [45회](number)만 하자
+- [인치웜](changing_exercise) [98번](number) 하자
+- [인치웜](changing_exercise)은 [2세트](number)로 바꿔
+- [인치웜](changing_exercise)을 [2세트](number)로 바꿔
+- [인치웜](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [인클라인 푸시업](changing_exercise) [54번](number)만 할게요
+- [인클라인 푸시업](changing_exercise) [77회](number) 할게요
+- [인클라인 푸시업](changing_exercise) [59회](number)로 바꾸자
+- [인클라인 푸시업](changing_exercise)은 [7세트](number)로 바꾸고 싶어
+- [인클라인 푸시업](changing_exercise)을 [7세트](number)로 바꾸고 싶어
+- [인워드 카프레이즈](changing_exercise)는 [32번](number)만 할래
+- [인워드 카프레이즈](changing_exercise)를 [32번](number)만 할래
+- [인워드 카프레이즈](changing_exercise) [43회](number)만
+- [인워드 카프레이즈](changing_exercise) [68번](number) 할래요
+- [인워드 카프레이즈](changing_exercise) [3세트](number)로 바꿀래요
+- [제자리 뛰기](changing_exercise) [10번](number)만 할게
+- [제자리 뛰기](changing_exercise)는 [43번](number)만 하고 싶어
+- [제자리 뛰기](changing_exercise)를 [43번](number)만 하고 싶어
+- [제자리 뛰기](changing_exercise) [45회](number)만 하자
+- [제자리 뛰기](changing_exercise) [98번](number) 하자
+- [제자리 뛰기](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [점프 런지](changing_exercise) [54번](number)만 할게요
+- [점프 런지](changing_exercise)는 [32회](number)만 할래요
+- [점프 런지](changing_exercise)를 [32회](number)만 할래요
+- [점프 런지](changing_exercise) [77회](number) 할게요
+- [점프 런지](changing_exercise) [59회](number)로 바꾸자
+- [점프 스쿼트](changing_exercise) [43회](number)만
+- [점프 스쿼트](changing_exercise)는 [95회](number) 할거야
+- [점프 스쿼트](changing_exercise)를 [95회](number) 할거야
+- [점프 스쿼트](changing_exercise) [68번](number) 할래요
+- [점프 스쿼트](changing_exercise) [3세트](number)로 바꿀래요
+- [팔 벌려 뛰기](changing_exercise) [10번](number)만 할게
+- [팔 벌려 뛰기](changing_exercise) [45회](number)만 하자
+- [팔 벌려 뛰기](changing_exercise)는 [86회](number) 할래
+- [팔 벌려 뛰기](changing_exercise)를 [86회](number) 할래
+- [팔 벌려 뛰기](changing_exercise) [98번](number) 하자
+- [팔 벌려 뛰기](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [니 커맨드 푸시업](changing_exercise) [54번](number)만 할게요
+- [니 커맨드 푸시업](changing_exercise) [77회](number) 할게요
+- [니 커맨드 푸시업](changing_exercise)은 [77번](number) 하겠습니다
+- [니 커맨드 푸시업](changing_exercise)를 [77번](number) 하겠습니다
+- [니 커맨드 푸시업](changing_exercise) [59회](number)로 바꾸자
+- [니 내로우 투 와이드 푸시업](changing_exercise) [43회](number)만
+- [니 내로우 투 와이드 푸시업](changing_exercise) [68번](number) 할래요
+- [니 내로우 투 와이드 푸시업](changing_exercise)은 [9번](number)으로 바꿀래
+- [니 내로우 투 와이드 푸시업](changing_exercise)을 [9번](number)으로 바꿀래
+- [니 내로우 투 와이드 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [니 플라이오 푸시업](changing_exercise) [10번](number)만 할게
+- [니 플라이오 푸시업](changing_exercise) [45회](number)만 하자
+- [니 플라이오 푸시업](changing_exercise) [98번](number) 하자
+- [니 플라이오 푸시업](changing_exercise)은 [68회](number)로 바꿀거야
+- [니 플라이오 푸시업](changing_exercise)을 [68회](number)로 바꿀거야
+- [니 플라이오 푸시업](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [니 푸시업 숄더 탭](changing_exercise) [54번](number)만 할게요
+- [니 푸시업 숄더 탭](changing_exercise) [77회](number) 할게요
+- [니 푸시업 숄더 탭](changing_exercise) [59회](number)로 바꾸자
+- [니 푸시업 숄더 탭](changing_exercise)은 [6세트](number)로 하자
+- [니 푸시업 숄더 탭](changing_exercise)을 [6세트](number)로 하자
+- [니 푸시업 사이드 플랭크](changing_exercise) [43회](number)만
+- [니 푸시업 사이드 플랭크](changing_exercise) [68번](number) 할래요
+- [니 푸시업 사이드 플랭크](changing_exercise) [3세트](number)로 바꿀래요
+- [니 푸시업 사이드 플랭크](changing_exercise)는 [8세트](number) 하자
+- [니 푸시업 사이드 플랭크](changing_exercise)를 [8세트](number) 하자
+- [니 푸시업](changing_exercise)은 [10번](number)만 할게
+- [니 푸시업](changing_exercise)을 [10번](number)만 할게
+- [니 푸시업](changing_exercise) [45회](number)만 하자
+- [니 푸시업](changing_exercise) [98번](number) 하자
+- [니 푸시업](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [니 사이드 투 사이드 푸시업](changing_exercise)을 [54번](number)만 할게요
+- [니 사이드 투 사이드 푸시업](changing_exercise)은 [54번](number)만 할게요
+- [니 사이드 투 사이드 푸시업](changing_exercise) [77회](number) 할게요
+- [니 사이드 투 사이드 푸시업](changing_exercise) [59회](number)로 바꾸자
+- [니 스태거드 푸시업](changing_exercise)은 [43회](number)만
+- [니 스태거드 푸시업](changing_exercise)을 [43회](number)만
+- [니 스태거드 푸시업](changing_exercise) [68번](number) 할래요
+- [니 스태거드 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [니 턱 크런치](changing_exercise) [10번](number)만 할게
+- [니 턱 크런치](changing_exercise)는 [45회](number)만 하자
+- [니 턱 크런치](changing_exercise)를 [45회](number)만 하자
+- [니 턱 크런치](changing_exercise) [98번](number) 하자
+- [니 턱 크런치](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [니 업 다운](changing_exercise)은 [68번](number) 할래요
+- [니 업 다운](changing_exercise)을 [68번](number) 할래요
+- [닐 앤 스탠드](changing_exercise) [10번](number)만 할게
+- [닐 앤 스탠드](changing_exercise) [45회](number)만 하자
+- [닐 앤 스탠드](changing_exercise)는 [98번](number) 하자
+- [닐 앤 스탠드](changing_exercise)를 [98번](number) 하자
+- [닐 앤 스탠드](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [엉덩이 굴근 스트레칭](changing_exercise) [54번](number)만 할게요
+- [엉덩이 굴근 스트레칭](changing_exercise) [77회](number) 할게요
+- [엉덩이 굴근 스트레칭](changing_exercise)은 [59회](number)로 바꾸자
+- [엉덩이 굴근 스트레칭](changing_exercise)을 [59회](number)로 바꾸자
+- [래터럴 점프 터치다운](changing_exercise)은 [3세트](number)로 바꿀래요
+- [래터럴 점프 터치다운](changing_exercise)을 [3세트](number)로 바꿀래요
+- [래터럴 점프](changing_exercise) [10번](number)만 할게
+- [래터럴 점프](changing_exercise) [45회](number)만 하자
+- [래터럴 점프](changing_exercise) [98번](number) 하자
+- [래터럴 점프](changing_exercise)는 [5세트](number)로 바꾸겠습니다
+- [래터럴 점프](changing_exercise)를 [5세트](number)로 바꾸겠습니다
+- [레그 레이즈](changing_exercise)는 [21번](number)만 할거야
+- [레그 레이즈](changing_exercise)를 [21번](number)만 할거야
+- [레그 레이즈](changing_exercise) [54번](number)만 할게요
+- [레그 레이즈](changing_exercise) [77회](number) 할게요
+- [레그 레이즈](changing_exercise) [59회](number)로 바꾸자
+- [림 레이즈 푸시업](changing_exercise)은 [10회](number)만 하게 해줘
+- [림 레이즈 푸시업](changing_exercise)을 [10회](number)만 하게 해줘
+- [림 레이즈 푸시업](changing_exercise) [43회](number)만
+- [림 레이즈 푸시업](changing_exercise) [68번](number) 할래요
+- [림 레이즈 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [로우 플랭크](changing_exercise) [10번](number)만 할게
+- [로우 플랭크](changing_exercise)는 [21회](number)만 하겠습니다
+- [로우 플랭크](changing_exercise)를 [21회](number)만 하겠습니다
+- [로우 플랭크](changing_exercise) [45회](number)만 하자
+- [로우 플랭크](changing_exercise) [98번](number) 하자
+- [로우 플랭크](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [로우 플랭크 암 리치](changing_exercise) [54번](number)만 할게요
+- [로우 플랭크 암 리치](changing_exercise)는 [54회](number) 할게
+- [로우 플랭크 암 리치](changing_exercise)를 [54회](number) 할게
+- [로우 플랭크 암 리치](changing_exercise) [77회](number) 할게요
+- [로우 플랭크 암 리치](changing_exercise) [59회](number)로 바꾸자
+- [로우 플랭크 크런치](changing_exercise) [43회](number)만
+- [로우 플랭크 크런치](changing_exercise)는 [95번](number) 하게 해줘
+- [로우 플랭크 크런치](changing_exercise)를 [95번](number) 하게 해줘
+- [로우 플랭크 크런치](changing_exercise) [68번](number) 할래요
+- [로우 플랭크 크런치](changing_exercise) [3세트](number)로 바꿀래요
+- [로우 플랭크 더블 니](changing_exercise) [10번](number)만 할게
+- [로우 플랭크 더블 니](changing_exercise) [45회](number)만 하자
+- [로우 플랭크 더블 니](changing_exercise)는 [86번](number) 하고 싶어
+- [로우 플랭크 더블 니](changing_exercise)를 [86번](number) 하고 싶어
+- [로우 플랭크 더블 니](changing_exercise) [98번](number) 하자
+- [로우 플랭크 더블 니](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [로우 플랭크 니 크로스](changing_exercise) [54번](number)만 할게요
+- [로우 플랭크 니 크로스](changing_exercise) [77회](number) 할게요
+- [로우 플랭크 니 크로스](changing_exercise)는 [59번](number)으로 바꿀게
+- [로우 플랭크 니 크로스](changing_exercise)를 [59번](number)으로 바꿀게
+- [로우 플랭크 니 크로스](changing_exercise) [59회](number)로 바꾸자
+- [로우 플랭크 니 드롭](changing_exercise) [43회](number)만
+- [로우 플랭크 니 드롭](changing_exercise) [68번](number) 할래요
+- [로우 플랭크 니 드롭](changing_exercise)은 [9회](number)로 바꿔줘
+- [로우 플랭크 니 드롭](changing_exercise)을 [9회](number)로 바꿔줘
+- [로우 플랭크 니 드롭](changing_exercise) [3세트](number)로 바꿀래요
+- [로우 플랭크 니 투 엘보](changing_exercise) [10번](number)만 할게
+- [로우 플랭크 니 투 엘보](changing_exercise) [45회](number)만 하자
+- [로우 플랭크 니 투 엘보](changing_exercise) [98번](number) 하자
+- [로우 플랭크 니 투 엘보](changing_exercise)는 [2세트](number)로 바꿔
+- [로우 플랭크 니 투 엘보](changing_exercise)를 [2세트](number)로 바꿔
+- [로우 플랭크 니 투 엘보](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [로우 플랭크 트위스트](changing_exercise) [54번](number)만 할게요
+- [로우 플랭크 트위스트](changing_exercise) [77회](number) 할게요
+- [로우 플랭크 트위스트](changing_exercise) [59회](number)로 바꾸자
+- [로우 플랭크 트위스트](changing_exercise)는 [7세트](number)로 바꾸고 싶어
+- [로우 플랭크 트위스트](changing_exercise)를 [7세트](number)로 바꾸고 싶어
+- [로우 사이드 플랭크](changing_exercise)는 [32번](number)만 할래
+- [로우 사이드 플랭크](changing_exercise)를 [32번](number)만 할래
+- [로우 사이드 플랭크](changing_exercise) [43회](number)만
+- [로우 사이드 플랭크](changing_exercise) [68번](number) 할래요
+- [로우 사이드 플랭크](changing_exercise) [3세트](number)로 바꿀래요
+- [로우 사이드 플랭크 레그 리프트](changing_exercise) [10번](number)만 할게
+- [로우 사이드 플랭크 레그 리프트](changing_exercise)는 [43번](number)만 하고 싶어
+- [로우 사이드 플랭크 레그 리프트](changing_exercise)를 [43번](number)만 하고 싶어
+- [로우 사이드 플랭크 레그 리프트](changing_exercise) [45회](number)만 하자
+- [로우 사이드 플랭크 레그 리프트](changing_exercise) [98번](number) 하자
+- [로우 사이드 플랭크 레그 리프트](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [로우 사이드 플랭크 트위스트](changing_exercise) [54번](number)만 할게요
+- [로우 사이드 플랭크 트위스트](changing_exercise)는 [32회](number)만 할래요
+- [로우 사이드 플랭크 트위스트](changing_exercise)를 [32회](number)만 할래요
+- [로우 사이드 플랭크 트위스트](changing_exercise) [77회](number) 할게요
+- [로우 사이드 플랭크 트위스트](changing_exercise) [59회](number)로 바꾸자
+- [런지 앤 트위스트](changing_exercise) [43회](number)만
+- [런지 앤 트위스트](changing_exercise)는 [95회](number) 할거야
+- [런지 앤 트위스트](changing_exercise)를 [95회](number) 할거야
+- [런지 앤 트위스트](changing_exercise) [68번](number) 할래요
+- [런지 앤 트위스트](changing_exercise) [3세트](number)로 바꿀래요
+- [런지 하이 니 점프](changing_exercise) [10번](number)만 할게
+- [런지 하이 니 점프](changing_exercise) [45회](number)만 하자
+- [런지 하이 니 점프](changing_exercise)는 [86회](number) 할래
+- [런지 하이 니 점프](changing_exercise)를 [86회](number) 할래
+- [런지 하이 니 점프](changing_exercise) [98번](number) 하자
+- [런지 하이 니 점프](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [런지 투 프론트 킥](changing_exercise) [54번](number)만 할게요
+- [런지 투 프론트 킥](changing_exercise) [77회](number) 할게요
+- [런지 투 프론트 킥](changing_exercise)은 [77번](number) 하겠습니다
+- [런지 투 프론트 킥](changing_exercise)을 [77번](number) 하겠습니다
+- [런지 투 프론트 킥](changing_exercise) [59회](number)로 바꾸자
+- [런지 투 하이 니](changing_exercise) [43회](number)만
+- [런지 투 하이 니](changing_exercise) [68번](number) 할래요
+- [런지 투 하이 니](changing_exercise)는 [9번](number)으로 바꿀래
+- [런지 투 하이 니](changing_exercise)를 [9번](number)으로 바꿀래
+- [런지 투 하이 니](changing_exercise) [3세트](number)로 바꿀래요
+- [4자 스트레칭](changing_exercise) [10번](number)만 할게
+- [4자 스트레칭](changing_exercise) [45회](number)만 하자
+- [4자 스트레칭](changing_exercise) [98번](number) 하자
+- [4자 스트레칭](changing_exercise)은 [68회](number)로 바꿀거야
+- [4자 스트레칭](changing_exercise)을 [68회](number)로 바꿀거야
+- [4자 스트레칭](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [마칭 월 싯](changing_exercise) [54번](number)만 할게요
+- [마칭 월 싯](changing_exercise) [77회](number) 할게요
+- [마칭 월 싯](changing_exercise) [59회](number)로 바꾸자
+- [마칭 월 싯](changing_exercise)은 [6세트](number)로 하자
+- [마칭 월 싯](changing_exercise)을 [6세트](number)로 하자
+- [마운틴 클라이머](changing_exercise) [43회](number)만
+- [마운틴 클라이머](changing_exercise) [1분](number) 할래
+- [마운틴 클라이머](changing_exercise) [68번](number) 할래요
+- [마운틴 클라이머](changing_exercise) [2분](number)으로 바꿔 줘
+- [마운틴 클라이머](changing_exercise) [3세트](number)로 바꿀래요
+- [마운틴 클라이머](changing_exercise)는 [8세트](number) 하자
+- [마운틴 클라이머](changing_exercise)를 [8세트](number) 하자
+- [내로우 6카운트 버피](changing_exercise)는 [10번](number)만 할게
+- [내로우 6카운트 버피](changing_exercise)를 [10번](number)만 할게
+- [내로우 6카운트 버피](changing_exercise) [45회](number)만 하자
+- [내로우 6카운트 버피](changing_exercise) [98번](number) 하자
+- [내로우 6카운트 버피](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [내로우 니 푸시업](changing_exercise)은 [54번](number)만 할게요
+- [내로우 니 푸시업](changing_exercise)을 [54번](number)만 할게요
+- [내로우 니 푸시업](changing_exercise) [77회](number) 할게요
+- [내로우 니 푸시업](changing_exercise) [59회](number)로 바꾸자
+- [내로우 푸시업](changing_exercise)은 [43회](number)만
+- [내로우 푸시업](changing_exercise)을 [43회](number)만
+- [내로우 푸시업](changing_exercise) [68번](number) 할래요
+- [내로우 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [내로우 스쿼트](changing_exercise) [10번](number)만 할게
+- [내로우 스쿼트](changing_exercise)는 [45회](number)만 하자
+- [내로우 스쿼트](changing_exercise)를 [45회](number)만 하자
+- [내로우 스쿼트](changing_exercise) [98번](number) 하자
+- [내로우 스쿼트](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [내로우 투 와이드 푸시업](changing_exercise) [54번](number)만 할게요
+- [내로우 투 와이드 푸시업](changing_exercise)은 [77회](number) 할게요
+- [내로우 투 와이드 푸시업](changing_exercise)을 [77회](number) 할게요
+- [내로우 투 와이드 푸시업](changing_exercise) [59회](number)로 바꾸자
+- [한발 4카운트 버피](changing_exercise) [43회](number)만
+- [한발 4카운트 버피](changing_exercise)는 [68번](number) 할래요
+- [한발 4카운트 버피](changing_exercise)를 [68번](number) 할래요
+- [한발 4카운트 버피](changing_exercise) [3세트](number)로 바꿀래요
+- [한발 6카운트 버피](changing_exercise) [10번](number)만 할게
+- [한발 6카운트 버피](changing_exercise) [45회](number)만 하자
+- [한발 6카운트 버피](changing_exercise)는 [98번](number) 하자
+- [한발 6카운트 버피](changing_exercise)를 [98번](number) 하자
+- [한발 6카운트 버피](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [아웃워드 카프레이즈](changing_exercise) [54번](number)만 할게요
+- [아웃워드 카프레이즈](changing_exercise) [77회](number) 할게요
+- [아웃워드 카프레이즈](changing_exercise)는 [59회](number)로 바꾸자
+- [아웃워드 카프레이즈](changing_exercise)를 [59회](number)로 바꾸자
+- [오버헤드 스쿼트](changing_exercise) [43회](number)만
+- [오버헤드 스쿼트](changing_exercise) [68번](number) 할래요
+- [오버헤드 스쿼트](changing_exercise)는 [3세트](number)로 바꿀래요
+- [오버헤드 스쿼트](changing_exercise)를 [3세트](number)로 바꿀래요
+- [오버헤드 트라이셉 스트레칭](changing_exercise) [10번](number)만 할게
+- [오버헤드 트라이셉 스트레칭](changing_exercise) [45회](number)만 하자
+- [오버헤드 트라이셉 스트레칭](changing_exercise) [98번](number) 하자
+- [오버헤드 트라이셉 스트레칭](changing_exercise)은 [5세트](number)로 바꾸겠습니다
+- [오버헤드 트라이셉 스트레칭](changing_exercise)을 [5세트](number)로 바꾸겠습니다
+- [펜듈럼 런지](changing_exercise)는 [21번](number)만 할거야
+- [펜듈럼 런지](changing_exercise)를 [21번](number)만 할거야
+- [펜듈럼 런지](changing_exercise) [54번](number)만 할게요
+- [펜듈럼 런지](changing_exercise) [77회](number) 할게요
+- [펜듈럼 런지](changing_exercise) [59회](number)로 바꾸자
+- [파이크 푸시업](changing_exercise)은 [10회](number)만 하게 해줘
+- [파이크 푸시업](changing_exercise) [43회](number)만
+- [파이크 푸시업](changing_exercise) [68번](number) 할래요
+- [파이크 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [피스톨 스쿼트](changing_exercise) [10번](number)만 할게
+- [피스톨 스쿼트](changing_exercise)는 [21회](number)만 하겠습니다
+- [피스톨 스쿼트](changing_exercise) [45회](number)만 하자
+- [피스톨 스쿼트](changing_exercise) [98번](number) 하자
+- [피스톨 스쿼트](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [피봇 런지](changing_exercise) [54번](number)만 할게요
+- [피봇 런지](changing_exercise)는 [54회](number) 할게
+- [피봇 런지](changing_exercise) [77회](number) 할게요
+- [피봇 런지](changing_exercise) [59회](number)로 바꾸자
+- [필레 점프 스쿼트](changing_exercise) [10번](number)만 할게
+- [필레 점프 스쿼트](changing_exercise) [45회](number)만 하자
+- [필레 점프 스쿼트](changing_exercise)는 [86번](number) 하고 싶어
+- [필레 점프 스쿼트](changing_exercise) [98번](number) 하자
+- [필레 점프 스쿼트](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [필레 스쿼트](changing_exercise) [54번](number)만 할게요
+- [필레 스쿼트](changing_exercise) [77회](number) 할게요
+- [필레 스쿼트](changing_exercise)는 [59번](number)으로 바꿀게
+- [필레 스쿼트](changing_exercise) [59회](number)로 바꾸자
+- [플라이오 푸시업](changing_exercise) [43회](number)만
+- [플라이오 푸시업](changing_exercise) [68번](number) 할래요
+- [플라이오 푸시업](changing_exercise)은 [9회](number)로 바꿔줘
+- [플라이오 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [프리즈너 스쿼트](changing_exercise) [10번](number)만 할게
+- [프리즈너 스쿼트](changing_exercise) [45회](number)만 하자
+- [프리즈너 스쿼트](changing_exercise) [98번](number) 하자
+- [프리즈너 스쿼트](changing_exercise)는 [2세트](number)로 바꿔
+- [프리즈너 스쿼트](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [엑스자 엎드리기](changing_exercise) [54번](number)만 할게요
+- [엑스자 엎드리기](changing_exercise) [77회](number) 할게요
+- [엑스자 엎드리기](changing_exercise) [59회](number)로 바꾸자
+- [엑스자 엎드리기](changing_exercise)는 [7세트](number)로 바꾸고 싶어
+- [펄싱 스쿼트](changing_exercise)는 [32번](number)만 할래
+- [펄싱 스쿼트](changing_exercise) [43회](number)만
+- [펄싱 스쿼트](changing_exercise) [68번](number) 할래요
+- [펄싱 스쿼트](changing_exercise) [3세트](number)로 바꿀래요
+- [펀치](changing_exercise) [10번](number)만 할게
+- [펀치](changing_exercise)는 [43번](number)만 하고 싶어
+- [펀치](changing_exercise) [45회](number)만 하자
+- [펀치](changing_exercise) [98번](number) 하자
+- [펀치](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [푸시업 잭](changing_exercise) [54번](number)만 할게요
+- [푸시업 잭](changing_exercise)은 [32회](number)만 할래요
+- [푸시업 잭](changing_exercise) [77회](number) 할게요
+- [푸시업 잭](changing_exercise) [59회](number)로 바꾸자
+- [푸시업 숄더탭](changing_exercise) [43회](number)만
+- [푸시업 숄더탭](changing_exercise)은 [95회](number) 할거야
+- [푸시업 숄더탭](changing_exercise) [68번](number) 할래요
+- [푸시업 숄더탭](changing_exercise) [3세트](number)로 바꿀래요
+- [푸시업 사이드 플랭크](changing_exercise) [10번](number)만 할게
+- [푸시업 사이드 플랭크](changing_exercise) [45회](number)만 하자
+- [푸시업 사이드 플랭크](changing_exercise)는 [86회](number) 할래
+- [푸시업 사이드 플랭크](changing_exercise) [98번](number) 하자
+- [푸시업 사이드 플랭크](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [푸시업](changing_exercise) [54번](number)만 할게요
+- [푸시업](changing_exercise) [77회](number) 할게요
+- [푸시업](changing_exercise)은 [77번](number) 하겠습니다
+- [푸시업](changing_exercise) [59회](number)로 바꾸자
+- [네발 니 투 엘보](changing_exercise) [43회](number)만
+- [네발 니 투 엘보](changing_exercise) [68번](number) 할래요
+- [네발 니 투 엘보](changing_exercise)는 [9번](number)으로 바꿀래
+- [네발 니 투 엘보](changing_exercise) [3세트](number)로 바꿀래요
+- [네발 림 레이즈](changing_exercise) [10번](number)만 할게
+- [네발 림 레이즈](changing_exercise) [45회](number)만 하자
+- [네발 림 레이즈](changing_exercise) [98번](number) 하자
+- [네발 림 레이즈](changing_exercise)는 [68회](number)로 바꿀거야
+- [네발 림 레이즈](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [퀵 피트](changing_exercise) [54번](number)만 할게요
+- [퀵 피트](changing_exercise) [77회](number) 할게요
+- [퀵 피트](changing_exercise) [59회](number)로 바꾸자
+- [퀵 피트](changing_exercise)는 [6세트](number)로 하자
+- [리버스 크런치](changing_exercise) [43회](number)만
+- [리버스 크런치](changing_exercise) [68번](number) 할래요
+- [리버스 크런치](changing_exercise) [3세트](number)로 바꿀래요
+- [리버스 크런치](changing_exercise)는 [8세트](number) 하자
+- [리버스 플랭크](changing_exercise)는 [10번](number)만 할게
+- [리버스 플랭크](changing_exercise) [45회](number)만 하자
+- [리버스 플랭크](changing_exercise) [98번](number) 하자
+- [리버스 플랭크](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [록스타](changing_exercise)는 [54번](number)만 할게요
+- [록스타](changing_exercise) [77회](number) 할게요
+- [록스타](changing_exercise) [59회](number)로 바꾸자
+- [러시안 트위스트 1](changing_exercise)은 [43회](number)만
+- [러시안 트위스트 1](changing_exercise) [68번](number) 할래요
+- [러시안 트위스트 1](changing_exercise) [3세트](number)로 바꿀래요
+- [러시안 트위스트 2](changing_exercise) [10번](number)만 할게
+- [러시안 트위스트 2](changing_exercise)은 [45회](number)만 하자
+- [러시안 트위스트 2](changing_exercise) [98번](number) 하자
+- [러시안 트위스트 2](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [한발 균형잡기](changing_exercise) [54번](number)만 할게요
+- [한발 균형잡기](changing_exercise)는 [77회](number) 할게요
+- [한발 균형잡기](changing_exercise) [59회](number)로 바꾸자
+- [한발 테이블탑 브릿지](changing_exercise) [43회](number)만
+- [한발 테이블탑 브릿지](changing_exercise)는 [68번](number) 할래요
+- [한발 테이블탑 브릿지](changing_exercise) [3세트](number)로 바꿀래요
+- [한발 앞뒤 뛰기](changing_exercise) [10번](number)만 할게
+- [한발 앞뒤 뛰기](changing_exercise) [45회](number)만 하자
+- [한발 앞뒤 뛰기](changing_exercise)는 [98번](number) 하자
+- [한발 앞뒤 뛰기](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [한발 점프 스쿼트](changing_exercise) [54번](number)만 할게요
+- [한발 점프 스쿼트](changing_exercise) [77회](number) 할게요
+- [한발 점프 스쿼트](changing_exercise)는 [59회](number)로 바꾸자
+- [한발 발 닿기](changing_exercise) [43회](number)만
+- [한발 발 닿기](changing_exercise) [68번](number) 할래요
+- [한발 발 닿기](changing_exercise)는 [3세트](number)로 바꿀래요
+- [한발 정강이 닿기](changing_exercise) [10번](number)만 할게
+- [한발 정강이 닿기](changing_exercise) [45회](number)만 하자
+- [한발 정강이 닿기](changing_exercise) [98번](number) 하자
+- [한발 정강이 닿기](changing_exercise)는 [5세트](number)로 바꾸겠습니다
+- [한발 스쿼트](changing_exercise)는 [21번](number)만 할거야
+- [한발 스쿼트](changing_exercise) [54번](number)만 할게요
+- [한발 스쿼트](changing_exercise) [77회](number) 할게요
+- [한발 스쿼트](changing_exercise) [59회](number)로 바꾸자
+- [시저스 킥](changing_exercise)은 [10회](number)만 하게 해줘
+- [시저스 킥](changing_exercise) [43회](number)만
+- [시저스 킥](changing_exercise) [68번](number) 할래요
+- [시저스 킥](changing_exercise) [3세트](number)로 바꿀래요
+- [어깨 스트레칭](changing_exercise) [10번](number)만 할게
+- [어깨 스트레칭](changing_exercise)은 [21회](number)만 하겠습니다
+- [어깨 스트레칭](changing_exercise) [45회](number)만 하자
+- [어깨 스트레칭](changing_exercise) [98번](number) 하자
+- [어깨 스트레칭](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [사이드 런지 터치다운](changing_exercise)은 [54회](number) 할게
+- [사이드 런지](changing_exercise) [43회](number)만
+- [사이드 런지](changing_exercise)는 [95번](number) 하게 해줘
+- [사이드 런지](changing_exercise) [68번](number) 할래요
+- [사이드 런지](changing_exercise) [3세트](number)로 바꿀래요
+- [사이드 플랭크 오블리크 크런치](changing_exercise) [10번](number)만 할게
+- [사이드 플랭크 오블리크 크런치](changing_exercise) [45회](number)만 하자
+- [사이드 플랭크 오블리크 크런치](changing_exercise)는 [86번](number) 하고 싶어
+- [사이드 플랭크 오블리크 크런치](changing_exercise) [98번](number) 하자
+- [사이드 플랭크 오블리크 크런치](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [사이드 스타 플랭크](changing_exercise) [54번](number)만 할게요
+- [사이드 스타 플랭크](changing_exercise) [77회](number) 할게요
+- [사이드 스타 플랭크](changing_exercise)는 [59번](number)으로 바꿀게
+- [사이드 스타 플랭크](changing_exercise) [59회](number)로 바꾸자
+- [사이드 투 사이드 푸시업](changing_exercise) [43회](number)만
+- [사이드 투 사이드 푸시업](changing_exercise) [68번](number) 할래요
+- [사이드 투 사이드 푸시업](changing_exercise)은 [9회](number)로 바꿔줘
+- [사이드 투 사이드 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [한발 브릿지](changing_exercise) [10번](number)만 할게
+- [한발 브릿지](changing_exercise) [45회](number)만 하자
+- [한발 브릿지](changing_exercise) [98번](number) 하자
+- [한발 브릿지](changing_exercise)는 [2세트](number)로 바꿔
+- [한발 브릿지](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [한발 데드리프트](changing_exercise) [54번](number)만 할게요
+- [한발 데드리프트](changing_exercise) [77회](number) 할게요
+- [한발 데드리프트](changing_exercise) [59회](number)로 바꾸자
+- [한발 데드리프트](changing_exercise)는 [7세트](number)로 바꾸고 싶어
+- [한발 파이크 푸시업](changing_exercise)은 [32번](number)만 할래
+- [한발 파이크 푸시업](changing_exercise) [43회](number)만
+- [한발 파이크 푸시업](changing_exercise) [68번](number) 할래요
+- [한발 파이크 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [한발 푸시업](changing_exercise) [10번](number)만 할게
+- [한발 푸시업](changing_exercise)은 [43번](number)만 하고 싶어
+- [한발 푸시업](changing_exercise) [45회](number)만 하자
+- [한발 푸시업](changing_exercise) [98번](number) 하자
+- [한발 푸시업](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [한발 브이업](changing_exercise) [54번](number)만 할게요
+- [한발 브이업](changing_exercise)은 [32회](number)만 할래요
+- [한발 브이업](changing_exercise) [77회](number) 할게요
+- [한발 브이업](changing_exercise) [59회](number)로 바꾸자
+- [싯업](changing_exercise) [43회](number)만
+- [싯업](changing_exercise)은 [95회](number) 할거야
+- [싯업](changing_exercise) [68번](number) 할래요
+- [싯업](changing_exercise) [3세트](number)로 바꿀래요
+- [스키 복근 운동](changing_exercise) [10번](number)만 할게
+- [스키 복근 운동](changing_exercise) [45회](number)만 하자
+- [스키 복근 운동](changing_exercise)은 [86회](number) 할래
+- [스키 복근 운동](changing_exercise) [98번](number) 하자
+- [스키 복근 운동](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [스키 점프](changing_exercise) [54번](number)만 할게요
+- [스키 점프](changing_exercise) [77회](number) 할게요
+- [스키 점프](changing_exercise)는 [77번](number) 하겠습니다
+- [스키 점프](changing_exercise) [59회](number)로 바꾸자
+- [스피드 스케이팅](changing_exercise) [43회](number)만
+- [스피드 스케이팅](changing_exercise) [68번](number) 할래요
+- [스피드 스케이팅](changing_exercise)은 [9번](number)으로 바꿀래
+- [스피드 스케이팅](changing_exercise) [3세트](number)로 바꿀래요
+- [스쿼트 잭](changing_exercise) [10번](number)만 할게
+- [스쿼트 잭](changing_exercise) [45회](number)만 하자
+- [스쿼트 잭](changing_exercise) [98번](number) 하자
+- [스쿼트 잭](changing_exercise)은 [68회](number)로 바꿀거야
+- [스쿼트 잭](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [스쿼트 사이드 킥](changing_exercise) [54번](number)만 할게요
+- [스쿼트 사이드 킥](changing_exercise) [77회](number) 할게요
+- [스쿼트 사이드 킥](changing_exercise) [59회](number)로 바꾸자
+- [스쿼트 사이드 킥](changing_exercise)은 [6세트](number)로 하자
+- [스쿼트 스타](changing_exercise) [43회](number)만
+- [스쿼트 스타](changing_exercise) [68번](number) 할래요
+- [스쿼트 스타](changing_exercise) [3세트](number)로 바꿀래요
+- [스쿼트 스타](changing_exercise)는 [8세트](number) 하자
+- [스쿼트 투 하이 니](changing_exercise)는 [10번](number)만 할게
+- [스쿼트 투 하이 니](changing_exercise) [45회](number)만 하자
+- [스쿼트 투 하이 니](changing_exercise) [98번](number) 하자
+- [스쿼트 투 하이 니](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [스쿼트 투 하이 니 점프](changing_exercise)는 [54번](number)만 할게요
+- [스쿼트 투 하이 니 점프](changing_exercise) [77회](number) 할게요
+- [스쿼트 투 하이 니 점프](changing_exercise) [59회](number)로 바꾸자
+- [스쿼트](changing_exercise)는 [43회](number)만
+- [스쿼트](changing_exercise) [68번](number) 할래요
+- [스쿼트](changing_exercise) [3세트](number)로 바꿀래요
+- [스쿼팅 퀵 피트](changing_exercise) [10번](number)만 할게
+- [스쿼팅 퀵 피트](changing_exercise)는 [45회](number)만 하자
+- [스쿼팅 퀵 피트](changing_exercise) [98번](number) 하자
+- [스쿼팅 퀵 피트](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [스태거드 푸시업](changing_exercise) [54번](number)만 할게요
+- [스태거드 푸시업](changing_exercise)은 [77회](number) 할게요
+- [스태거드 푸시업](changing_exercise) [59회](number)로 바꾸자
+- [스탠딩 쿼드리셉스 스트레칭](changing_exercise) [43회](number)만
+- [스탠딩 쿼드리셉스 스트레칭](changing_exercise)을 [1분](number)으로 바꿔 줘
+- [스탠딩 쿼드리셉스 스트레칭](changing_exercise)은 [68번](number) 할래요
+- [스탠딩 쿼드리셉스 스트레칭](changing_exercise) [3세트](number)로 바꿀래요
+- [팔 벌려 점프 뛰기](changing_exercise) [10번](number)만 할게
+- [팔 벌려 점프 뛰기](changing_exercise) [45회](number)만 하자
+- [팔 벌려 점프 뛰기](changing_exercise)는 [98번](number) 하자
+- [팔 벌려 점프 뛰기](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [스타 토 터치](changing_exercise) [54번](number)만 할게요
+- [스타 토 터치](changing_exercise) [77회](number) 할게요
+- [스타 토 터치](changing_exercise)는 [59회](number)로 바꾸자
+- [스트레이트 레그 바이시클 크런치](changing_exercise) [43회](number)만
+- [스트레이트 레그 바이시클 크런치](changing_exercise) [68번](number) 할래요
+- [스트레이트 레그 바이시클 크런치](changing_exercise)는 [3세트](number)로 바꿀래요
+- [슈퍼맨 자세](changing_exercise) [10번](number)만 할게
+- [슈퍼맨 자세](changing_exercise) [45회](number)만 하자
+- [슈퍼맨 자세](changing_exercise) [98번](number) 하자
+- [슈퍼맨 자세](changing_exercise)는 [5세트](number)로 바꾸겠습니다
+- [테이블탑 크런치](changing_exercise)는 [21번](number)만 할거야
+- [테이블탑 크런치](changing_exercise) [54번](number)만 할게요
+- [테이블탑 크런치](changing_exercise) [77회](number) 할게요
+- [테이블탑 크런치](changing_exercise) [59회](number)로 바꾸자
+- [트라이셉 딥](changing_exercise) [10번](number)만 할게
+- [트라이셉 딥](changing_exercise)은 [21회](number)만 하겠습니다
+- [트라이셉 딥](changing_exercise) [45회](number)만 하자
+- [트라이셉 딥](changing_exercise) [98번](number) 하자
+- [트라이셉 딥](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [턱 점프](changing_exercise) [54번](number)만 할게요
+- [턱 점프](changing_exercise)는 [54회](number) 할게
+- [턱 점프](changing_exercise) [77회](number) 할게요
+- [턱 점프](changing_exercise) [59회](number)로 바꾸자
+- [타입라이터 푸시업](changing_exercise) [43회](number)만
+- [타입라이터 푸시업](changing_exercise)은 [95번](number) 하게 해줘
+- [타입라이터 푸시업](changing_exercise) [68번](number) 할래요
+- [타입라이터 푸시업](changing_exercise) [3세트](number)로 바꿀래요
+- [얼티밋 버피](changing_exercise) [10번](number)만 할게
+- [얼티밋 버피](changing_exercise) [45회](number)만 하자
+- [얼티밋 버피](changing_exercise)는 [86번](number) 하고 싶어
+- [얼티밋 버피](changing_exercise) [98번](number) 하자
+- [얼티밋 버피](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [업 다운](changing_exercise)은 [9회](number)로 바꿔줘
+- [브이업](changing_exercise) [10번](number)만 할게
+- [브이업](changing_exercise) [45회](number)만 하자
+- [브이업](changing_exercise) [98번](number) 하자
+- [브이업](changing_exercise)은 [2세트](number)로 바꿔
+- [브이업](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [워킹 하이 니](changing_exercise) [54번](number)만 할게요
+- [워킹 하이 니](changing_exercise) [77회](number) 할게요
+- [워킹 하이 니](changing_exercise) [59회](number)로 바꾸자
+- [워킹 하이 니](changing_exercise)는 [7세트](number)로 바꾸고 싶어
+- [워킹 런지](changing_exercise)는 [32번](number)만 할래
+- [워킹 런지](changing_exercise) [43회](number)만
+- [워킹 런지](changing_exercise) [68번](number) 할래요
+- [워킹 런지](changing_exercise) [3세트](number)로 바꿀래요
+- [월 브릿지](changing_exercise) [10번](number)만 할게
+- [월 브릿지](changing_exercise)는 [43번](number)만 하고 싶어
+- [월 브릿지](changing_exercise) [45회](number)만 하자
+- [월 브릿지](changing_exercise) [98번](number) 하자
+- [월 브릿지](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [월 클라임](changing_exercise) [54번](number)만 할게요
+- [월 클라임](changing_exercise)은 [32회](number)만 할래요
+- [월 클라임](changing_exercise) [77회](number) 할게요
+- [월 클라임](changing_exercise) [59회](number)로 바꾸자
+- [월 핸드스탠드 킥 업](changing_exercise) [43회](number)만
+- [월 핸드스탠드 킥 업](changing_exercise)은 [95회](number) 할거야
+- [월 핸드스탠드 킥 업](changing_exercise) [68번](number) 할래요
+- [월 핸드스탠드 킥 업](changing_exercise) [3세트](number)로 바꿀래요
+- [월 래터럴 풀 다운](changing_exercise)은 [86회](number) 할래
+- [벽 짚고 가슴 스트레칭](changing_exercise) [54번](number)만 할게요
+- [벽 짚고 가슴 스트레칭](changing_exercise) [77회](number) 할게요
+- [벽 짚고 가슴 스트레칭](changing_exercise)은 [77번](number) 하겠습니다
+- [벽 짚고 가슴 스트레칭](changing_exercise) [59회](number)로 바꾸자
+- [벽 밀쳐내기](changing_exercise) [43회](number)만
+- [벽 밀쳐내기](changing_exercise) [68번](number) 할래요
+- [벽 밀쳐내기](changing_exercise)는 [9번](number)으로 바꿀래
+- [벽 밀쳐내기](changing_exercise) [3세트](number)로 바꿀래요
+- [월 싯](changing_exercise) [10번](number)만 할게
+- [월 싯](changing_exercise) [45회](number)만 하자
+- [월 싯](changing_exercise) [98번](number) 하자
+- [월 싯](changing_exercise)은 [68회](number)로 바꿀거야
+- [월 싯](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [와이드 클라이머 점프](changing_exercise) [54번](number)만 할게요
+- [와이드 클라이머 점프](changing_exercise) [77회](number) 할게요
+- [와이드 클라이머 점프](changing_exercise) [59회](number)로 바꾸자
+- [와이드 클라이머 점프](changing_exercise)는 [6세트](number)로 하자
+- [와이드 클라이머 트위스트](changing_exercise) [43회](number)만
+- [와이드 클라이머 트위스트](changing_exercise) [68번](number) 할래요
+- [와이드 클라이머 트위스트](changing_exercise) [3세트](number)로 바꿀래요
+- [와이드 클라이머 트위스트](changing_exercise)는 [8세트](number) 하자
+- [와이드 하이 니](changing_exercise)는 [10번](number)만 할게
+- [와이드 하이 니](changing_exercise) [45회](number)만 하자
+- [와이드 하이 니](changing_exercise) [98번](number) 하자
+- [와이드 하이 니](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [와이드 니 푸시업](changing_exercise)은 [54번](number)만 할게요
+- [와이드 니 푸시업](changing_exercise) [77회](number) 할게요
+- [와이드 니 푸시업](changing_exercise) [59회](number)로 바꾸자
+- [와이드 브이업](changing_exercise)은 [43회](number)만
+- [와이드 브이업](changing_exercise) [68번](number) 할래요
+- [와이드 브이업](changing_exercise) [3세트](number)로 바꿀래요
+- [와이드 푸시업](changing_exercise) [10번](number)만 할게
+- [와이드 푸시업](changing_exercise)은 [45회](number)만 하자
+- [와이드 푸시업](changing_exercise) [98번](number) 하자
+- [와이드 푸시업](changing_exercise) [5세트](number)로 바꾸겠습니다
+- [윈드쉴드 와이퍼](changing_exercise) [54번](number)만 할게요
+- [윈드쉴드 와이퍼](changing_exercise)는 [77회](number) 할게요
+- [윈드쉴드 와이퍼](changing_exercise) [59회](number)로 바꾸자
+- [파이크 푸시업](changing_exercise)을 [10회](number)만 하게 해줘
+- [피스톨 스쿼트](changing_exercise)를 [21회](number)만 하겠습니다
+- [피봇 런지](changing_exercise)를 [54회](number) 할게
+- [필레 점프 스쿼트](changing_exercise)를 [86번](number) 하고 싶어
+- [필레 스쿼트](changing_exercise)를 [59번](number)으로 바꿀게
+- [플라이오 푸시업](changing_exercise)을 [9회](number)로 바꿔줘
+- [프리즈너 스쿼트](changing_exercise)를 [2세트](number)로 바꿔
+- [엑스자 엎드리기](changing_exercise)를 [7세트](number)로 바꾸고 싶어
+- [펄싱 스쿼트](changing_exercise)를 [32번](number)만 할래
+- [펀치](changing_exercise)를 [43번](number)만 하고 싶어
+- [푸시업 잭](changing_exercise)을 [32회](number)만 할래요
+- [푸시업 숄더탭](changing_exercise)을 [95회](number) 할거야
+- [푸시업 사이드 플랭크](changing_exercise)를 [86회](number) 할래
+- [푸시업](changing_exercise)을 [77번](number) 하겠습니다
+- [네발 니 투 엘보](changing_exercise)를 [9번](number)으로 바꿀래
+- [네발 림 레이즈](changing_exercise)를 [68회](number)로 바꿀거야
+- [퀵 피트](changing_exercise)를 [6세트](number)로 하자
+- [리버스 크런치](changing_exercise)를 [8세트](number) 하자
+- [리버스 플랭크](changing_exercise)를 [10번](number)만 할게
+- [록스타](changing_exercise)를 [54번](number)만 할게요
+- [러시안 트위스트 1](changing_exercise)을 [43회](number)만
+- [러시안 트위스트 2](changing_exercise)을 [45회](number)만 하자
+- [한발 균형잡기](changing_exercise)를 [77회](number) 할게요
+- [한발 테이블탑 브릿지](changing_exercise)를 [68번](number) 할래요
+- [한발 앞뒤 뛰기](changing_exercise)를 [98번](number) 하자
+- [한발 점프 스쿼트](changing_exercise)를 [59회](number)로 바꾸자
+- [한발 발 닿기](changing_exercise)를 [3세트](number)로 바꿀래요
+- [한발 정강이 닿기](changing_exercise)를 [5세트](number)로 바꾸겠습니다
+- [한발 스쿼트](changing_exercise)를 [21번](number)만 할거야
+- [시저스 킥](changing_exercise)을 [10회](number)만 하게 해줘
+- [어깨 스트레칭](changing_exercise)을 [21회](number)만 하겠습니다
+- [사이드 런지 터치다운](changing_exercise)을 [54회](number) 할게
+- [사이드 런지](changing_exercise)를 [95번](number) 하게 해줘
+- [사이드 플랭크 오블리크 크런치](changing_exercise)를 [86번](number) 하고 싶어
+- [사이드 스타 플랭크](changing_exercise)를 [59번](number)으로 바꿀게
+- [사이드 투 사이드 푸시업](changing_exercise)을 [9회](number)로 바꿔줘
+- [한발 브릿지](changing_exercise)를 [2세트](number)로 바꿔
+- [한발 데드리프트](changing_exercise)를 [7세트](number)로 바꾸고 싶어
+- [한발 파이크 푸시업](changing_exercise)을 [32번](number)만 할래
+- [한발 푸시업](changing_exercise)을 [43번](number)만 하고 싶어
+- [한발 브이업](changing_exercise)을 [32회](number)만 할래요
+- [싯업](changing_exercise)을 [95회](number) 할거야
+- [스키 복근 운동](changing_exercise)을 [86회](number) 할래
+- [스키 점프](changing_exercise)를 [77번](number) 하겠습니다
+- [스피드 스케이팅](changing_exercise)을 [9번](number)으로 바꿀래
+- [스쿼트 잭](changing_exercise)을 [68회](number)로 바꿀거야
+- [스쿼트 사이드 킥](changing_exercise)을 [6세트](number)로 하자
+- [스쿼트 스타](changing_exercise)를 [8세트](number) 하자
+- [스쿼트 투 하이 니](changing_exercise)를 [10번](number)만 할게
+- [스쿼트 투 하이 니 점프](changing_exercise)를 [54번](number)만 할게요
+- [스쿼트](changing_exercise)를 [43회](number)만
+- [스쿼팅 퀵 피트](changing_exercise)를 [45회](number)만 하자
+- [스태거드 푸시업](changing_exercise)을 [77회](number) 할게요
+- [스탠딩 쿼드리셉스 스트레칭](changing_exercise)을 [68번](number) 할래요
+- [팔 벌려 점프 뛰기](changing_exercise)를 [98번](number) 하자
+- [스타 토 터치](changing_exercise)를 [59회](number)로 바꾸자
+- [스트레이트 레그 바이시클 크런치](changing_exercise)를 [3세트](number)로 바꿀래요
+- [슈퍼맨 자세](changing_exercise)를 [5세트](number)로 바꾸겠습니다
+- [테이블탑 크런치](changing_exercise)를 [21번](number)만 할거야
+- [트라이셉 딥](changing_exercise)을 [21회](number)만 하겠습니다
+- [턱 점프](changing_exercise)를 [54회](number) 할게
+- [타입라이터 푸시업](changing_exercise)을 [95번](number) 하게 해줘
+- [얼티밋 버피](changing_exercise)를 [86번](number) 하고 싶어
+- [업 다운](changing_exercise)을 [9회](number)로 바꿔줘
+- [브이업](changing_exercise)을 [2세트](number)로 바꿔
+- [워킹 하이 니](changing_exercise)를 [7세트](number)로 바꾸고 싶어
+- [워킹 런지](changing_exercise)를 [32번](number)만 할래어
+- [월 클라임](changing_exercise)을 [32회](number)만 할래요
+- [월 래터럴 풀 다운](changing_exercise)을 [86회](number) 할래
+- [벽 짚고 가슴 스트레칭](changing_exercise)을 [77번](number) 하겠습니다
+- [벽 밀쳐내기](changing_exercise)를 [9번](number)으로 바꿀래
+- [월 싯](changing_exercise)을 [68회](number)로 바꿀거야
+- [와이드 클라이머 점프](changing_exercise)를 [6세트](number)로 하자
+- [와이드 클라이머 트위스트](changing_exercise)를 [8세트](number) 하자
+- [와이드 하이 니](changing_exercise)를 [10번](number)만 할게
+- [와이드 니 푸시업](changing_exercise)을 [54번](number)만 할게요
+- [와이드 브이업](changing_exercise)을 [43회](number)만
+- [와이드 푸시업](changing_exercise)을 [45회](number)만 하자
+- [윈드쉴드 와이퍼](changing_exercise)를 [77회](number) 할게요
+- [마운틴 클라이머](changing_exercise) [1분](number)으로 바꿔 줘
+
+## intent:check_routine
+- 루틴 보여줘
+- 루틴을 보여줘
+- 루틴 보여줘요
+- 루틴을 보여줘요
+- 루틴 보여주세요
+- 루틴 보여주십시오
+- 루틴 보여줄래?
+- 루틴 보여주실래요?
+- 루틴 좀 보여줘
+- 루틴 좀 보여줘요
+- 루틴 좀 보여주세요
+- 루틴 좀 보여주십시오
+- 루틴 좀 보여줄래?
+- 루틴 좀 보여주실래요?
+- 루틴 확인
+- 루틴 확인할래
+- 루틴 확인할래요
+- 루틴 확인좀
+- 현재 루틴 보여줘
+- 현재 루틴 보여줘요
+- 현재 루틴 보여주세요
+- 현재 루틴 보여주십시오
+- 현재 루틴 보여줄래?
+- 현재 루틴 보여주실래요?
+- 현재 루틴 좀 보여줘
+- 현재 루틴 좀 보여줘요
+- 현재 루틴 좀 보여주세요
+- 현재 루틴 좀 보여주십시오
+- 현재 루틴 좀 보여줄래?
+- 현재 루틴 좀 보여주실래요?
+- 현재 루틴 확인
+- 현재 루틴 확인할래
+- 현재 루틴 확인할래요
+- 현재 루틴 확인좀
+- 지금 루틴 보여줘
+- 지금 루틴 보여줘요
+- 지금 루틴 보여주세요
+- 지금 루틴 보여주십시오
+- 지금 루틴 보여줄래?
+- 지금 루틴 보여주실래요?
+- 지금 루틴 좀 보여줘
+- 지금 루틴 좀 보여줘요
+- 지금 루틴 좀 보여주세요
+- 지금 루틴 좀 보여주십시오
+- 지금 루틴 좀 보여줄래?
+- 지금 루틴 좀 보여주실래요?
+- 지금 루틴 확인
+- 지금 루틴 확인할래
+- 지금 루틴 확인할래요
+- 지금 루틴 확인좀
+- 현재 내 루틴 좀 보여줘
+- 현재 제 루틴 좀 보여줘요
+- 현재 제 루틴 좀 보여주세요
+- 현재 제 루틴 좀 보여주십시오
+- 현재 내 루틴 좀 보여줄래?
+- 현재 제 루틴 좀 보여주실래요?
+- 현재 내 루틴 확인
+- 현재 제 루틴 확인할래
+- 현재 제 루틴 확인할래요
+- 현재 내 루틴 확인좀
+- 지금 내 루틴 보여줘
+- 지금 제 루틴 보여줘요
+- 지금 제 루틴 보여주세요
+- 지금 제 루틴 보여주십시오
+- 지금 내 루틴 보여줄래?
+- 지금 제 루틴 보여주실래요?
+- 지금 내 루틴 좀 보여줘
+- 지금 제 루틴 좀 보여줘요
+- 지금 제 루틴 좀 보여주세요
+- 지금 제 루틴 좀 보여주십시오
+- 지금 내 루틴 좀 보여줄래?
+- 지금 제 루틴 좀 보여주실래요?
+- 지금 내 루틴 확인
+- 지금 내 루틴 확인할래
+- 지금 제 루틴 확인할래요
+- 지금 내 루틴 확인좀
+- 설정된 루틴 보여줘
+- 설정된 루틴을 보여줘
+- 설정된 루틴 보여줘요
+- 설정된 루틴을 보여줘요
+- 설정된 루틴 보여주세요
+- 설정된 루틴 보여주십시오
+- 설정된 루틴 보여줄래?
+- 설정된 루틴 보여주실래요?
+- 설정된 루틴 좀 보여줘
+- 설정된 루틴 좀 보여줘요
+- 설정된 루틴 좀 보여주세요
+- 설정된 루틴 좀 보여주십시오
+- 설정된 루틴 좀 보여줄래?
+- 설정된 루틴 좀 보여주실래요?
+- 설정된 루틴 확인
+- 설정된 루틴 확인할래
+- 설정된 루틴 확인할래요
+- 설정된 루틴 확인좀
+- 현재 설정된 루틴 보여줘
+- 현재 설정된 루틴 보여줘요
+- 현재 설정된 루틴 보여주세요
+- 현재 설정된 루틴 보여주십시오
+- 현재 설정된 루틴 보여줄래?
+- 현재 설정된 루틴 보여주실래요?
+- 현재 설정된 루틴 좀 보여줘
+- 현재 설정된 루틴 좀 보여줘요
+- 현재 설정된 루틴 좀 보여주세요
+- 현재 설정된 루틴 좀 보여주십시오
+- 현재 설정된 루틴 좀 보여줄래?
+- 현재 설정된 루틴 좀 보여주실래요?
+- 현재 설정된 루틴 확인
+- 현재 설정된 루틴 확인할래
+- 현재 설정된 루틴 확인할래요
+- 현재 설정된 루틴 확인좀
+- 지금 설정된 루틴 보여줘
+- 지금 설정된 루틴 보여줘요
+- 지금 설정된 루틴 보여주세요
+- 지금 설정된 루틴 보여주십시오
+- 지금 설정된 루틴 보여줄래?
+- 지금 설정된 루틴 보여주실래요?
+- 지금 설정된 루틴 좀 보여줘
+- 지금 설정된 루틴 좀 보여줘요
+- 지금 설정된 루틴 좀 보여주세요
+- 지금 설정된 루틴 좀 보여주십시오
+- 지금 설정된 루틴 좀 보여줄래?
+- 지금 설정된 루틴 좀 보여주실래요?
+- 지금 설정된 루틴 확인
+- 지금 설정된 루틴 확인할래
+- 지금 설정된 루틴 확인할래요
+- 지금 설정된 루틴 확인좀
+
+## intent:choose
+- /choose[{"previous_exp": "low"}](previous_exp:low)
+- /choose[{"previous_exp": "mid"}](previous_exp:mid)
+- /choose[{"previous_exp": "high"}](previous_exp:high)
+- /choose[{"objective" : "muscle"}](objective:muscle)
+- /choose[{"objective" : "balanced"}](objective:balanced)
+- /choose[{"objective" : "lose_weight"}](objective:lose_weight)
+- /choose[{"property" : "a"}](property:a)
+- /choose[{"property" : "b"}](property:b)
+- /choose[{"property" : "c"}](property:c)
+- /choose[{"property" : "d"}](property:d)
+- /choose[{"property" : "e"}](property:e)
+- /choose[{"property" : "f"}](property:f)
+- /choose[{"cycle" : "true"}](cycle:true)
+- /choose[{"cycle" : "false"}](cycle:false)
+- /choose[{"which" : "exercise"}](which:exercise)
+- /choose[{"which" : "terminology"}](which:terminology)
+
+## intent:delete_user
+- 탈퇴
+- 탈퇴할래
+- 탈퇴할래요
+- 탈퇴하겠습니다
+- 탈퇴시켜줘
+- 나 탈퇴
+- 나 탈퇴할래
+- 나 탈퇴할래요
+- 나 탈퇴하겠습니다
+- 나 탈퇴시켜줘
+- 회원탈퇴
+- 회원탈퇴할래
+- 회원탈퇴할래요
+- 회원탈퇴하겠습니다
+- 회원탈퇴시켜줘
+- 회원 탈퇴
+- 회원 탈퇴할래
+- 회원 탈퇴할래요
+- 회원 탈퇴하겠습니다
+- 회원 탈퇴시켜줘
+- 나 회원 탈퇴
+- 나 회원 탈퇴할래
+- 나 회원 탈퇴할래요
+- 나 회원 탈퇴하겠습니다
+- 나 회원 탈퇴시켜줘
+- 나 회원탈퇴
+- 나 회원탈퇴할래
+- 나 회원탈퇴할래요
+- 나 회원탈퇴하겠습니다
+- 나 회원탈퇴시켜줘
+- 내 정보 지워줘
+- 내 정보 지워 줘
+- 내 정보 지워
+- 제 정보 지워주세요
+- 제 정보 지워줘요
+- 내 정보 지워라
+- 내 정보 전부 지워줘
+- 제 정보 전부 지워주세요
+- 제 정보 전부 지워줘요
+- 내 정보 전부 지워라
+- 내 회원 정보 지워줘
+- 내 회원 정보 지워 줘
+- 내 회원 정보 지워
+- 제 회원 정보 지워주세요
+- 제 회원 정보 지워줘요
+- 내 회원 정보 지워라
+- 내 회원 정보 전부 지워줘
+- 제 회원 정보 전부 지워주세요
+- 제 회원 정보 전부 지워줘요
+- 내 회원 정보 전부 지워라
+- 내 회원정보 지워줘
+- 내 회원정보 지워 줘
+- 내 회원정보 지워
+- 제 회원정보 지워주세요
+- 제 회원정보 지워줘요
+- 내 회원정보 지워라
+- 내 회원정보 전부 지워줘
+- 제 회원정보 전부 지워주세요
+- 제 회원정보 전부 지워줘요
+- 내 회원정보 전부 지워라
+
+## intent:done
+- 했음
+- 함
+- 했어
+- 했다
+- 했습니다
+- 완료
+- 완료했습니다
+- 완료함
+- 다 했음
+- 다 함
+- 다 했어
+- 다 했다
+- 다 했습니다
+- 다 완료
+- 다 완료했습니다
+- 다 완료함
+- 이거 다 했음
+- 이거 다 함
+- 이거 다 했어
+- 이거 다 했다
+- 이거 다 했습니다
+- 이거 다 완료
+- 이거 다 완료했습니다
+- 이거 다 완료함
+- 전부 했음
+- 전부 함
+- 전부 했어
+- 전부 했다
+- 전부 했습니다
+- 전부 완료
+- 전부 완료했습니다
+- 전부 완료함
+- 끝
+- 끝났어
+- 끝났어
+- 운동 했음
+- 운동 함
+- 운동 했어
+- 운동 했다
+- 운동 했습니다
+- 운동 완료
+- 운동 완료했습니다
+- 운동 완료함
+- 운동 다 했음
+- 운동 다 함
+- 운동 다 했어
+- 운동 다 했다
+- 운동 다 했습니다
+- 운동 다 완료
+- 운동 다 완료했습니다
+- 운동 다 완료함
+- 운동 이거 다 했음
+- 운동 이거 다 함
+- 운동 이거 다 했어
+- 운동 이거 다 했다
+- 운동 이거 다 했습니다
+- 운동 이거 다 완료
+- 운동 이거 다 완료했습니다
+- 운동 이거 다 완료함
+- 운동 전부 했음
+- 운동 전부 함
+- 운동 전부 했어
+- 운동 전부 했다
+- 운동 전부 했습니다
+- 운동 전부 완료
+- 운동 전부 완료했습니다
+- 운동 전부 완료함
+- 운동 끝
+- 운동 끝났어
+- 운동 끝났어!
+- 방금 했음
+- 방금 함
+- 방금 했어
+- 방금 했다
+- 방금 했습니다
+- 방금 완료
+- 방금 완료했습니다
+- 방금 완료함
+- 방금 다 했음
+- 방금 다 함~
+- 방금 다 했어
+- 방금 다 했다
+- 방금 다 했습니다
+- 방금 다 완료
+- 방금 다 완료했습니다
+- 방금 다 완료함
+- 방금 이거 다 했음
+- 방금 이거 다 함
+- 방금 이거 다 했어
+- 방금 이거 다 했다
+- 방금 이거 다 했습니다
+- 방금 이거 다 완료
+- 방금 이거 다 완료했습니다
+- 방금 이거 다 완료함
+- 방금 전부 했음
+- 방금 전부 함
+- 방금 전부 했어
+- 방금 전부 했다
+- 방금 전부 했습니다
+- 방금 전부 완료
+- 방금 전부 완료했습니다
+- 방금 전부 완료함
+- 방금 끝
+- 방금 끝났어
+- 방금 끝났어
+- 방금 운동 했음
+- 방금 운동 함
+- 방금 운동 했어
+- 방금 운동 했다
+- 방금 운동 했습니다
+- 방금 운동 완료
+- 방금 운동 완료했습니다
+- 방금 운동 완료함
+- 방금 운동 다 했음
+- 방금 운동 다 함
+- 방금 운동 다 했어
+- 방금 운동 다 했다
+- 방금 운동 다 했습니다
+- 방금 운동 다 완료
+- 방금 운동 다 완료했습니다
+- 방금 운동 다 완료함
+- 방금 운동 이거 다 했음
+- 방금 운동 이거 다 함
+- 방금 운동 이거 다 했어
+- 방금 운동 이거 다 했다
+- 방금 운동 이거 다 했습니다
+- 방금 운동 이거 다 완료
+- 방금 운동 이거 다 완료했습니다
+- 방금 운동 이거 다 완료함
+- 방금 운동 전부 했음
+- 방금 운동 전부 함
+- 방금 운동 전부 했어
+- 방금 운동 전부 했다
+- 방금 운동 전부 했습니다
+- 방금 운동 전부 완료
+- 방금 운동 전부 완료했습니다
+- 방금 운동 전부 완료함
+- 방금 운동 끝
+- 방금 운동 끝났어~
+- 방금 운동 끝났어!
+- 끝났어
+
+## intent:good
+- 좋은데
+- 오 좋은데
+- 오
+- 굳
+- 오오
+- 오오오
+- good
+- 굳굳
+- 개굳
+- 오 좋아
+- 좋다
+- 좋습니다
+- 좋아요
+- 오졌다
+- 오지네
+- 완전 좋아
+- 완전 좋습니다
+- 대박
+- 대박입니다
+- 대박이네
+- 대박이야
+- 완전 굳
+- 완전 대박
+- 초대박
+- 좋았어
+- 괜찮네
+- 괜찮았어
+- 완전 좋았어
+- 만족스럽다
+- 만족
+- 좋은 생각이야
+- 좋아
+- 좋네
+- 좋은 생각이다
+- 좋은데!
+- 오 좋은데!
+- 오!
+- 굳!
+- good!
+- 굳굳!
+- 개굳!
+- 오오오!
+- 오 좋아!
+- 좋다!
+- 좋습니다!
+- 좋아요!
+- 오졌다!
+- 오지네!
+- 완전 좋아!
+- 완전 좋습니다!
+- 대박!
+- 대박입니다!
+- 대박이네!
+- 대박이야!
+- 완전 굳!
+- 완전 대박!
+- 초대박!
+- 좋았어!
+- 괜찮네!
+- 괜찮았어!
+- 완전 좋았어!
+- 만족스럽다!
+- 만족!
+- 좋은 생각이야!
+- 좋아!
+- 좋네!
+- 좋은 생각이다!
+- 좋았어
+
+## intent:greet
+- 저기요
+- 저기
+- 안녕
+- 안녕하세요
+- ㅎㅇ
+- ㅎㅇ요
+- 하이
+- ㅎㅇㅎㅇ
+- 안뇽
+- 할룽
+- 헬로
+- gd
+- yo
+- 야
+- 여봐라
+- 계시오
+- 똑똑
+- 안녕하십니까
+- 요맨
+- 저기요?
+- 저기..
+- 안녕?
+- 안녕하세요?
+- ㅎㅇ?
+- ㅎㅇ요?
+- 하이?
+- ㅎㅇㅎㅇ?
+- 안뇽?
+- 할룽?
+- 헬로?
+- gd?
+- 계시오?
+- 똑똑?
+- 안녕하십니까?
+- gd
+- 오하요
+- 즐거운 하루
+- 오하요우
+- 헤이
+- hey
+- 하위
+- 어이
+- 어이어이
+- 오이오이
+- 안녕
+
+## intent:hard
+- 어려워
+- 어려운 것 같아
+- 어려운 것 같다
+- 어려운데
+- 어려운데?
+- 어렵다
+- 어렵습니다
+- 어려워요
+- 어려웡
+- 어려워 보여
+- 어려울 것 같아
+- 어려울 것 같다
+- 너무 어려워
+- 너무 어려운 것 같아
+- 너무 어려운 것 같다
+- 너무 어려운데
+- 너무 어렵다
+- 너무 어렵습니다
+- 너무 어려워요
+- 너무 어려웡
+- 너무 어려워 보여
+- 너무 어려울 것 같아
+- 너무 어려울 것 같다
+- 이거 너무 어려워
+- 이거 너무 어려운 것 같아
+- 이거 너무 어려운 것 같다
+- 이거 너무 어려운데
+- 이거 너무 어렵다
+- 이거 너무 어렵습니다
+- 이거 너무 어려워요
+- 이거 너무 어려웡
+- 이거 너무 어려워 보여
+- 이거 너무 어려울 것 같아
+- 이거 너무 어려울 것 같다
+- 좀 어려워
+- 좀 어려운 것 같아
+- 좀 어려운 것 같다
+- 좀 어려운데
+- 좀 어려운데?
+- 좀 어렵다
+- 좀 어렵습니다
+- 좀 어려워요
+- 좀 어려웡
+- 좀 어려워 보여
+- 좀 어려울 것 같아
+- 좀 어려울 것 같다
+- 이거 좀 어려워
+- 이거 좀 어려운 것 같아
+- 이거 좀 어려운 것 같다
+- 이거 좀 어려운데
+- 이거 좀 어렵다
+- 이거 좀 어렵습니다
+- 이거 좀 어려워요
+- 이거 좀 어려웡
+- 이거 좀 어려워 보여
+- 이거 좀 어려울 것 같아
+- 이거 좀 어려울 것 같다
+
+## intent:hard+change
+- 어려워 쉽게 해 줘
+- 어려워 쉽게 할래
+- 어려워 쉽게 바꿀래
+- 어려운 것 같아 쉽게
+- 어려운 것 같다 쉽게 바꿔 줘
+- 어려운 것 같다 쉽게 바꿀래
+- 어려운데 쉬운걸로
+- 어렵다 쉬운걸로 해 줘
+- 어렵습니다 쉬운걸로 해 주세요
+- 어려워요 쉬운걸로 바꿔 줘
+- 어려웡 쉬운걸로 바꿔 주세요
+- 어려워 보여 쉽게 해 줘요
+- 어려울 것 같아 쉽게 바꿔 줘요
+- 어려울 것 같다 쉽게 해 주세요
+- 너무 어려워 쉽게 바꿔 주세요
+- 너무 어려운 것 같아 더 쉽게 해 줘
+- 너무 어려운 것 같다 더 쉽게
+- 너무 어려운데 더 쉽게 바꿔 줘
+- 너무 어렵다 더 쉬운걸로
+- 너무 어렵습니다 더 쉬운걸로 해 줘
+- 너무 어려워요 더 쉬운걸로 해 주세요
+- 너무 어려웡 더 쉬운걸로 바꿔 줘
+- 너무 어려워 보여 더 쉬운걸로 바꿔 주세요
+- 너무 어려울 것 같아 더 쉽게 해 줘요
+- 너무 어려울 것 같다 더 쉽게 바꿔 줘요
+- 이거 너무 어려워 더 쉽게 해 주세요
+- 이거 너무 어려운 것 같아 더 쉽게 바꿔 주세요
+- 이거 너무 어려운 것 같다 쉽게 해 줘
+- 이거 너무 어려운데 쉽게
+- 이거 너무 어렵다 쉽게 바꿔 줘
+- 이거 너무 어렵습니다 쉬운걸로
+- 이거 너무 어려워요 쉬운걸로 해 줘
+- 이거 너무 어려웡 쉬운걸로 해 주세요
+- 이거 너무 어려워 보여 쉬운걸로 바꿔 줘
+- 이거 너무 어려울 것 같아 쉬운걸로 바꿔 주세요
+- 이거 너무 어려울 것 같다 쉽게 해 줘요
+- 좀 어려워 쉽게 바꿔 줘요
+- 좀 어려운 것 같아 쉽게 해 주세요
+- 좀 어려운 것 같다 쉽게 바꿔 주세요
+- 좀 어려운데 더 쉽게 해 줘
+- 좀 어렵다 더 쉽게
+- 좀 어렵습니다 더 쉽게 바꿔 줘
+- 좀 어려워요 더 쉬운걸로
+- 좀 어려웡 더 쉬운걸로 해 줘
+- 좀 어려워 보여 더 쉬운걸로 해 주세요
+- 좀 어려울 것 같아 더 쉬운걸로 바꿔 줘
+- 좀 어려울 것 같다 더 쉬운걸로 바꿔 주세요
+- 저한테는 좀 어려워 보여요. 더 쉬운걸로 해 주세요
+- 나한테는 좀 어려울 것 같아 더 쉬운걸로 바꿔 줘
+- 나한테는 좀 어려울 것 같아. 더 쉬운걸로 바꿔 줄래?
+- 이거 좀 어려워 더 쉽게 해 줘요
+- 이거 좀 어려운 것 같아 더 쉽게 바꿔 줘요
+- 이거 좀 어려운 것 같다 더 쉽게 해 주세요
+- 이거 좀 어려운데 더 쉽게 바꿔 주세요
+- 이거 좀 어렵다 쉽게 해 줘
+- 이거 좀 어렵습니다 쉽게
+- 이거 좀 어려워요 쉽게 바꿔 줘
+- 이거 좀 어려웡 쉬운걸로
+- 이거 좀 어려워 보여 쉬운걸로 해 줘
+- 이거 좀 어려울 것 같아 쉬운걸로 해 주세요
+- 이거 좀 어려울 것 같다 쉬운걸로 바꿔 줘
+- 어려우니까 쉽게 해 줘
+- 어려우니 쉽게 할래
+- 어려우니까 쉽게 바꿀래
+- 어려우니까 쉬운걸로
+- 어려우니 쉬운걸로 해 줘
+- 어려우니까 쉬운걸로 해 주세요
+- 어려우니 쉬운걸로 바꿔 줘
+- 어려우니까 쉬운걸로 바꿔 주세요
+
+## intent:hard+terminology
+- 어려워 무슨 소리야?
+- 어려운 것 같아 무슨 뜻인지 모르겠어
+- 어려운 것 같다 뭔소리야
+- 어려운데 뭔 소린지 모르겠어
+- 어렵다 뭐가 뭔지 모르겠어
+- 어렵습니다 무슨 뜻이야?
+- 어려워요 뭔소리지
+- 어려웡 무슨 소리지
+- 어려워 보여 뭔뜻이야
+- 어려울 것 같아 무슨뜻이지
+- 너무 어려워 무슨 말이야?
+- 너무 어려운 것 같아 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 뭔말이야
+- 너무 어려운데 뭔 말인지 모르겠어
+- 너무 어렵다 무슨 말이지
+- 너무 어렵습니다 뭔말이지
+- 너무 어려워요 모르겠어
+- 너무 어려웡 대체 무슨 소리야?
+- 너무 어려워 보여 대체 무슨 뜻인지 모르겠어
+- 이거 너무 어려워 대체 뭐가 뭔지 모르겠어
+- 이거 너무 어려운 것 같아 대체 무슨 뜻이야?
+- 이거 너무 어려운 것 같다 대체 뭔소리지
+- 이거 너무 어려운데 대체 무슨 소리지
+- 이거 너무 어렵다 대체 뭔뜻이야
+- 이거 너무 어렵습니다 대체 무슨뜻이지
+- 이거 너무 어려워요 대체 뭔뜻이지
+- 이거 너무 어려웡 대체 무슨 말이야?
+- 이거 너무 어려워 보여 대체 무슨 말인지 모르겠어
+- 좀 어려워 대체 무슨 말이지
+- 좀 어려운 것 같아 대체 뭔말이지
+- 좀 어려운 것 같다
+- 좀 어려운데 무슨 소리야?
+- 좀 어렵다 무슨 뜻인지 모르겠어
+- 좀 어렵습니다 뭔소리야
+- 좀 어려워요 뭔 소린지 모르겠어
+- 좀 어려웡 뭐가 뭔지 모르겠어
+- 좀 어려워 보여 무슨 뜻이야?
+- 이거 좀 어려워 뭔뜻이야
+- 이거 좀 어려운 것 같아 무슨뜻이지
+- 이거 좀 어려운 것 같다 뭔뜻이지
+- 이거 좀 어려운데 무슨 말이야?
+- 이거 좀 어렵다 무슨 말인지 모르겠어
+- 이거 좀 어렵습니다 뭔말이야
+- 이거 좀 어려워요 뭔 말인지 모르겠어
+- 이거 좀 어려웡 무슨 말이지
+- 이거 좀 어려워 보여 뭔말이지
+- 어려워 [180도 점프 스쿼트](terminology)가 무슨 소리야?
+- 어려운 것 같아 [180도 점프](terminology)가 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [4카운트 버피](terminology)가 뭔소리야
+- 어려운데 [6카운트 버피](terminology)가 뭔 소린지 모르겠어
+- 어렵다 [엘리게이터 푸시업](terminology)이 뭐야
+- 어렵습니다 [팔 뒤로 돌리기](terminology)가 무슨 뜻인가요?
+- 어려워요 [팔 앞으로 돌리기](terminology)가 뭐죠
+- 어려웡 [후방 런지](terminology)가 무슨 소리지
+- 어려워 보여 [딱정벌레 자세](terminology)가 뭔뜻이야
+- 어려울 것 같아 [벤트 레그 크로스 오버](terminology)가 무슨뜻이지
+- 너무 어려워 [바이시클 크런치](terminology)가 무슨 말이야?
+- 너무 어려운 것 같아 [브릿지](terminology)가 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [버트 키커 점프 스쿼트](terminology)가 뭔말이야
+- 너무 어려운데 [카프레이즈](terminology)가 뭔 말인지 모르겠어
+- 너무 어렵다 [고양이 자세](terminology)가 무슨 말이지
+- 너무 어렵습니다 [아기 자세](terminology)가 뭔말이지
+- 너무 어려워요 [팔 내밀어 뛰기](terminology)가 모르겠어
+- 너무 어려웡 [코블러 스트레칭](terminology)이 대체 무슨 소리야?
+- 너무 어려워 보여 [커맨더 푸시업](terminology)이 대체 무슨 뜻인지 모르겠어
+- 어려워 [테이블탑 브릿지](terminology)가 무슨 소리야?
+- 어려운 것 같아 [교차 펀치](terminology)가 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [크런치](terminology)가 뭔소리야
+- 어려운데 [컬시 런지](terminology)가 뭔 소린지 모르겠어
+- 어렵다 [디클라인 푸시업](terminology)이 뭐야
+- 어렵습니다 [덩키 킥](terminology)이 무슨 뜻인가요?
+- 어려워요 [종아리 스트레](terminology)가 뭐죠
+- 어려웡 [소화전 운동](terminology)이 무슨 소리지
+- 어려워 보여 [전속력 턱 점프 버피](terminology)가 뭔뜻이야
+- 어려울 것 같아 [전속력 버피](terminology)가 무슨뜻이지
+- 너무 어려워 [앞 점프 스쿼트](terminology)가 무슨 말이야?
+- 너무 어려운 것 같아 [전방 런지](terminology)가 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [개구리 스쿼트](terminology)가 뭔말이야
+- 너무 어려운데 [하이 니](terminology)가 뭔 말인지 모르겠어
+- 너무 어렵다 [하이 플랭크](terminology)가 무슨 말이지
+- 너무 어렵습니다 [하이 플랭크 더블 니](terminology)가 뭔말이지
+- 너무 어려워요 [하이 플랭크 잭](terminology)이 모르겠어
+- 너무 어려웡 [하이 플랭크 점핑 잭](terminology)이 대체 무슨 소리야?
+- 너무 어려워 보여 [하이 플랭크 점프](terminology)가 대체 무슨 뜻인지 모르겠어
+- 어려워 [하이 플랭크 니 크로스](terminology)가 무슨 소리야?
+- 어려운 것 같아 [하이 플랭크 니 드롭](terminology)이 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [하이 플랭크 니 투 엘보](terminology)가 뭔소리야
+- 어려운데 [하이 플랭크 레그 리프트](terminology)가 뭔 소린지 모르겠어
+- 어렵다 [하이 플랭크 림 레이즈](terminology)가 뭐야
+- 어렵습니다 [하이 사이드 플랭크](terminology)가 무슨 뜻인가요?
+- 어려워요 [힙 어브덕션](terminology)이 뭐죠
+- 어려웡 [힙 어덕션](terminology)이 무슨 소리지
+- 어려워 보여 [힙 오프너](terminology)가 뭔뜻이야
+- 어려울 것 같아 [인치웜 턱 점프](terminology)가 무슨뜻이지
+- 너무 어려워 [인치웜](terminology)이 무슨 말이야?
+- 너무 어려운 것 같아 [인클라인 푸시업](terminology)이 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [인워드 카프레이즈](terminology)가 뭔말이야
+- 너무 어려운데 [제자리 뛰기](terminology)가 뭔 말인지 모르겠어
+- 너무 어렵다 [점프 런지](terminology)가 무슨 말이지
+- 너무 어렵습니다 [점프 스쿼트](terminology)가 뭔말이지
+- 너무 어려워요 [팔 벌려 뛰기](terminology)가 모르겠어
+- 너무 어려웡 [니 커맨드 푸시업](terminology)이 대체 무슨 소리야?
+- 너무 어려워 보여 [니 내로우 투 와이드 푸시업](terminology)이 대체 무슨 뜻인지 모르겠어
+- 어려워 [니 플라이오 푸시업](terminology)이 무슨 소리야?
+- 어려운 것 같아 [니 푸시업 숄더 탭](terminology)이 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [니 푸시업 사이드 플랭크](terminology)가 뭔소리야
+- 어려운데 [니 푸시업](terminology)이 뭔 소린지 모르겠어
+- 어렵다 [니 사이드 투 사이드 푸시업](terminology)이 뭐야
+- 어렵습니다 [니 스태거드 푸시업](terminology)이 무슨 뜻인가요?
+- 어려워요 [니 턱 크런치](terminology)가 뭐죠
+- 어려워 보여 [니 업 다운](terminology)이 뭔뜻이야
+- 어려울 것 같아 [닐 앤 스탠드](terminology)가 무슨뜻이지
+- 너무 어려워 [엉덩이 굴근 스트레칭](terminology)이 무슨 말이야?
+- 너무 어려운 것 같아 [래터럴 점프 터치다운](terminology)이 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [래터럴 점프](terminology)가 뭔말이야
+- 너무 어려운데 [레그 레이즈](terminology)가 뭔 말인지 모르겠어
+- 너무 어렵다 [림 레이즈 푸시업](terminology)이 무슨 말이지
+- 너무 어렵습니다 [로우 플랭크](terminology)가 뭔말이지
+- 너무 어려워요 [로우 플랭크 암 리치](terminology)가 모르겠어
+- 너무 어려웡 [로우 플랭크 크런치](terminology)가 대체 무슨 소리야?
+- 너무 어려워 보여 [로우 플랭크 더블 니](terminology)가 대체 무슨 뜻인지 모르겠어
+- 어려워 [로우 플랭크 니 크로스](terminology)가 무슨 소리야?
+- 어려운 것 같아 [로우 플랭크 니 드롭](terminology)이 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [로우 플랭크 니 투 엘보](terminology)가 뭔소리야
+- 어려운데 [로우 플랭크 트위스트](terminology)가 뭔 소린지 모르겠어
+- 어렵다 [로우 사이드 플랭크](terminology)가 뭐야
+- 어렵습니다 [로우 사이드 플랭크 레그 리프트](terminology)가 무슨 뜻인가요?
+- 어려워요 [로우 사이드 플랭크 트위스트](terminology)가 뭐죠
+- 어려웡 [런지 앤 트위스트](terminology)가 무슨 소리지
+- 어려워 보여 [런지 하이 니 점프](terminology)가 뭔뜻이야
+- 어려울 것 같아 [런지 투 프론트 킥](terminology)이 무슨뜻이지
+- 너무 어려워 [런지 투 하이 니](terminology)가 무슨 말이야?
+- 너무 어려운 것 같아 [4자 스트레칭](terminology)이 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [마칭 월 싯](terminology)이 뭔말이야
+- 너무 어려운데 [마운틴 클라이머](terminology)가 뭔 말인지 모르겠어
+- 너무 어렵다 [내로우 6카운트 버피](terminology)가 무슨 말이지
+- 너무 어렵습니다 [내로우 니 푸시업](terminology)이 뭔말이지
+- 너무 어려워요 [내로우 푸시업](terminology)이 모르겠어
+- 너무 어려웡 [내로우 스쿼트](terminology)가 대체 무슨 소리야?
+- 너무 어려워 보여 [내로우 투 와이드 푸시업](terminology)이 대체 무슨 뜻인지 모르겠어
+- 어려워 [한발 4카운트 버피](terminology)가 무슨 소리야?
+- 어려운 것 같아 [한발 6카운트 버피](terminology)가 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [아웃워드 카프레이즈](terminology)가 뭔소리야
+- 어려운데 [오버헤드 스쿼트](terminology)가 뭔 소린지 모르겠어
+- 어렵다 [오버헤드 트라이셉 스트레칭](terminology)이 뭐야
+- 어렵습니다 [펜듈럼 런지](terminology)가 무슨 뜻인가요?
+- 어려워요 [파이크 푸시업](terminology)이 뭐죠
+- 어려웡 [피스톨 스쿼트](terminology)가 무슨 소리지
+- 어려워 보여 [피봇 런지](terminology)가 뭔뜻이야
+- 너무 어려워 [필레 점프 스쿼트](terminology)가 무슨 말이야?
+- 너무 어려운 것 같아 [필레 스쿼트](terminology)가 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [플라이오 푸시업](terminology)이 뭔말이야
+- 너무 어려운데 [프리즈너 스쿼트](terminology)가 뭔 말인지 모르겠어
+- 너무 어렵다 [엑스자 엎드리기](terminology)가 무슨 말이지
+- 너무 어렵습니다 [펄싱 스쿼트](terminology)가 뭔말이지
+- 너무 어려워요 [펀치](terminology)가 모르겠어
+- 너무 어려웡 [푸시업 잭](terminology)이 대체 무슨 소리야?
+- 너무 어려워 보여 [푸시업 숄더탭](terminology)이 대체 무슨 뜻인지 모르겠어
+- 어려워 [푸시업 사이드 플랭크](terminology)가 무슨 소리야?
+- 어려운 것 같아 [푸시업](terminology)이 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [네발 니 투 엘보](terminology)가 뭔소리야
+- 어려운데 [네발 림 레이즈](terminology)가 뭔 소린지 모르겠어
+- 어렵다 [퀵 피트](terminology)가 뭐야
+- 어렵습니다 [리버스 크런치](terminology)가 무슨 뜻인가요?
+- 어려워요 [리버스 플랭크](terminology)가 뭐죠
+- 어려웡 [록스타](terminology)가 무슨 소리지
+- 어려워 보여 [러시안 트위스트 1](terminology)이 뭔뜻이야
+- 어려울 것 같아 [러시안 트위스트 2](terminology)이 무슨뜻이지
+- 너무 어려워 [한발 균형잡기](terminology)가 무슨 말이야?
+- 너무 어려운 것 같아 [한발 테이블탑 브릿지](terminology)가 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [한발 앞뒤 뛰기](terminology)가 뭔말이야
+- 너무 어려운데 [한발 점프 스쿼트](terminology)가 뭔 말인지 모르겠어
+- 너무 어렵다 [한발 발 닿기](terminology)가 무슨 말이지
+- 너무 어렵습니다 [한발 정강이 닿기](terminology)가 뭔말이지
+- 너무 어려워요 [한발 스쿼트](terminology)가 모르겠어
+- 너무 어려웡 [시저스 킥](terminology)이 대체 무슨 소리야?
+- 너무 어려워 보여 [어깨 스트레칭](terminology)이 대체 무슨 뜻인지 모르겠어
+- 어려워 [사이드 런지 터치다운](terminology)이 무슨 소리야?
+- 어려운 것 같아 [사이드 런지](terminology)가 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [사이드 플랭크 오블리크 크런치](terminology)가 뭔소리야
+- 어려운데 [사이드 스타 플랭크](terminology)가 뭔 소린지 모르겠어
+- 어렵다 [사이드 투 사이드 푸시업](terminology)이 뭐야
+- 어렵습니다 [한발 브릿지](terminology)가 무슨 뜻인가요?
+- 어려워요 [한발 데드리프트](terminology)가 뭐죠
+- 어려웡 [한발 파이크 푸시업](terminology)이 무슨 소리지
+- 어려워 보여 [한발 푸시업](terminology)이 뭔뜻이야
+- 어려울 것 같아 [한발 브이업](terminology)이 무슨뜻이지
+- 너무 어려워 [싯업](terminology)이 무슨 말이야?
+- 너무 어려운 것 같아 [스키 복근 운동](terminology)이 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [스키 점프](terminology)가 뭔말이야
+- 너무 어려운데 [스피드 스케이팅](terminology)이 뭔 말인지 모르겠어
+- 너무 어렵다 [스쿼트 잭](terminology)이 무슨 말이지
+- 너무 어렵습니다 [스쿼트 사이드 킥](terminology)이 뭔말이지
+- 너무 어려워요 [스쿼트 스타](terminology)가 모르겠어
+- 너무 어려웡 [스쿼트 투 하이 니](terminology)가 대체 무슨 소리야?
+- 너무 어려워 보여 [스쿼트 투 하이 니 점프](terminology)가 대체 무슨 뜻인지 모르겠어
+- 어려워 [스쿼트](terminology)가 무슨 소리야?
+- 어려운 것 같아 [스쿼팅 퀵 피트](terminology)가 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [스태거드 푸시업](terminology)이 뭔소리야
+- 어려운데 [스탠딩 쿼드리셉스 스트레칭](terminology)이 뭔 소린지 모르겠어
+- 어렵다 [팔 벌려 점프 뛰기](terminology)가 뭐야
+- 어렵습니다 [스타 토 터치](terminology)가 무슨 뜻인가요?
+- 어려워요 [스트레이트 레그 바이시클 크런치](terminology)가 뭐죠
+- 어려웡 [슈퍼맨 자세](terminology)가 무슨 소리지
+- 어려워 보여 [테이블탑 크런치](terminology)가 뭔뜻이야
+- 너무 어려워 [트라이셉 딥](terminology)이 무슨 말이야?
+- 너무 어려운 것 같아 [턱 점프](terminology)가 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [타입라이터 푸시업](terminology)이 뭔말이야
+- 너무 어려운데 [얼티밋 버피](terminology)가 뭔 말인지 모르겠어
+- 너무 어렵습니다 [업 다운](terminology)이 뭔말이지
+- 너무 어려워요 [브이업](terminology)이 모르겠어
+- 너무 어려웡 [워킹 하이 니](terminology)가 대체 무슨 소리야?
+- 너무 어려워 보여 [워킹 런지](terminology)가 대체 무슨 뜻인지 모르겠어
+- 어려워 [월 브릿지](terminology)가 무슨 소리야?
+- 어려운 것 같아 [월 클라임](terminology)이 무슨 뜻인지 모르겠어
+- 어려운 것 같다 [월 핸드스탠드 킥 업](terminology)이 뭔소리야
+- 어려운데 [월 래터럴 풀 다운](terminology)이 뭔 소린지 모르겠어
+- 어렵다 [벽 짚고 가슴 스트레칭](terminology)이 뭐야
+- 어렵습니다 [벽 밀쳐내기](terminology)가 무슨 뜻인가요?
+- 어려워요 [월 싯](terminology)이 뭐죠
+- 어려웡 [와이드 클라이머 점프](terminology)가 무슨 소리지
+- 어려워 보여 [와이드 클라이머 트위스트](terminology)가 뭔뜻이야
+- 어려울 것 같아 [와이드 하이 니](terminology)가 무슨뜻이지
+- 너무 어려워 [와이드 니 푸시업](terminology)이 무슨 말이야?
+- 너무 어려운 것 같아 [와이드 브이업](terminology)이 무슨 말인지 모르겠어
+- 너무 어려운 것 같다 [와이드 푸시업](terminology)이 뭔말이야
+- 너무 어려운데 [윈드쉴드 와이퍼](terminology)가 뭔 말인지 모르겠어
+
+## intent:inquire_exercise_recommendation
+- [어깨](part) 운동 뭐 없을까?
+- [다리](part) 운동 뭐 없을까요?
+- [복근](part) 운동 뭐 없겠습니까?
+- [유산소](part) 운동 뭐 없나요?
+- [등](part) 운동 뭐 없나?
+- [팔](part) 운동 뭐 없어?
+- [가슴](part) 운동 추천해줘
+- [하체](part) 운동 추천해주십시오
+- [복근](part)을 단련하기 좋은 운동 없을까?
+- [코어](part)를 단련하기 좋은 운동 없을까요?
+- [하체](part)를 단련하기 좋은 운동 없겠습니까?
+- [심장](part)을 단련하기 좋은 운동 없나요?
+- [전신](part)을 단련하기 좋은 운동 없나?
+- [유연성](part)을 단련하기 좋은 운동 없어?
+- [상체](part)를 단련하기 좋은 운동 추천해줘
+- [어깨](part)를 단련하기 좋은 운동 추천해주십시오
+- [무릎](part)을 단련하기 좋은 운동 추천해주쇼
+- [다리](part)를 단련하기 좋은 운동 추천해주시오
+- [팔](part)을 단련하기 좋은 운동 추천해봐
+- [손목](part)을 단련하기 좋은 운동 추천해봐라
+- [가슴](part)을 단련하기 좋은 운동 추천해보십시오
+- [등](part)을 단련하기 좋은 운동 추천해보시오
+- [허리](part)를 단련하기 좋은 운동 추천해보쇼
+- [배](part)를 단련하기 좋은 운동 추천해라
+- [허벅지](part)를 단련하기 좋은 운동 추천좀
+- [엉덩이](part)를 단련하기 좋은 운동 추천해줄래?
+- [골반](part)을 단련하기 좋은 운동 추천해볼래?
+- [고관절](part)을 단련하기 좋은 운동 추천해주실래요?
+- [복근](part)을 단련하기 좋은 운동 추천해 주실 수 있나요?
+- [코어](part)를 단련하기 좋은 운동 추천해 줄래요?
+- [하체](part)를 단련하기 좋은 운동 알려줘
+- [심장](part)을 단련하기 좋은 운동 추천 받습니다
+- [전신](part)을 단련하기 좋은 운동 추천 받는다
+- [유연성](part)을 단련하기 좋은 운동 추천 받아요
+- [상체](part)를 단련하기 좋은 운동 추천 받고 싶어요
+- [어깨](part)를 단련하기 좋은 운동 추천 받고 싶어
+- [무릎](part)을 단련하기 좋은 운동 추천 좀 해 줘
+- [다리](part)를 단련하기 좋은 운동 추천 좀 해 주십시오
+- [팔](part)을 단련하기 좋은 운동 추천 좀 해 주쇼
+- [손목](part)을 단련하기 좋은 운동 추천 좀 해 주시오
+- [가슴](part)을 단련하기 좋은 운동 추천 좀 해 봐
+- [등](part)을 단련하기 좋은 운동 추천 좀 해 봐라
+- [허리](part)를 단련하기 좋은 운동 추천 좀 해 보십시오
+- [배](part)를 단련하기 좋은 운동 추천 좀 해 보시오
+- [허벅지](part)를 단련하기 좋은 운동 추천 좀 해 보쇼
+- [엉덩이](part)를 단련하기 좋은 운동 추천 좀 해라
+- [골반](part)을 단련하기 좋은 운동 추천 좀 해 줄래?
+- [고관절](part)을 단련하기 좋은 운동 추천 좀 해 볼래?
+- [복근](part)을 단련하기 좋은 운동 추천 좀 해 주실래요?
+- [코어](part)를 단련하기 좋은 운동 추천 좀 해 주실 수 있나요?
+- [하체](part)를 단련하기 좋은 운동 추천 좀 해 줄래요?
+- [복근](part) 운동 추천해주쇼
+- [코어](part) 운동 추천해주시오
+- [하체](part) 운동 추천해봐
+- [심장](part) 운동 추천해봐라
+- [전신](part) 운동 추천해보십시오
+- [유연성](part) 운동 추천해보시오
+- [상체](part) 운동 추천해보쇼
+- [어깨](part) 운동 추천해라
+- [무릎](part) 운동 추천좀
+- [다리](part) 운동 추천해줄래?
+- [팔](part) 운동 추천해볼래?
+- [손목](part) 운동 추천해주실래요?
+- [가슴](part) 운동 추천해 주실 수 있나요?
+- [등](part) 운동 추천해 줄래요?
+- [허리](part) 운동 알려줘
+- [배](part) 운동 추천 받습니다
+- [허벅지](part) 운동 추천 받는다
+- [엉덩이](part) 운동 추천 받아요
+- [골반](part) 운동 추천 받고 싶어요
+- [고관절](part) 운동 추천 받고 싶어
+- [복근](part) 운동 추천 좀 해 줘
+- [코어](part) 운동 추천 좀 해 주십시오
+- [하체](part) 운동 추천 좀 해 주쇼
+- [심장](part) 운동 추천 좀 해 주시오
+- [전신](part) 운동 추천 좀 해 봐
+- [유연성](part) 운동 추천 좀 해 봐라
+- [상체](part) 운동 추천 좀 해 보십시오
+- [어깨](part) 운동 추천 좀 해 보시오
+- [무릎](part) 운동 추천 좀 해 보쇼
+- [다리](part) 운동 추천 좀 해라
+- [팔](part) 운동 추천 좀 해 줄래?
+- [손목](part) 운동 추천 좀 해 볼래?
+- [가슴](part) 운동 추천 좀 해 주실래요?
+- [등](part) 운동 추천 좀 해 주실 수 있나요?
+- [허리](part) 운동 추천 좀 해 줄래요?
+- [배](part) 단련하기 좋은 운동 없을까?
+- [허벅지](part) 단련하기 좋은 운동 없을까요?
+- [엉덩이](part) 단련하기 좋은 운동 없겠습니까?
+- [골반](part) 단련하기 좋은 운동 없나요?
+- [고관절](part) 단련하기 좋은 운동 없나?
+- [복근](part) 단련하기 좋은 운동 없어?
+- [코어](part) 단련하기 좋은 운동 추천해줘
+- [하체](part) 단련하기 좋은 운동 추천해주십시오
+- [심장](part) 단련하기 좋은 운동 추천해주쇼
+- [전신](part) 단련하기 좋은 운동 추천해주시오
+- [유연성](part) 단련하기 좋은 운동 추천해봐
+- [상체](part) 단련하기 좋은 운동 추천해봐라
+- [어깨](part) 단련하기 좋은 운동 추천해보십시오
+- [무릎](part) 단련하기 좋은 운동 추천해보시오
+- [다리](part) 단련하기 좋은 운동 추천해보쇼
+- [팔](part) 단련하기 좋은 운동 추천해라
+- [손목](part) 단련하기 좋은 운동 추천좀
+- [가슴](part) 단련하기 좋은 운동 추천해줄래?
+- [등](part) 단련하기 좋은 운동 추천해볼래?
+- [허리](part) 단련하기 좋은 운동 추천해주실래요?
+- [배](part) 단련하기 좋은 운동 추천해 주실 수 있나요?
+- [허벅지](part) 단련하기 좋은 운동 추천해 줄래요?
+- [엉덩이](part) 단련하기 좋은 운동 알려줘
+- [골반](part) 단련하기 좋은 운동 추천 받습니다
+- [고관절](part) 단련하기 좋은 운동 추천 받는다
+- [복근](part) 단련하기 좋은 운동 추천 받아요
+- [코어](part) 단련하기 좋은 운동 추천 받고 싶어요
+- [하체](part) 단련하기 좋은 운동 추천 받고 싶어
+- [심장](part) 단련하기 좋은 운동 추천 좀 해 줘
+- [전신](part) 단련하기 좋은 운동 추천 좀 해 주십시오
+- [유연성](part) 단련하기 좋은 운동 추천 좀 해 주쇼
+- [상체](part) 단련하기 좋은 운동 추천 좀 해 주시오
+- [어깨](part) 단련하기 좋은 운동 추천 좀 해 봐
+- [무릎](part) 단련하기 좋은 운동 추천 좀 해 봐라
+- [다리](part) 단련하기 좋은 운동 추천 좀 해 보십시오
+- [팔](part) 단련하기 좋은 운동 추천 좀 해 보시오
+- [손목](part) 단련하기 좋은 운동 추천 좀 해 보쇼
+- [가슴](part) 단련하기 좋은 운동 추천 좀 해라
+- [등](part) 단련하기 좋은 운동 추천 좀 해 줄래?
+- [허리](part) 단련하기 좋은 운동 추천 좀 해 볼래?
+- [배](part) 단련하기 좋은 운동 추천 좀 해 주실래요?
+- [허벅지](part) 단련하기 좋은 운동 추천 좀 해 주실 수 있나요?
+- [엉덩이](part) 단련하기 좋은 운동 추천 좀 해 줄래요?
+- [골반](part) 단련할 만한 운동 없을까?
+- [고관절](part) 단련할 만한 운동 없을까요?
+- [복근](part) 단련할 만한 운동 없겠습니까?
+- [코어](part) 단련할 만한 운동 없나요?
+- [하체](part) 단련할 만한 운동 없나?
+- [심장](part) 단련할 만한 운동 없어?
+- [전신](part) 단련할 만한 운동 추천해줘
+- [유연성](part) 단련할 만한 운동 추천해주십시오
+- [상체](part) 단련할 만한 운동 추천해주쇼
+- [어깨](part) 단련할 만한 운동 추천해주시오
+- [무릎](part) 단련할 만한 운동 추천해봐
+- [다리](part) 단련할 만한 운동 추천해봐라
+- [팔](part) 단련할 만한 운동 추천해보십시오
+- [손목](part) 단련할 만한 운동 추천해보시오
+- [가슴](part) 단련할 만한 운동 추천해보쇼
+- [등](part) 단련할 만한 운동 추천해라
+- [허리](part) 단련할 만한 운동 추천좀
+- [배](part) 단련할 만한 운동 추천해줄래?
+- [허벅지](part) 단련할 만한 운동 추천해볼래?
+- [엉덩이](part) 단련할 만한 운동 추천해주실래요?
+- [골반](part) 단련할 만한 운동 추천해 주실 수 있나요?
+- [고관절](part) 단련할 만한 운동 추천해 줄래요?
+- [복근](part) 단련할 만한 운동 알려줘
+- [코어](part) 단련할 만한 운동 추천 받습니다
+- [하체](part) 단련할 만한 운동 추천 받는다
+- [심장](part) 단련할 만한 운동 추천 받아요
+- [전신](part) 단련할 만한 운동 추천 받고 싶어요
+- [유연성](part) 단련할 만한 운동 추천 받고 싶어
+- [상체](part) 단련할 만한 운동 추천 좀 해 줘
+- [어깨](part) 단련할 만한 운동 추천 좀 해 주십시오
+- [무릎](part) 단련할 만한 운동 추천 좀 해 주쇼
+- [다리](part) 단련할 만한 운동 추천 좀 해 주시오
+- [팔](part) 단련할 만한 운동 추천 좀 해 봐
+- [손목](part) 단련할 만한 운동 추천 좀 해 봐라
+- [가슴](part) 단련할 만한 운동 추천 좀 해 보십시오
+- [등](part) 단련할 만한 운동 추천 좀 해 보시오
+- [허리](part) 단련할 만한 운동 추천 좀 해 보쇼
+- [배](part) 단련할 만한 운동 추천 좀 해라
+- [허벅지](part) 단련할 만한 운동 추천 좀 해 줄래?
+- [엉덩이](part) 단련할 만한 운동 추천 좀 해 볼래?
+- [골반](part) 단련할 만한 운동 추천 좀 해 주실래요?
+- [고관절](part) 단련할 만한 운동 추천 좀 해 주실 수 있나요?
+- [복근](part) 단련할 만한 운동 추천 좀 해 줄래요?
+- [코어](part) 좋아지는 운동 없을까?
+- [하체](part) 좋아지는 운동 없을까요?
+- [심장](part) 좋아지는 운동 없겠습니까?
+- [전신](part) 좋아지는 운동 없나요?
+- [유연성](part) 좋아지는 운동 없나?
+- [상체](part) 좋아지는 운동 없어?
+- [어깨](part) 좋아지는 운동 추천해줘
+- [무릎](part) 좋아지는 운동 추천해주십시오
+- [다리](part) 좋아지는 운동 추천해주쇼
+- [팔](part) 좋아지는 운동 추천해주시오
+- [손목](part) 좋아지는 운동 추천해봐
+- [가슴](part) 좋아지는 운동 추천해봐라
+- [등](part) 좋아지는 운동 추천해보십시오
+- [허리](part) 좋아지는 운동 추천해보시오
+- [배](part) 좋아지는 운동 추천해보쇼
+- [허벅지](part) 좋아지는 운동 추천해라
+- [엉덩이](part) 좋아지는 운동 추천좀
+- [골반](part) 좋아지는 운동 추천해줄래?
+- [고관절](part) 좋아지는 운동 추천해볼래?
+- [복근](part) 좋아지는 운동 추천해주실래요?
+- [코어](part) 좋아지는 운동 추천해 주실 수 있나요?
+- [하체](part) 좋아지는 운동 추천해 줄래요?
+- [심장](part) 좋아지는 운동 알려줘
+- [전신](part) 좋아지는 운동 추천 받습니다
+- [유연성](part) 좋아지는 운동 추천 받는다
+- [상체](part) 좋아지는 운동 추천 받아요
+- [어깨](part) 좋아지는 운동 추천 받고 싶어요
+- [무릎](part) 좋아지는 운동 추천 받고 싶어
+- [다리](part) 좋아지는 운동 추천 좀 해 줘
+- [팔](part) 좋아지는 운동 추천 좀 해 주십시오
+- [손목](part) 좋아지는 운동 추천 좀 해 주쇼
+- [가슴](part) 좋아지는 운동 추천 좀 해 주시오
+- [등](part) 좋아지는 운동 추천 좀 해 봐
+- [허리](part) 좋아지는 운동 추천 좀 해 봐라
+- [배](part) 좋아지는 운동 추천 좀 해 보십시오
+- [허벅지](part) 좋아지는 운동 추천 좀 해 보시오
+- [엉덩이](part) 좋아지는 운동 추천 좀 해 보쇼
+- [골반](part) 좋아지는 운동 추천 좀 해라
+- [고관절](part) 좋아지는 운동 추천 좀 해 줄래?
+- [복근](part) 좋아지는 운동 추천 좀 해 볼래?
+- [코어](part) 좋아지는 운동 추천 좀 해 주실래요?
+- [하체](part) 좋아지는 운동 추천 좀 해 주실 수 있나요?
+- [심장](part) 좋아지는 운동 추천 좀 해 줄래요?
+- [전신](part) 깡패되는 운동 없을까?
+- [유연성](part) 깡패되는 운동 없을까요?
+- [상체](part) 깡패되는 운동 없겠습니까?
+- [어깨](part) 깡패되는 운동 없나요?
+- [무릎](part) 깡패되는 운동 없나?
+- [다리](part) 깡패되는 운동 없어?
+- [팔](part) 깡패되는 운동 추천해줘
+- [손목](part) 깡패되는 운동 추천해주십시오
+- [가슴](part) 깡패되는 운동 추천해주쇼
+- [등](part) 깡패되는 운동 추천해주시오
+- [허리](part) 깡패되는 운동 추천해봐
+- [배](part) 깡패되는 운동 추천해봐라
+- [허벅지](part) 깡패되는 운동 추천해보십시오
+- [엉덩이](part) 깡패되는 운동 추천해보시오
+- [골반](part) 깡패되는 운동 추천해보쇼
+- [고관절](part) 깡패되는 운동 추천해라
+- [복근](part) 깡패되는 운동 추천좀
+- [코어](part) 깡패되는 운동 추천해줄래?
+- [하체](part) 깡패되는 운동 추천해볼래?
+- [심장](part) 깡패되는 운동 추천해주실래요?
+- [전신](part) 깡패되는 운동 추천해 주실 수 있나요?
+- [유연성](part) 깡패되는 운동 추천해 줄래요?
+- [상체](part) 깡패되는 운동 알려줘
+- [어깨](part) 깡패되는 운동 추천 받습니다
+- [무릎](part) 깡패되는 운동 추천 받는다
+- [다리](part) 깡패되는 운동 추천 받아요
+- [팔](part) 깡패되는 운동 추천 받고 싶어요
+- [손목](part) 깡패되는 운동 추천 받고 싶어
+- [가슴](part) 깡패되는 운동 추천 좀 해 줘
+- [등](part) 깡패되는 운동 추천 좀 해 주십시오
+- [허리](part) 깡패되는 운동 추천 좀 해 주쇼
+- [배](part) 깡패되는 운동 추천 좀 해 주시오
+- [허벅지](part) 깡패되는 운동 추천 좀 해 봐
+- [엉덩이](part) 깡패되는 운동 추천 좀 해 봐라
+- [골반](part) 깡패되는 운동 추천 좀 해 보십시오
+- [고관절](part) 깡패되는 운동 추천 좀 해 보시오
+- [복근](part) 깡패되는 운동 추천 좀 해 보쇼
+- [코어](part) 깡패되는 운동 추천 좀 해라
+- [하체](part) 깡패되는 운동 추천 좀 해 줄래?
+- [심장](part) 깡패되는 운동 추천 좀 해 볼래?
+- [전신](part) 깡패되는 운동 추천 좀 해 주실래요?
+- [유연성](part) 깡패되는 운동 추천 좀 해 주실 수 있나요?
+- [상체](part) 깡패되는 운동 추천 좀 해 줄래요?
+- [어깨](part) 키우기 좋은 운동 없을까?
+- [무릎](part) 키우기 좋은 운동 없을까요?
+- [다리](part) 키우기 좋은 운동 없겠습니까?
+- [팔](part) 키우기 좋은 운동 없나요?
+- [손목](part) 키우기 좋은 운동 없나?
+- [가슴](part) 키우기 좋은 운동 없어?
+- [등](part) 키우기 좋은 운동 추천해줘
+- [허리](part) 키우기 좋은 운동 추천해주십시오
+- [배](part) 키우기 좋은 운동 추천해주쇼
+- [허벅지](part) 키우기 좋은 운동 추천해주시오
+- [엉덩이](part) 키우기 좋은 운동 추천해봐
+- [골반](part) 키우기 좋은 운동 추천해봐라
+- [고관절](part) 키우기 좋은 운동 추천해보십시오
+- [복근](part) 키우기 좋은 운동 추천해보시오
+- [코어](part) 키우기 좋은 운동 추천해보쇼
+- [하체](part) 키우기 좋은 운동 추천해라
+- [심장](part) 키우기 좋은 운동 추천좀
+- [전신](part) 키우기 좋은 운동 추천해줄래?
+- [유연성](part) 키우기 좋은 운동 추천해볼래?
+- [상체](part) 키우기 좋은 운동 추천해주실래요?
+- [어깨](part) 키우기 좋은 운동 추천해 주실 수 있나요?
+- [무릎](part) 키우기 좋은 운동 추천해 줄래요?
+- [다리](part) 키우기 좋은 운동 알려줘
+- [팔](part) 키우기 좋은 운동 추천 받습니다
+- [손목](part) 키우기 좋은 운동 추천 받는다
+- [가슴](part) 키우기 좋은 운동 추천 받아요
+- [등](part) 키우기 좋은 운동 추천 받고 싶어요
+- [허리](part) 키우기 좋은 운동 추천 받고 싶어
+- [배](part) 키우기 좋은 운동 추천 좀 해 줘
+- [허벅지](part) 키우기 좋은 운동 추천 좀 해 주십시오
+- [엉덩이](part) 키우기 좋은 운동 추천 좀 해 주쇼
+- [골반](part) 키우기 좋은 운동 추천 좀 해 주시오
+- [고관절](part) 키우기 좋은 운동 추천 좀 해 봐
+- [복근](part) 키우기 좋은 운동 추천 좀 해 봐라
+- [코어](part) 키우기 좋은 운동 추천 좀 해 보십시오
+- [하체](part) 키우기 좋은 운동 추천 좀 해 보시오
+- [심장](part) 키우기 좋은 운동 추천 좀 해 보쇼
+- [전신](part) 키우기 좋은 운동 추천 좀 해라
+- [유연성](part) 키우기 좋은 운동 추천 좀 해 줄래?
+- [상체](part) 키우기 좋은 운동 추천 좀 해 볼래?
+- [어깨](part) 키우기 좋은 운동 추천 좀 해 주실래요?
+- [무릎](part) 키우기 좋은 운동 추천 좀 해 주실 수 있나요?
+- [다리](part) 키우기 좋은 운동 추천 좀 해 줄래요?
+- [팔](part)에 도움이 되는 운동 없을까?
+- [손목](part)에 도움이 되는 운동 없을까요?
+- [가슴](part)에 도움이 되는 운동 없겠습니까?
+- [등](part)에 도움이 되는 운동 없나요?
+- [허리](part)에 도움이 되는 운동 없나?
+- [배](part)에 도움이 되는 운동 없어?
+- [허벅지](part)에 도움이 되는 운동 추천해줘
+- [엉덩이](part)에 도움이 되는 운동 추천해주십시오
+- [골반](part)에 도움이 되는 운동 추천해주쇼
+- [고관절](part)에 도움이 되는 운동 추천해주시오
+- [복근](part)에 도움이 되는 운동 추천해봐
+- [코어](part)에 도움이 되는 운동 추천해봐라
+- [하체](part)에 도움이 되는 운동 추천해보십시오
+- [심장](part)에 도움이 되는 운동 추천해보시오
+- [전신](part)에 도움이 되는 운동 추천해보쇼
+- [유연성](part)에 도움이 되는 운동 추천해라
+- [상체](part)에 도움이 되는 운동 추천좀
+- [어깨](part)에 도움이 되는 운동 추천해줄래?
+- [무릎](part)에 도움이 되는 운동 추천해볼래?
+- [다리](part)에 도움이 되는 운동 추천해주실래요?
+- [팔](part)에 도움이 되는 운동 추천해 주실 수 있나요?
+- [손목](part)에 도움이 되는 운동 추천해 줄래요?
+- [가슴](part)에 도움이 되는 운동 알려줘
+- [등](part)에 도움이 되는 운동 추천 받습니다
+- [허리](part)에 도움이 되는 운동 추천 받는다
+- [배](part)에 도움이 되는 운동 추천 받아요
+- [허벅지](part)에 도움이 되는 운동 추천 받고 싶어요
+- [엉덩이](part)에 도움이 되는 운동 추천 받고 싶어
+- [골반](part)에 도움이 되는 운동 추천 좀 해 줘
+- [고관절](part)에 도움이 되는 운동 추천 좀 해 주십시오
+- [복근](part)에 도움이 되는 운동 추천 좀 해 주쇼
+- [코어](part)에 도움이 되는 운동 추천 좀 해 주시오
+- [하체](part)에 도움이 되는 운동 추천 좀 해 봐
+- [심장](part)에 도움이 되는 운동 추천 좀 해 봐라
+- [전신](part)에 도움이 되는 운동 추천 좀 해 보십시오
+- [유연성](part)에 도움이 되는 운동 추천 좀 해 보시오
+- [상체](part)에 도움이 되는 운동 추천 좀 해 보쇼
+- [어깨](part)에 도움이 되는 운동 추천 좀 해라
+- [무릎](part)에 도움이 되는 운동 추천 좀 해 줄래?
+- [다리](part)에 도움이 되는 운동 추천 좀 해 볼래?
+- [팔](part)에 도움이 되는 운동 추천 좀 해 주실래요?
+- [손목](part)에 도움이 되는 운동 추천 좀 해 주실 수 있나요?
+- [가슴](part)에 도움이 되는 운동 추천 좀 해 줄래요?
+- [복근](part)
+- [코어](part)
+- [하체](part)
+- [심장](part)
+- [전신](part)
+- [유연성](part)
+- [상체](part)
+- [어깨](part)
+- [무릎](part)
+- [다리](part)
+- [팔](part)
+- [손목](part)
+- [가슴](part)
+- [등](part)
+- [허리](part)
+- [배](part)
+- [허벅지](part)
+- [엉덩이](part)
+- [골반](part)
+- [고관절](part)
+
+## intent:inquire_routine_recommendation
+- 운동 어떻게 해야함?
+- 운동 어떻게 해야하나요?
+- 운동 어케함?
+- 운동 어케하냐
+- 루틴 좀 알려줘
+- 루틴 알려줘
+- 루틴 알려주세요
+- 루틴 추천좀
+- 루틴 추천 좀 해주세요
+- 루틴 추천해줘
+- 루틴 추천
+- 루틴 뭐해야함
+- 루틴 뭐하는게 좋을까
+- 루틴 뭐할까
+- 루틴 뭐가 좋냐
+- 루틴 뭐가 좋을까
+- 루틴 뭐가 좋을까요
+- 루틴 뭐하는게 좋을까요
+- 운동 루틴 좀 알려줘
+- 운동 루틴 알려줘
+- 운동 루틴 알려주세요
+- 운동 루틴 추천좀
+- 운동 루틴 추천 좀 해주세요
+- 운동 루틴 추천해줘
+- 운동 루틴 추천
+- 운동 루틴 뭐해야함
+- 운동 루틴 뭐가 좋냐
+- 운동 루틴 뭐가 좋을까
+- 운동 루틴 뭐가 좋을까요
+- 운동 루틴 뭐하는게 좋을까요
+- 내게 맞는 루틴 좀 알려줘
+- 내게 맞는 루틴 알려줘
+- 내게 맞는 루틴 알려주세요
+- 내게 맞는 루틴 추천좀
+- 내게 맞는 루틴 추천 좀 해주세요
+- 내게 맞는 루틴 추천해줘
+- 내게 맞는 루틴 추천
+- 내게 맞는 루틴 뭐가 좋냐
+- 내게 맞는 루틴 뭐가 좋을까
+- 내게 맞는 루틴 뭐가 좋을까요
+- 내게 맞는 운동 루틴 좀 알려줘
+- 내게 맞는 운동 루틴 알려줘
+- 내게 맞는 운동 루틴 알려주세요
+- 내게 맞는 운동 루틴 추천좀
+- 내게 맞는 운동 루틴 추천 좀 해주세요
+- 내게 맞는 운동 루틴 추천해줘
+- 내게 맞는 운동 루틴 추천
+- 내게 맞는 운동 루틴 뭐가 좋냐
+- 내게 맞는 운동 루틴 뭐가 좋을까
+- 내게 맞는 운동 루틴 뭐가 좋을까요
+- 내 루틴 좀 만들어줘
+- 내 루틴 좀 만들어봐
+- 내 루틴 좀 만들어 주세요
+- 루틴 좀 만들어줘
+- 내 루틴 만들어줘
+- 내 루틴 만들어봐
+- 내 루틴 만들어 주세요
+- 루틴 만들어줘
+- 내 운동 루틴 좀 만들어줘
+- 내 운동 루틴 좀 만들어봐
+- 내 운동 루틴 좀 만들어 주세요
+- 운동 루틴 좀 만들어줘
+- 내 운동 루틴 만들어줘
+- 내 운동 루틴 만들어봐
+- 내 운동 루틴 만들어 주세요
+- 운동 루틴 만들어줘
+- 내 루틴 좀 만들어줄래?
+- 내 운동 루틴 좀 만들어줄래
+
+## intent:make_account
+- 만들어줘
+- 만들어주세요
+- 만들어 주십시오
+- 만들게
+- 만들어
+- 만들자
+- 생성해줘
+- 만들어라
+- 계정 만들어줘
+- 계정 만들어주세요
+- 계정 만들어 주십시오
+- 계정 만들게
+- 계정 만들어
+- 계정 만들자
+- 계정 생성해줘
+- 계정 만들어라
+- 내 계정 만들어줘
+- 내 계정 만들게
+- 내 계정 만들어
+- 내 계정 만들자
+- 내 계정 생성해줘
+- 내 계정 만들어라
+- 내꺼 만들어줘
+- 내꺼 만들게
+- 내꺼 만들어
+- 내꺼 만들자
+- 내꺼 생성해줘
+- 내꺼 만들어라
+
+## intent:number
+- [1회](number)
+- [2회](number)
+- [3회](number)
+- [4회](number)
+- [5회](number)
+- [6회](number)
+- [7회](number)
+- [8회](number)
+- [9회](number)
+- [10회](number)
+- [11회](number)
+- [12회](number)
+- [13회](number)
+- [14회](number)
+- [15회](number)
+- [16회](number)
+- [17회](number)
+- [18회](number)
+- [19회](number)
+- [20회](number)
+- [21회](number)
+- [22회](number)
+- [23회](number)
+- [24회](number)
+- [25회](number)
+- [26회](number)
+- [27회](number)
+- [28회](number)
+- [29회](number)
+- [30회](number)
+- [31회](number)
+- [32회](number)
+- [33회](number)
+- [34회](number)
+- [35회](number)
+- [36회](number)
+- [37회](number)
+- [38회](number)
+- [39회](number)
+- [40회](number)
+- [41회](number)
+- [42회](number)
+- [43회](number)
+- [44회](number)
+- [45회](number)
+- [46회](number)
+- [47회](number)
+- [48회](number)
+- [49회](number)
+- [50회](number)
+- [51회](number)
+- [52회](number)
+- [53회](number)
+- [54회](number)
+- [55회](number)
+- [56회](number)
+- [57회](number)
+- [58회](number)
+- [59회](number)
+- [60회](number)
+- [61회](number)
+- [62회](number)
+- [63회](number)
+- [64회](number)
+- [65회](number)
+- [66회](number)
+- [67회](number)
+- [68회](number)
+- [69회](number)
+- [70회](number)
+- [71회](number)
+- [72회](number)
+- [73회](number)
+- [74회](number)
+- [75회](number)
+- [76회](number)
+- [77회](number)
+- [78회](number)
+- [79회](number)
+- [80회](number)
+- [81회](number)
+- [82회](number)
+- [83회](number)
+- [84회](number)
+- [85회](number)
+- [86회](number)
+- [87회](number)
+- [88회](number)
+- [89회](number)
+- [90회](number)
+- [91회](number)
+- [92회](number)
+- [93회](number)
+- [94회](number)
+- [95회](number)
+- [96회](number)
+- [97회](number)
+- [98회](number)
+- [99회](number)
+- [1번](number)
+- [2번](number)
+- [3번](number)
+- [4번](number)
+- [5번](number)
+- [6번](number)
+- [7번](number)
+- [8번](number)
+- [9번](number)
+- [10번](number)
+- [11번](number)
+- [12번](number)
+- [13번](number)
+- [14번](number)
+- [15번](number)
+- [16번](number)
+- [17번](number)
+- [18번](number)
+- [19번](number)
+- [20번](number)
+- [21번](number)
+- [22번](number)
+- [23번](number)
+- [24번](number)
+- [25번](number)
+- [26번](number)
+- [27번](number)
+- [28번](number)
+- [29번](number)
+- [30번](number)
+- [31번](number)
+- [32번](number)
+- [33번](number)
+- [34번](number)
+- [35번](number)
+- [36번](number)
+- [37번](number)
+- [38번](number)
+- [39번](number)
+- [40번](number)
+- [41번](number)
+- [42번](number)
+- [43번](number)
+- [44번](number)
+- [45번](number)
+- [46번](number)
+- [47번](number)
+- [48번](number)
+- [49번](number)
+- [50번](number)
+- [51번](number)
+- [52번](number)
+- [53번](number)
+- [54번](number)
+- [55번](number)
+- [56번](number)
+- [57번](number)
+- [58번](number)
+- [59번](number)
+- [60번](number)
+- [61번](number)
+- [62번](number)
+- [63번](number)
+- [64번](number)
+- [65번](number)
+- [66번](number)
+- [67번](number)
+- [68번](number)
+- [69번](number)
+- [70번](number)
+- [71번](number)
+- [72번](number)
+- [73번](number)
+- [74번](number)
+- [75번](number)
+- [76번](number)
+- [77번](number)
+- [78번](number)
+- [79번](number)
+- [80번](number)
+- [81번](number)
+- [82번](number)
+- [83번](number)
+- [84번](number)
+- [85번](number)
+- [86번](number)
+- [87번](number)
+- [88번](number)
+- [89번](number)
+- [90번](number)
+- [91번](number)
+- [92번](number)
+- [93번](number)
+- [94번](number)
+- [95번](number)
+- [96번](number)
+- [97번](number)
+- [98번](number)
+- [99번](number)
+- [1분](number)
+- [2분](number)
+- [3분](number)
+- [4분](number)
+- [5분](number)
+- [6분](number)
+- [7분](number)
+- [8분](number)
+- [9분](number)
+- [10분](number)
+- [11분](number)
+- [12분](number)
+- [13분](number)
+- [14분](number)
+- [15분](number)
+- [16분](number)
+- [17분](number)
+- [18분](number)
+- [19분](number)
+- [20분](number)
+- [21분](number)
+- [22분](number)
+- [23분](number)
+- [24분](number)
+- [25분](number)
+- [26분](number)
+- [27분](number)
+- [28분](number)
+- [29분](number)
+- [30분](number)
+- [31분](number)
+- [32분](number)
+- [33분](number)
+- [34분](number)
+- [35분](number)
+- [36분](number)
+- [37분](number)
+- [38분](number)
+- [39분](number)
+- [40분](number)
+- [41분](number)
+- [42분](number)
+- [43분](number)
+- [44분](number)
+- [45분](number)
+- [46분](number)
+- [47분](number)
+- [48분](number)
+- [49분](number)
+- [50분](number)
+- [51분](number)
+- [52분](number)
+- [53분](number)
+- [54분](number)
+- [55분](number)
+- [56분](number)
+- [57분](number)
+- [58분](number)
+- [59분](number)
+- [60분](number)
+- [61분](number)
+- [62분](number)
+- [63분](number)
+- [64분](number)
+- [65분](number)
+- [66분](number)
+- [67분](number)
+- [68분](number)
+- [69분](number)
+- [70분](number)
+- [71분](number)
+- [72분](number)
+- [73분](number)
+- [74분](number)
+- [75분](number)
+- [76분](number)
+- [77분](number)
+- [78분](number)
+- [79분](number)
+- [80분](number)
+- [81분](number)
+- [82분](number)
+- [83분](number)
+- [84분](number)
+- [85분](number)
+- [86분](number)
+- [87분](number)
+- [88분](number)
+- [89분](number)
+- [90분](number)
+- [91분](number)
+- [92분](number)
+- [93분](number)
+- [94분](number)
+- [95분](number)
+- [96분](number)
+- [97분](number)
+- [98분](number)
+- [99분](number)
+- [1세트](number)
+- [2세트](number)
+- [3세트](number)
+- [4세트](number)
+- [5세트](number)
+- [6세트](number)
+- [7세트](number)
+- [8세트](number)
+- [9세트](number)
+- [10세트](number)
+- [11세트](number)
+- [12세트](number)
+- [13세트](number)
+- [14세트](number)
+- [15세트](number)
+- [16세트](number)
+- [17세트](number)
+- [18세트](number)
+- [19세트](number)
+- [20세트](number)
+
+## intent:problem
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 아파
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 아파요
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise)하고 있었는데 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 아파
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 아파요
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise) 중에 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise) 중에 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise) 중에 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise) 중에 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 아파
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 아파요
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise) 하다가 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise) 하다가 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise) 하다가 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise) 하다가 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 아파
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 아파요
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise) 하던 중에 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 아파
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 아파요
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise) 하니까 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise) 하니까 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise) 하니까 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise) 하니까 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 아파
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 아파요
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise) 했더니 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise) 했더니 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise) 했더니 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise) 했더니 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 아파
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 아파요
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise)을 하다 보니 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 아파
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 아파요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise)을 하니까 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise)을 하니까 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 아파
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 아파요
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise)을 하다가 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise)을 하다가 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하다가 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise)을 하다가 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 아파
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 아파요
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise)을 하던 중에 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 아파
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 아파요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise)을 하니까 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise)을 하니까 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise)을 하니까 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise)을 하니까 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 아파
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 아파요
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise)을 했더니 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise)을 했더니 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise)을 했더니 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise)을 했더니 [무릎](problem_part)이 왜 아플까
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 아픕니다
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 아파
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 아파요
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 아픈데?
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 안좋아요
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 안좋습니다
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 안좋아졌어요
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 안좋아졌습니다
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 상태가 나빠졌습니다
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 상태가 나빠졌어요
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 상태가 나빠졌어
+- [하체 운동](exercise)할 때 [무릎](problem_part) 상태가 나빠졌어
+- [하체 운동](exercise)할 때 [무릎](problem_part) 상태가 나빠졌습니다
+- [하체 운동](exercise)할 때 [무릎](problem_part) 상태가 나빠졌어요
+- [하체 운동](exercise)할 때 [무릎](problem_part)이 왜 아플까
+- [무릎](problem_part)이 아픕니다
+- [무릎](problem_part)이 아파
+- [무릎](problem_part)이 아파요
+- [무릎](problem_part)이 아픈데?
+- [무릎](problem_part)이 안좋아요
+- [무릎](problem_part)이 안좋습니다
+- [무릎](problem_part)이 안좋아졌어요
+- [무릎](problem_part)이 안좋아졌습니다
+- [무릎](problem_part)이 상태가 나빠졌습니다
+- [무릎](problem_part)이 상태가 나빠졌어요
+- [무릎](problem_part)이 상태가 나빠졌어
+- [무릎](problem_part) 상태가 나빠졌어
+- [무릎](problem_part) 상태가 나빠졌습니다
+- [무릎](problem_part) 상태가 나빠졌어요
+- [무릎](problem_part)이 왜 아플까
+- 아까부터 [무릎](problem_part)이 아픕니다
+- 아까부터 [무릎](problem_part)이 아파
+- 아까부터 [무릎](problem_part)이 아파요
+- 아까부터 [무릎](problem_part)이 아픈데?
+- 아까부터 [무릎](problem_part)이 안좋아요
+- 아까부터 [무릎](problem_part)이 안좋습니다
+- 아까부터 [무릎](problem_part)이 안좋아졌어요
+- 아까부터 [무릎](problem_part)이 안좋아졌습니다
+- 아까부터 [무릎](problem_part)이 상태가 나빠졌습니다
+- 아까부터 [무릎](problem_part)이 상태가 나빠졌어요
+- 아까부터 [무릎](problem_part)이 상태가 나빠졌어
+- 아까부터 [무릎](problem_part) 상태가 나빠졌어
+- 아까부터 [무릎](problem_part) 상태가 나빠졌습니다
+- 아까부터 [무릎](problem_part) 상태가 나빠졌어요
+- 아까부터 [무릎](problem_part)이 왜 아플까
+- [어깨](problem_part)가 아픕니다
+- [어깨](problem_part)가 아파
+- [어깨](problem_part)가 아파요
+- [어깨](problem_part)가 아픈데?
+- [어깨](problem_part)가 안좋아요
+- [어깨](problem_part)가 안좋습니다
+- [어깨](problem_part)가 안좋아졌어요
+- [어깨](problem_part)가 안좋아졌습니다
+- [어깨](problem_part)가 상태가 나빠졌습니다
+- [어깨](problem_part)가 상태가 나빠졌어요
+- [어깨](problem_part)가 상태가 나빠졌어
+- [어깨](problem_part) 상태가 나빠졌어
+- [어깨](problem_part) 상태가 나빠졌습니다
+- [어깨](problem_part) 상태가 나빠졌어요
+- [어깨](problem_part)가 왜 아플까
+- 아까부터 [어깨](problem_part)가 아픕니다
+- 아까부터 [어깨](problem_part)가 아파
+- 아까부터 [어깨](problem_part)가 아파요
+- 아까부터 [어깨](problem_part)가 아픈데?
+- 아까부터 [어깨](problem_part)가 안좋아요
+- 아까부터 [어깨](problem_part)가 안좋습니다
+- 아까부터 [어깨](problem_part)가 안좋아졌어요
+- 아까부터 [어깨](problem_part)가 안좋아졌습니다
+- 아까부터 [어깨](problem_part)가 상태가 나빠졌습니다
+- 아까부터 [어깨](problem_part)가 상태가 나빠졌어요
+- 아까부터 [어깨](problem_part)가 상태가 나빠졌어
+- 아까부터 [어깨](problem_part) 상태가 나빠졌어
+- 아까부터 [어깨](problem_part) 상태가 나빠졌습니다
+- 아까부터 [어깨](problem_part) 상태가 나빠졌어요
+- 아까부터 [어깨](problem_part)가 왜 아플까
+- [손목](problem_part)이 아픕니다
+- [손목](problem_part)이 아파
+- [손목](problem_part)이 아파요
+- [손목](problem_part)이 아픈데?
+- [손목](problem_part)이 안좋아요
+- [손목](problem_part)이 안좋습니다
+- [손목](problem_part)이 안좋아졌어요
+- [손목](problem_part)이 안좋아졌습니다
+- [손목](problem_part)이 상태가 나빠졌습니다
+- [손목](problem_part)이 상태가 나빠졌어요
+- [손목](problem_part)이 상태가 나빠졌어
+- [손목](problem_part) 상태가 나빠졌어
+- [손목](problem_part) 상태가 나빠졌습니다
+- [손목](problem_part) 상태가 나빠졌어요
+- [손목](problem_part)이 왜 아플까
+- 아까부터 [손목](problem_part)이 아픕니다
+- 아까부터 [손목](problem_part)이 아파
+- 아까부터 [손목](problem_part)이 아파요
+- 아까부터 [손목](problem_part)이 아픈데?
+- 아까부터 [손목](problem_part)이 안좋아요
+- 아까부터 [손목](problem_part)이 안좋습니다
+- 아까부터 [손목](problem_part)이 안좋아졌어요
+- 아까부터 [손목](problem_part)이 안좋아졌습니다
+- 아까부터 [손목](problem_part)이 상태가 나빠졌습니다
+- 아까부터 [손목](problem_part)이 상태가 나빠졌어요
+- 아까부터 [손목](problem_part)이 상태가 나빠졌어
+- 아까부터 [손목](problem_part) 상태가 나빠졌어
+- 아까부터 [손목](problem_part) 상태가 나빠졌습니다
+- 아까부터 [손목](problem_part) 상태가 나빠졌어요
+- 아까부터 [손목](problem_part)이 왜 아플까
+- [발목](problem_part)이 아픕니다
+- [발목](problem_part)이 아파
+- [발목](problem_part)이 아파요
+- [발목](problem_part)이 아픈데?
+- [발목](problem_part)이 안좋아요
+- [발목](problem_part)이 안좋습니다
+- [발목](problem_part)이 안좋아졌어요
+- [발목](problem_part)이 안좋아졌습니다
+- [발목](problem_part)이 상태가 나빠졌습니다
+- [발목](problem_part)이 상태가 나빠졌어요
+- [발목](problem_part)이 상태가 나빠졌어
+- [발목](problem_part) 상태가 나빠졌어
+- [발목](problem_part) 상태가 나빠졌습니다
+- [발목](problem_part) 상태가 나빠졌어요
+- [발목](problem_part)이 왜 아플까
+- 아까부터 [발목](problem_part)이 아픕니다
+- 아까부터 [발목](problem_part)이 아파
+- 아까부터 [발목](problem_part)이 아파요
+- 아까부터 [발목](problem_part)이 아픈데?
+- 아까부터 [발목](problem_part)이 안좋아요
+- 아까부터 [발목](problem_part)이 안좋습니다
+- 아까부터 [발목](problem_part)이 안좋아졌어요
+- 아까부터 [발목](problem_part)이 안좋아졌습니다
+- 아까부터 [발목](problem_part)이 상태가 나빠졌습니다
+- 아까부터 [발목](problem_part)이 상태가 나빠졌어요
+- 아까부터 [발목](problem_part)이 상태가 나빠졌어
+- 아까부터 [발목](problem_part) 상태가 나빠졌어
+- 아까부터 [발목](problem_part) 상태가 나빠졌습니다
+- 아까부터 [발목](problem_part) 상태가 나빠졌어요
+- 아까부터 [발목](problem_part)이 왜 아플까
+- [허리](problem_part)가 아픕니다
+- [허리](problem_part)가 아파
+- [허리](problem_part)가 아파요
+- [허리](problem_part)가 아픈데?
+- [허리](problem_part)가 안좋아요
+- [허리](problem_part)가 안좋습니다
+- [허리](problem_part)가 안좋아졌어요
+- [허리](problem_part)가 안좋아졌습니다
+- [허리](problem_part)가 상태가 나빠졌습니다
+- [허리](problem_part)가 상태가 나빠졌어요
+- [허리](problem_part)가 상태가 나빠졌어
+- [허리](problem_part) 상태가 나빠졌어
+- [허리](problem_part) 상태가 나빠졌습니다
+- [허리](problem_part) 상태가 나빠졌어요
+- [허리](problem_part)가 왜 아플까
+- 아까부터 [허리](problem_part)가 아픕니다
+- 아까부터 [허리](problem_part)가 아파
+- 아까부터 [허리](problem_part)가 아파요
+- 아까부터 [허리](problem_part)가 아픈데?
+- 아까부터 [허리](problem_part)가 안좋아요
+- 아까부터 [허리](problem_part)가 안좋습니다
+- 아까부터 [허리](problem_part)가 안좋아졌어요
+- 아까부터 [허리](problem_part)가 안좋아졌습니다
+- 아까부터 [허리](problem_part)가 상태가 나빠졌습니다
+- 아까부터 [허리](problem_part)가 상태가 나빠졌어요
+- 아까부터 [허리](problem_part)가 상태가 나빠졌어
+- 아까부터 [허리](problem_part) 상태가 나빠졌어
+- 아까부터 [허리](problem_part) 상태가 나빠졌습니다
+- 아까부터 [허리](problem_part) 상태가 나빠졌어요
+- 아까부터 [허리](problem_part)가 왜 아플까
+- [고관절](problem_part)이 아픕니다
+- [고관절](problem_part)이 아파
+- [고관절](problem_part)이 아파요
+- [고관절](problem_part)이 아픈데?
+- [고관절](problem_part)이 안좋아요
+- [고관절](problem_part)이 안좋습니다
+- [고관절](problem_part)이 안좋아졌어요
+- [고관절](problem_part)이 안좋아졌습니다
+- [고관절](problem_part)이 상태가 나빠졌습니다
+- [고관절](problem_part)이 상태가 나빠졌어요
+- [고관절](problem_part)이 상태가 나빠졌어
+- [고관절](problem_part) 상태가 나빠졌어
+- [고관절](problem_part) 상태가 나빠졌습니다
+- [고관절](problem_part) 상태가 나빠졌어요
+- [고관절](problem_part)이 왜 아플까
+- 아까부터 [고관절](problem_part)이 아픕니다
+- 아까부터 [고관절](problem_part)이 아파
+- 아까부터 [고관절](problem_part)이 아파요
+- 아까부터 [고관절](problem_part)이 아픈데?
+- 아까부터 [고관절](problem_part)이 안좋아요
+- 아까부터 [고관절](problem_part)이 안좋습니다
+- 아까부터 [고관절](problem_part)이 안좋아졌어요
+- 아까부터 [고관절](problem_part)이 안좋아졌습니다
+- 아까부터 [고관절](problem_part)이 상태가 나빠졌습니다
+- 아까부터 [고관절](problem_part)이 상태가 나빠졌어요
+- 아까부터 [고관절](problem_part)이 상태가 나빠졌어
+- 아까부터 [고관절](problem_part) 상태가 나빠졌어
+- 아까부터 [고관절](problem_part) 상태가 나빠졌습니다
+- 아까부터 [고관절](problem_part) 상태가 나빠졌어요
+- 아까부터 [고관절](problem_part)이 왜 아플까
+- [골반](problem_part)이 아픕니다
+- [골반](problem_part)이 아파
+- [골반](problem_part)이 아파요
+- [골반](problem_part)이 아픈데?
+- [골반](problem_part)이 안좋아요
+- [골반](problem_part)이 안좋습니다
+- [골반](problem_part)이 안좋아졌어요
+- [골반](problem_part)이 안좋아졌습니다
+- [골반](problem_part)이 상태가 나빠졌습니다
+- [골반](problem_part)이 상태가 나빠졌어요
+- [골반](problem_part)이 상태가 나빠졌어
+- [골반](problem_part) 상태가 나빠졌어
+- [골반](problem_part) 상태가 나빠졌습니다
+- [골반](problem_part) 상태가 나빠졌어요
+- [골반](problem_part)이 왜 아플까
+- 아까부터 [골반](problem_part)이 아픕니다
+- 아까부터 [골반](problem_part)이 아파
+- 아까부터 [골반](problem_part)이 아파요
+- 아까부터 [골반](problem_part)이 아픈데?
+- 아까부터 [골반](problem_part)이 안좋아요
+- 아까부터 [골반](problem_part)이 안좋습니다
+- 아까부터 [골반](problem_part)이 안좋아졌어요
+- 아까부터 [골반](problem_part)이 안좋아졌습니다
+- 아까부터 [골반](problem_part)이 상태가 나빠졌습니다
+- 아까부터 [골반](problem_part)이 상태가 나빠졌어요
+- 아까부터 [골반](problem_part)이 상태가 나빠졌어
+- 아까부터 [골반](problem_part) 상태가 나빠졌어
+- 아까부터 [골반](problem_part) 상태가 나빠졌습니다
+- 아까부터 [골반](problem_part) 상태가 나빠졌어요
+- 아까부터 [골반](problem_part)이 왜 아플까
+- [180도 점프 스쿼트](exercise)를 할 때 문제가 생겼어
+- [180도 점프 스쿼트](exercise)할 때 상태가 안좋아졌어
+- [180도 점프 스쿼트](exercise) 할 때 문제가 생겼어
+- [180도 점프 스쿼트](exercise) 할 때 상태가 안좋아졌어
+- [180도 점프](exercise)를 할 때 뭔가 안좋아
+- [180도 점프](exercise)할 때 좀 이상한데
+- [180도 점프](exercise) 할 때 뭔가 안좋아
+- [180도 점프](exercise) 할 때 좀 이상한데
+- [4카운트 버피](exercise)를 할 때 뭔가 안좋은데
+- [4카운트 버피](exercise)할 때 좀 이상하다
+- [4카운트 버피](exercise) 할 때 뭔가 안좋은데
+- [4카운트 버피](exercise) 할 때 좀 이상하다
+- [6카운트 버피](exercise)를 할 때 뭔가 안좋다
+- [6카운트 버피](exercise)할 때 좀 이상해
+- [6카운트 버피](exercise) 할 때 뭔가 안좋다
+- [6카운트 버피](exercise) 할 때 좀 이상해
+- [엘리게이터 푸시업](exercise)을 할 때 상태가 안좋아
+- [엘리게이터 푸시업](exercise)할 때 문제가 생겼어
+- [엘리게이터 푸시업](exercise) 할 때 상태가 안좋아
+- [엘리게이터 푸시업](exercise) 할 때 문제가 생겼어
+- [팔 뒤로 돌리기](exercise)를 할 때 상태가 안좋아요
+- [팔 뒤로 돌리기](exercise)하는데 문제가 생겼어
+- [팔 뒤로 돌리기](exercise) 할 때 상태가 안좋아요
+- [팔 뒤로 돌리기](exercise) 하는데 문제가 생겼어
+- [팔 앞으로 돌리기](exercise)를 할 때 상태가 안좋습니다
+- [팔 앞으로 돌리기](exercise)하다가 문제가 생겼어
+- [팔 앞으로 돌리기](exercise) 할 때 상태가 안좋습니다
+- [팔 앞으로 돌리기](exercise) 하다가 문제가 생겼어
+- [후방 런지](exercise)할 때 문제가 생겼어
+- [후방 런지](exercise)를 할 때 상태가 안좋아졌어
+- [후방 런지](exercise) 할 때 문제가 생겼어
+- [후방 런지](exercise) 할 때 상태가 안좋아졌어
+- [딱정벌레 자세](exercise)할 때 뭔가 안좋아
+- [딱정벌레 자세](exercise)를 할 때 좀 이상한데
+- [딱정벌레 자세](exercise) 할 때 뭔가 안좋아
+- [딱정벌레 자세](exercise) 할 때 좀 이상한데
+- [벤트 레그 크로스 오버](exercise)할 때 뭔가 안좋은데
+- [벤트 레그 크로스 오버](exercise)를 할 때 좀 이상하다
+- [벤트 레그 크로스 오버](exercise) 할 때 뭔가 안좋은데
+- [벤트 레그 크로스 오버](exercise) 할 때 좀 이상하다
+- [바이시클 크런치](exercise)할 때 뭔가 안좋다
+- [바이시클 크런치](exercise)를 할 때 좀 이상해
+- [바이시클 크런치](exercise) 할 때 뭔가 안좋다
+- [바이시클 크런치](exercise) 할 때 좀 이상해
+- [브릿지](exercise)할 때 상태가 안좋아
+- [브릿지](exercise)를 할 때 문제가 생겼어
+- [브릿지](exercise) 할 때 상태가 안좋아
+- [브릿지](exercise) 할 때 문제가 생겼어
+- [버트 키커 점프 스쿼트](exercise)할 때 상태가 안좋아요
+- [버트 키커 점프 스쿼트](exercise)를 하는데 문제가 생겼어
+- [버트 키커 점프 스쿼트](exercise) 할 때 상태가 안좋아요
+- [버트 키커 점프 스쿼트](exercise) 하는데 문제가 생겼어
+- [카프레이즈](exercise)할 때 상태가 안좋습니다
+- [카프레이즈](exercise)를 하다가 문제가 생겼어
+- [카프레이즈](exercise) 할 때 상태가 안좋습니다
+- [카프레이즈](exercise) 하다가 문제가 생겼어
+- [고양이 자세](exercise)를 할 때 문제가 생겼어
+- [고양이 자세](exercise)할 때 상태가 안좋아졌어
+- [고양이 자세](exercise) 할 때 문제가 생겼어
+- [고양이 자세](exercise) 할 때 상태가 안좋아졌어
+- [아기 자세](exercise)를 할 때 뭔가 안좋아
+- [아기 자세](exercise)할 때 좀 이상한데
+- [아기 자세](exercise) 할 때 뭔가 안좋아
+- [아기 자세](exercise) 할 때 좀 이상한데
+- [팔 내밀어 뛰기](exercise)를 할 때 뭔가 안좋은데
+- [팔 내밀어 뛰기](exercise)할 때 좀 이상하다
+- [팔 내밀어 뛰기](exercise) 할 때 뭔가 안좋은데
+- [팔 내밀어 뛰기](exercise) 할 때 좀 이상하다
+- [코블러 스트레칭](exercise)을 할 때 뭔가 안좋다
+- [코블러 스트레칭](exercise)할 때 좀 이상해
+- [코블러 스트레칭](exercise) 할 때 뭔가 안좋다
+- [코블러 스트레칭](exercise) 할 때 좀 이상해
+- [커맨더 푸시업](exercise)을 할 때 상태가 안좋아
+- [커맨더 푸시업](exercise)할 때 문제가 생겼어
+- [커맨더 푸시업](exercise) 할 때 상태가 안좋아
+- [커맨더 푸시업](exercise) 할 때 문제가 생겼어
+- [테이블탑 브릿지](exercise)를 할 때 상태가 안좋아요
+- [테이블탑 브릿지](exercise)하는데 문제가 생겼어
+- [테이블탑 브릿지](exercise) 할 때 상태가 안좋아요
+- [테이블탑 브릿지](exercise) 하는데 문제가 생겼어
+- [교차 펀치](exercise)를 할 때 상태가 안좋습니다
+- [교차 펀치](exercise)하다가 문제가 생겼어
+- [교차 펀치](exercise) 할 때 상태가 안좋습니다
+- [교차 펀치](exercise) 하다가 문제가 생겼어
+- [크런치](exercise)할 때 문제가 생겼어
+- [크런치](exercise)를 할 때 상태가 안좋아졌어
+- [크런치](exercise) 할 때 문제가 생겼어
+- [크런치](exercise) 할 때 상태가 안좋아졌어
+- [컬시 런지](exercise)할 때 뭔가 안좋아
+- [컬시 런지](exercise)를 할 때 좀 이상한데
+- [컬시 런지](exercise) 할 때 뭔가 안좋아
+- [컬시 런지](exercise) 할 때 좀 이상한데
+- [디클라인 푸시업](exercise)할 때 뭔가 안좋은데
+- [디클라인 푸시업](exercise)을 할 때 좀 이상하다
+- [디클라인 푸시업](exercise) 할 때 뭔가 안좋은데
+- [디클라인 푸시업](exercise) 할 때 좀 이상하다
+- [덩키 킥](exercise)할 때 뭔가 안좋다
+- [덩키 킥](exercise)을 할 때 좀 이상해
+- [덩키 킥](exercise) 할 때 뭔가 안좋다
+- [덩키 킥](exercise) 할 때 좀 이상해
+- [종아리 스트레](exercise)할 때 상태가 안좋아
+- [종아리 스트레](exercise)를 할 때 문제가 생겼어
+- [종아리 스트레](exercise) 할 때 상태가 안좋아
+- [종아리 스트레](exercise) 할 때 문제가 생겼어
+- [소화전 운동](exercise)할 때 상태가 안좋아요
+- [소화전 운동](exercise)을 하는데 문제가 생겼어
+- [소화전 운동](exercise) 할 때 상태가 안좋아요
+- [소화전 운동](exercise) 하는데 문제가 생겼어
+- [전속력 턱 점프 버피](exercise)할 때 상태가 안좋습니다
+- [전속력 턱 점프 버피](exercise)를 하다가 문제가 생겼어
+- [전속력 턱 점프 버피](exercise) 할 때 상태가 안좋습니다
+- [전속력 턱 점프 버피](exercise) 하다가 문제가 생겼어
+- [전속력 버피](exercise)를 할 때 문제가 생겼어
+- [전속력 버피](exercise)할 때 상태가 안좋아졌어
+- [전속력 버피](exercise) 할 때 문제가 생겼어
+- [전속력 버피](exercise) 할 때 상태가 안좋아졌어
+- [앞 점프 스쿼트](exercise)를 할 때 뭔가 안좋아
+- [앞 점프 스쿼트](exercise)할 때 좀 이상한데
+- [앞 점프 스쿼트](exercise) 할 때 뭔가 안좋아
+- [앞 점프 스쿼트](exercise) 할 때 좀 이상한데
+- [전방 런지](exercise)를 할 때 뭔가 안좋은데
+- [전방 런지](exercise)할 때 좀 이상하다
+- [전방 런지](exercise) 할 때 뭔가 안좋은데
+- [전방 런지](exercise) 할 때 좀 이상하다
+- [개구리 스쿼트](exercise)를 할 때 뭔가 안좋다
+- [개구리 스쿼트](exercise)할 때 좀 이상해
+- [개구리 스쿼트](exercise) 할 때 뭔가 안좋다
+- [개구리 스쿼트](exercise) 할 때 좀 이상해
+- [하이 니](exercise)를 할 때 상태가 안좋아
+- [하이 니](exercise)할 때 문제가 생겼어
+- [하이 니](exercise) 할 때 상태가 안좋아
+- [하이 니](exercise) 할 때 문제가 생겼어
+- [하이 플랭크](exercise)를 할 때 상태가 안좋아요
+- [하이 플랭크](exercise)하는데 문제가 생겼어
+- [하이 플랭크](exercise) 할 때 상태가 안좋아요
+- [하이 플랭크](exercise) 하는데 문제가 생겼어
+- [하이 플랭크 더블 니](exercise)를 할 때 상태가 안좋습니다
+- [하이 플랭크 더블 니](exercise)하다가 문제가 생겼어
+- [하이 플랭크 더블 니](exercise) 할 때 상태가 안좋습니다
+- [하이 플랭크 더블 니](exercise) 하다가 문제가 생겼어
+- [하이 플랭크 잭](exercise)할 때 문제가 생겼어
+- [하이 플랭크 잭](exercise)을 할 때 상태가 안좋아졌어
+- [하이 플랭크 잭](exercise) 할 때 문제가 생겼어
+- [하이 플랭크 잭](exercise) 할 때 상태가 안좋아졌어
+- [하이 플랭크 점핑 잭](exercise)할 때 뭔가 안좋아
+- [하이 플랭크 점핑 잭](exercise)을 할 때 좀 이상한데
+- [하이 플랭크 점핑 잭](exercise) 할 때 뭔가 안좋아
+- [하이 플랭크 점핑 잭](exercise) 할 때 좀 이상한데
+- [하이 플랭크 점프](exercise)할 때 뭔가 안좋은데
+- [하이 플랭크 점프](exercise)를 할 때 좀 이상하다
+- [하이 플랭크 점프](exercise) 할 때 뭔가 안좋은데
+- [하이 플랭크 점프](exercise) 할 때 좀 이상하다
+- [하이 플랭크 니 크로스](exercise)할 때 뭔가 안좋다
+- [하이 플랭크 니 크로스](exercise)를 할 때 좀 이상해
+- [하이 플랭크 니 크로스](exercise) 할 때 뭔가 안좋다
+- [하이 플랭크 니 크로스](exercise) 할 때 좀 이상해
+- [하이 플랭크 니 드롭](exercise)할 때 상태가 안좋아
+- [하이 플랭크 니 드롭](exercise)을 할 때 문제가 생겼어
+- [하이 플랭크 니 드롭](exercise) 할 때 상태가 안좋아
+- [하이 플랭크 니 드롭](exercise) 할 때 문제가 생겼어
+- [하이 플랭크 니 투 엘보](exercise)할 때 상태가 안좋아요
+- [하이 플랭크 니 투 엘보](exercise)를 하는데 문제가 생겼어
+- [하이 플랭크 니 투 엘보](exercise) 할 때 상태가 안좋아요
+- [하이 플랭크 니 투 엘보](exercise) 하는데 문제가 생겼어
+- [하이 플랭크 레그 리프트](exercise)할 때 상태가 안좋습니다
+- [하이 플랭크 레그 리프트](exercise)를 하다가 문제가 생겼어
+- [하이 플랭크 레그 리프트](exercise) 할 때 상태가 안좋습니다
+- [하이 플랭크 레그 리프트](exercise) 하다가 문제가 생겼어
+- [하이 플랭크 림 레이즈](exercise)를 할 때 문제가 생겼어
+- [하이 플랭크 림 레이즈](exercise)할 때 상태가 안좋아졌어
+- [하이 플랭크 림 레이즈](exercise) 할 때 문제가 생겼어
+- [하이 플랭크 림 레이즈](exercise) 할 때 상태가 안좋아졌어
+- [하이 사이드 플랭크](exercise)를 할 때 뭔가 안좋아
+- [하이 사이드 플랭크](exercise)할 때 좀 이상한데
+- [하이 사이드 플랭크](exercise) 할 때 뭔가 안좋아
+- [하이 사이드 플랭크](exercise) 할 때 좀 이상한데
+- [힙 어브덕션](exercise)을 할 때 뭔가 안좋은데
+- [힙 어브덕션](exercise)할 때 좀 이상하다
+- [힙 어브덕션](exercise) 할 때 뭔가 안좋은데
+- [힙 어브덕션](exercise) 할 때 좀 이상하다
+- [힙 어덕션](exercise)을 할 때 뭔가 안좋다
+- [힙 어덕션](exercise)할 때 좀 이상해
+- [힙 어덕션](exercise) 할 때 뭔가 안좋다
+- [힙 어덕션](exercise) 할 때 좀 이상해
+- [힙 오프너](exercise)를 할 때 상태가 안좋아
+- [힙 오프너](exercise)할 때 문제가 생겼어
+- [힙 오프너](exercise) 할 때 상태가 안좋아
+- [힙 오프너](exercise) 할 때 문제가 생겼어
+- [인치웜 턱 점프](exercise)를 할 때 상태가 안좋아요
+- [인치웜 턱 점프](exercise)하는데 문제가 생겼어
+- [인치웜 턱 점프](exercise) 할 때 상태가 안좋아요
+- [인치웜 턱 점프](exercise) 하는데 문제가 생겼어
+- [인치웜](exercise)을 할 때 상태가 안좋습니다
+- [인치웜](exercise)하다가 문제가 생겼어
+- [인치웜](exercise) 할 때 상태가 안좋습니다
+- [인치웜](exercise) 하다가 문제가 생겼어
+- [인클라인 푸시업](exercise)할 때 문제가 생겼어
+- [인클라인 푸시업](exercise)을 할 때 상태가 안좋아졌어
+- [인클라인 푸시업](exercise) 할 때 문제가 생겼어
+- [인클라인 푸시업](exercise) 할 때 상태가 안좋아졌어
+- [인워드 카프레이즈](exercise)할 때 뭔가 안좋아
+- [인워드 카프레이즈](exercise)를 할 때 좀 이상한데
+- [인워드 카프레이즈](exercise) 할 때 뭔가 안좋아
+- [인워드 카프레이즈](exercise) 할 때 좀 이상한데
+- [제자리 뛰기](exercise)할 때 뭔가 안좋은데
+- [제자리 뛰기](exercise)를 할 때 좀 이상하다
+- [제자리 뛰기](exercise) 할 때 뭔가 안좋은데
+- [제자리 뛰기](exercise) 할 때 좀 이상하다
+- [점프 런지](exercise)할 때 뭔가 안좋다
+- [점프 런지](exercise)를 할 때 좀 이상해
+- [점프 런지](exercise) 할 때 뭔가 안좋다
+- [점프 런지](exercise) 할 때 좀 이상해
+- [점프 스쿼트](exercise)할 때 상태가 안좋아
+- [점프 스쿼트](exercise)를 할 때 문제가 생겼어
+- [점프 스쿼트](exercise) 할 때 상태가 안좋아
+- [점프 스쿼트](exercise) 할 때 문제가 생겼어
+- [팔 벌려 뛰기](exercise)할 때 상태가 안좋아요
+- [팔 벌려 뛰기](exercise)를 하는데 문제가 생겼어
+- [팔 벌려 뛰기](exercise) 할 때 상태가 안좋아요
+- [팔 벌려 뛰기](exercise) 하는데 문제가 생겼어
+- [니 커맨드 푸시업](exercise)할 때 상태가 안좋습니다
+- [니 커맨드 푸시업](exercise)을 하다가 문제가 생겼어
+- [니 커맨드 푸시업](exercise) 할 때 상태가 안좋습니다
+- [니 커맨드 푸시업](exercise) 하다가 문제가 생겼어
+- [니 내로우 투 와이드 푸시업](exercise)을 할 때 문제가 생겼어
+- [니 내로우 투 와이드 푸시업](exercise)할 때 상태가 안좋아졌어
+- [니 내로우 투 와이드 푸시업](exercise) 할 때 문제가 생겼어
+- [니 내로우 투 와이드 푸시업](exercise) 할 때 상태가 안좋아졌어
+- [니 플라이오 푸시업](exercise)을 할 때 뭔가 안좋아
+- [니 플라이오 푸시업](exercise)할 때 좀 이상한데
+- [니 플라이오 푸시업](exercise) 할 때 뭔가 안좋아
+- [니 플라이오 푸시업](exercise) 할 때 좀 이상한데
+- [니 푸시업 숄더 탭](exercise)을 할 때 뭔가 안좋은데
+- [니 푸시업 숄더 탭](exercise)할 때 좀 이상하다
+- [니 푸시업 숄더 탭](exercise) 할 때 뭔가 안좋은데
+- [니 푸시업 숄더 탭](exercise) 할 때 좀 이상하다
+- [니 푸시업 사이드 플랭크](exercise)를 할 때 뭔가 안좋다
+- [니 푸시업 사이드 플랭크](exercise)할 때 좀 이상해
+- [니 푸시업 사이드 플랭크](exercise) 할 때 뭔가 안좋다
+- [니 푸시업 사이드 플랭크](exercise) 할 때 좀 이상해
+- [니 푸시업](exercise)을 할 때 상태가 안좋아
+- [니 푸시업](exercise)할 때 문제가 생겼어
+- [니 푸시업](exercise) 할 때 상태가 안좋아
+- [니 푸시업](exercise) 할 때 문제가 생겼어
+- [니 사이드 투 사이드 푸시업](exercise)을 할 때 상태가 안좋아요
+- [니 사이드 투 사이드 푸시업](exercise)하는데 문제가 생겼어
+- [니 사이드 투 사이드 푸시업](exercise) 할 때 상태가 안좋아요
+- [니 사이드 투 사이드 푸시업](exercise) 하는데 문제가 생겼어
+- [니 스태거드 푸시업](exercise)을 할 때 상태가 안좋습니다
+- [니 스태거드 푸시업](exercise)하다가 문제가 생겼어
+- [니 스태거드 푸시업](exercise) 할 때 상태가 안좋습니다
+- [니 스태거드 푸시업](exercise) 하다가 문제가 생겼어
+- [니 턱 크런치](exercise)할 때 문제가 생겼어
+- [니 턱 크런치](exercise)를 할 때 상태가 안좋아졌어
+- [니 턱 크런치](exercise) 할 때 문제가 생겼어
+- [니 턱 크런치](exercise) 할 때 상태가 안좋아졌어
+- [니 업 다운](exercise)할 때 뭔가 안좋은데
+- [니 업 다운](exercise)을 할 때 좀 이상하다
+- [닐 앤 스탠드](exercise)할 때 뭔가 안좋다
+- [닐 앤 스탠드](exercise)를 할 때 좀 이상해
+- [닐 앤 스탠드](exercise) 할 때 뭔가 안좋다
+- [닐 앤 스탠드](exercise) 할 때 좀 이상해
+- [엉덩이 굴근 스트레칭](exercise)할 때 상태가 안좋아
+- [엉덩이 굴근 스트레칭](exercise)을 할 때 문제가 생겼어
+- [엉덩이 굴근 스트레칭](exercise) 할 때 상태가 안좋아
+- [엉덩이 굴근 스트레칭](exercise) 할 때 문제가 생겼어
+- [래터럴 점프 터치다운](exercise)할 때 상태가 안좋아요
+- [래터럴 점프 터치다운](exercise)을 하는데 문제가 생겼어
+- [래터럴 점프](exercise)할 때 상태가 안좋습니다
+- [래터럴 점프](exercise)를 하다가 문제가 생겼어
+- [래터럴 점프](exercise) 할 때 상태가 안좋습니다
+- [래터럴 점프](exercise) 하다가 문제가 생겼어
+- [레그 레이즈](exercise)를 할 때 문제가 생겼어
+- [레그 레이즈](exercise)할 때 상태가 안좋아졌어
+- [레그 레이즈](exercise) 할 때 문제가 생겼어
+- [레그 레이즈](exercise) 할 때 상태가 안좋아졌어
+- [림 레이즈 푸시업](exercise)을 할 때 뭔가 안좋아
+- [림 레이즈 푸시업](exercise)할 때 좀 이상한데
+- [림 레이즈 푸시업](exercise) 할 때 뭔가 안좋아
+- [림 레이즈 푸시업](exercise) 할 때 좀 이상한데
+- [로우 플랭크](exercise)를 할 때 뭔가 안좋은데
+- [로우 플랭크](exercise)할 때 좀 이상하다
+- [로우 플랭크](exercise) 할 때 뭔가 안좋은데
+- [로우 플랭크](exercise) 할 때 좀 이상하다
+- [로우 플랭크 암 리치](exercise)를 할 때 뭔가 안좋다
+- [로우 플랭크 암 리치](exercise)할 때 좀 이상해
+- [로우 플랭크 암 리치](exercise) 할 때 뭔가 안좋다
+- [로우 플랭크 암 리치](exercise) 할 때 좀 이상해
+- [로우 플랭크 크런치](exercise)를 할 때 상태가 안좋아
+- [로우 플랭크 크런치](exercise)할 때 문제가 생겼어
+- [로우 플랭크 크런치](exercise) 할 때 상태가 안좋아
+- [로우 플랭크 크런치](exercise) 할 때 문제가 생겼어
+- [로우 플랭크 더블 니](exercise)를 할 때 상태가 안좋아요
+- [로우 플랭크 더블 니](exercise)하는데 문제가 생겼어
+- [로우 플랭크 더블 니](exercise) 할 때 상태가 안좋아요
+- [로우 플랭크 더블 니](exercise) 하는데 문제가 생겼어
+- [로우 플랭크 니 크로스](exercise)를 할 때 상태가 안좋습니다
+- [로우 플랭크 니 크로스](exercise)하다가 문제가 생겼어
+- [로우 플랭크 니 크로스](exercise) 할 때 상태가 안좋습니다
+- [로우 플랭크 니 크로스](exercise) 하다가 문제가 생겼어
+- [로우 플랭크 니 드롭](exercise)할 때 문제가 생겼어
+- [로우 플랭크 니 드롭](exercise)을 할 때 상태가 안좋아졌어
+- [로우 플랭크 니 드롭](exercise) 할 때 문제가 생겼어
+- [로우 플랭크 니 드롭](exercise) 할 때 상태가 안좋아졌어
+- [로우 플랭크 니 투 엘보](exercise)할 때 뭔가 안좋아
+- [로우 플랭크 니 투 엘보](exercise)를 할 때 좀 이상한데
+- [로우 플랭크 니 투 엘보](exercise) 할 때 뭔가 안좋아
+- [로우 플랭크 니 투 엘보](exercise) 할 때 좀 이상한데
+- [로우 플랭크 트위스트](exercise)할 때 뭔가 안좋은데
+- [로우 플랭크 트위스트](exercise)를 할 때 좀 이상하다
+- [로우 플랭크 트위스트](exercise) 할 때 뭔가 안좋은데
+- [로우 플랭크 트위스트](exercise) 할 때 좀 이상하다
+- [로우 사이드 플랭크](exercise)할 때 뭔가 안좋다
+- [로우 사이드 플랭크](exercise)를 할 때 좀 이상해
+- [로우 사이드 플랭크](exercise) 할 때 뭔가 안좋다
+- [로우 사이드 플랭크](exercise) 할 때 좀 이상해
+- [로우 사이드 플랭크 레그 리프트](exercise)할 때 상태가 안좋아
+- [로우 사이드 플랭크 레그 리프트](exercise)를 할 때 문제가 생겼어
+- [로우 사이드 플랭크 레그 리프트](exercise) 할 때 상태가 안좋아
+- [로우 사이드 플랭크 레그 리프트](exercise) 할 때 문제가 생겼어
+- [로우 사이드 플랭크 트위스트](exercise)할 때 상태가 안좋아요
+- [로우 사이드 플랭크 트위스트](exercise)를 하는데 문제가 생겼어
+- [로우 사이드 플랭크 트위스트](exercise) 할 때 상태가 안좋아요
+- [로우 사이드 플랭크 트위스트](exercise) 하는데 문제가 생겼어
+- [런지 앤 트위스트](exercise)할 때 상태가 안좋습니다
+- [런지 앤 트위스트](exercise)를 하다가 문제가 생겼어
+- [런지 앤 트위스트](exercise) 할 때 상태가 안좋습니다
+- [런지 앤 트위스트](exercise) 하다가 문제가 생겼어
+- [런지 하이 니 점프](exercise)를 할 때 문제가 생겼어
+- [런지 하이 니 점프](exercise)할 때 상태가 안좋아졌어
+- [런지 하이 니 점프](exercise) 할 때 문제가 생겼어
+- [런지 하이 니 점프](exercise) 할 때 상태가 안좋아졌어
+- [런지 투 프론트 킥](exercise)을 할 때 뭔가 안좋아
+- [런지 투 프론트 킥](exercise)할 때 좀 이상한데
+- [런지 투 프론트 킥](exercise) 할 때 뭔가 안좋아
+- [런지 투 프론트 킥](exercise) 할 때 좀 이상한데
+- [런지 투 하이 니](exercise)를 할 때 뭔가 안좋은데
+- [런지 투 하이 니](exercise)할 때 좀 이상하다
+- [런지 투 하이 니](exercise) 할 때 뭔가 안좋은데
+- [런지 투 하이 니](exercise) 할 때 좀 이상하다
+- [4자 스트레칭](exercise)을 할 때 뭔가 안좋다
+- [4자 스트레칭](exercise)할 때 좀 이상해
+- [4자 스트레칭](exercise) 할 때 뭔가 안좋다
+- [4자 스트레칭](exercise) 할 때 좀 이상해
+- [마칭 월 싯](exercise)을 할 때 상태가 안좋아
+- [마칭 월 싯](exercise)할 때 문제가 생겼어
+- [마칭 월 싯](exercise) 할 때 상태가 안좋아
+- [마칭 월 싯](exercise) 할 때 문제가 생겼어
+- [마운틴 클라이머](exercise)를 할 때 상태가 안좋아요
+- [마운틴 클라이머](exercise)하는데 문제가 생겼어
+- [마운틴 클라이머](exercise) 할 때 상태가 안좋아요
+- [마운틴 클라이머](exercise) 하는데 문제가 생겼어
+- [내로우 6카운트 버피](exercise)를 할 때 상태가 안좋습니다
+- [내로우 6카운트 버피](exercise)하다가 문제가 생겼어
+- [내로우 6카운트 버피](exercise) 할 때 상태가 안좋습니다
+- [내로우 6카운트 버피](exercise) 하다가 문제가 생겼어
+- [내로우 니 푸시업](exercise)할 때 문제가 생겼어
+- [내로우 니 푸시업](exercise)을 할 때 상태가 안좋아졌어
+- [내로우 니 푸시업](exercise) 할 때 문제가 생겼어
+- [내로우 니 푸시업](exercise) 할 때 상태가 안좋아졌어
+- [내로우 푸시업](exercise)할 때 뭔가 안좋아
+- [내로우 푸시업](exercise)을 할 때 좀 이상한데
+- [내로우 푸시업](exercise) 할 때 뭔가 안좋아
+- [내로우 푸시업](exercise) 할 때 좀 이상한데
+- [내로우 스쿼트](exercise)할 때 뭔가 안좋은데
+- [내로우 스쿼트](exercise)를 할 때 좀 이상하다
+- [내로우 스쿼트](exercise) 할 때 뭔가 안좋은데
+- [내로우 스쿼트](exercise) 할 때 좀 이상하다
+- [내로우 투 와이드 푸시업](exercise)할 때 뭔가 안좋다
+- [내로우 투 와이드 푸시업](exercise)을 할 때 좀 이상해
+- [내로우 투 와이드 푸시업](exercise) 할 때 뭔가 안좋다
+- [내로우 투 와이드 푸시업](exercise) 할 때 좀 이상해
+- [한발 4카운트 버피](exercise)할 때 상태가 안좋아
+- [한발 4카운트 버피](exercise)를 할 때 문제가 생겼어
+- [한발 4카운트 버피](exercise) 할 때 상태가 안좋아
+- [한발 4카운트 버피](exercise) 할 때 문제가 생겼어
+- [한발 6카운트 버피](exercise)할 때 상태가 안좋아요
+- [한발 6카운트 버피](exercise)를 하는데 문제가 생겼어
+- [한발 6카운트 버피](exercise) 할 때 상태가 안좋아요
+- [한발 6카운트 버피](exercise) 하는데 문제가 생겼어
+- [아웃워드 카프레이즈](exercise)할 때 상태가 안좋습니다
+- [아웃워드 카프레이즈](exercise)를 하다가 문제가 생겼어
+- [아웃워드 카프레이즈](exercise) 할 때 상태가 안좋습니다
+- [아웃워드 카프레이즈](exercise) 하다가 문제가 생겼어
+- [오버헤드 스쿼트](exercise)를 할 때 문제가 생겼어
+- [오버헤드 스쿼트](exercise)할 때 상태가 안좋아졌어
+- [오버헤드 스쿼트](exercise) 할 때 문제가 생겼어
+- [오버헤드 스쿼트](exercise) 할 때 상태가 안좋아졌어
+- [오버헤드 트라이셉 스트레칭](exercise)을 할 때 뭔가 안좋아
+- [오버헤드 트라이셉 스트레칭](exercise)할 때 좀 이상한데
+- [오버헤드 트라이셉 스트레칭](exercise) 할 때 뭔가 안좋아
+- [오버헤드 트라이셉 스트레칭](exercise) 할 때 좀 이상한데
+- [펜듈럼 런지](exercise)를 할 때 뭔가 안좋은데
+- [펜듈럼 런지](exercise)할 때 좀 이상하다
+- [펜듈럼 런지](exercise) 할 때 뭔가 안좋은데
+- [펜듈럼 런지](exercise) 할 때 좀 이상하다
+- [파이크 푸시업](exercise)을 할 때 뭔가 안좋다
+- [파이크 푸시업](exercise)할 때 좀 이상해
+- [파이크 푸시업](exercise) 할 때 뭔가 안좋다
+- [파이크 푸시업](exercise) 할 때 좀 이상해
+- [피스톨 스쿼트](exercise)를 할 때 상태가 안좋아
+- [피스톨 스쿼트](exercise)할 때 문제가 생겼어
+- [피스톨 스쿼트](exercise) 할 때 상태가 안좋아
+- [피스톨 스쿼트](exercise) 할 때 문제가 생겼어
+- [피봇 런지](exercise)를 할 때 상태가 안좋아요
+- [피봇 런지](exercise)하는데 문제가 생겼어
+- [피봇 런지](exercise) 할 때 상태가 안좋아요
+- [피봇 런지](exercise) 하는데 문제가 생겼어
+- [필레 점프 스쿼트](exercise)할 때 문제가 생겼어
+- [필레 점프 스쿼트](exercise)를 할 때 상태가 안좋아졌어
+- [필레 점프 스쿼트](exercise) 할 때 문제가 생겼어
+- [필레 점프 스쿼트](exercise) 할 때 상태가 안좋아졌어
+- [필레 스쿼트](exercise)할 때 뭔가 안좋아
+- [필레 스쿼트](exercise)를 할 때 좀 이상한데
+- [필레 스쿼트](exercise) 할 때 뭔가 안좋아
+- [필레 스쿼트](exercise) 할 때 좀 이상한데
+- [플라이오 푸시업](exercise)할 때 뭔가 안좋은데
+- [플라이오 푸시업](exercise)을 할 때 좀 이상하다
+- [플라이오 푸시업](exercise) 할 때 뭔가 안좋은데
+- [플라이오 푸시업](exercise) 할 때 좀 이상하다
+- [프리즈너 스쿼트](exercise)할 때 뭔가 안좋다
+- [프리즈너 스쿼트](exercise)를 할 때 좀 이상해
+- [프리즈너 스쿼트](exercise) 할 때 뭔가 안좋다
+- [프리즈너 스쿼트](exercise) 할 때 좀 이상해
+- [엑스자 엎드리기](exercise)할 때 상태가 안좋아
+- [엑스자 엎드리기](exercise)를 할 때 문제가 생겼어
+- [엑스자 엎드리기](exercise) 할 때 상태가 안좋아
+- [엑스자 엎드리기](exercise) 할 때 문제가 생겼어
+- [펄싱 스쿼트](exercise)할 때 상태가 안좋아요
+- [펄싱 스쿼트](exercise)를 하는데 문제가 생겼어
+- [펄싱 스쿼트](exercise) 할 때 상태가 안좋아요
+- [펄싱 스쿼트](exercise) 하는데 문제가 생겼어
+- [펀치](exercise)할 때 상태가 안좋습니다
+- [펀치](exercise)를 하다가 문제가 생겼어
+- [펀치](exercise) 할 때 상태가 안좋습니다
+- [펀치](exercise) 하다가 문제가 생겼어
+- [푸시업 잭](exercise)을 할 때 문제가 생겼어
+- [푸시업 잭](exercise)할 때 상태가 안좋아졌어
+- [푸시업 잭](exercise) 할 때 문제가 생겼어
+- [푸시업 잭](exercise) 할 때 상태가 안좋아졌어
+- [푸시업 숄더탭](exercise)을 할 때 뭔가 안좋아
+- [푸시업 숄더탭](exercise)할 때 좀 이상한데
+- [푸시업 숄더탭](exercise) 할 때 뭔가 안좋아
+- [푸시업 숄더탭](exercise) 할 때 좀 이상한데
+- [푸시업 사이드 플랭크](exercise)를 할 때 뭔가 안좋은데
+- [푸시업 사이드 플랭크](exercise)할 때 좀 이상하다
+- [푸시업 사이드 플랭크](exercise) 할 때 뭔가 안좋은데
+- [푸시업 사이드 플랭크](exercise) 할 때 좀 이상하다
+- [푸시업](exercise)을 할 때 뭔가 안좋다
+- [푸시업](exercise)할 때 좀 이상해
+- [푸시업](exercise) 할 때 뭔가 안좋다
+- [푸시업](exercise) 할 때 좀 이상해
+- [네발 니 투 엘보](exercise)를 할 때 상태가 안좋아
+- [네발 니 투 엘보](exercise)할 때 문제가 생겼어
+- [네발 니 투 엘보](exercise) 할 때 상태가 안좋아
+- [네발 니 투 엘보](exercise) 할 때 문제가 생겼어
+- [네발 림 레이즈](exercise)를 할 때 상태가 안좋아요
+- [네발 림 레이즈](exercise)하는데 문제가 생겼어
+- [네발 림 레이즈](exercise) 할 때 상태가 안좋아요
+- [네발 림 레이즈](exercise) 하는데 문제가 생겼어
+- [퀵 피트](exercise)를 할 때 상태가 안좋습니다
+- [퀵 피트](exercise)하다가 문제가 생겼어
+- [퀵 피트](exercise) 할 때 상태가 안좋습니다
+- [퀵 피트](exercise) 하다가 문제가 생겼어
+- [리버스 크런치](exercise)할 때 문제가 생겼어
+- [리버스 크런치](exercise)를 할 때 상태가 안좋아졌어
+- [리버스 크런치](exercise) 할 때 문제가 생겼어
+- [리버스 크런치](exercise) 할 때 상태가 안좋아졌어
+- [리버스 플랭크](exercise)할 때 뭔가 안좋아
+- [리버스 플랭크](exercise)를 할 때 좀 이상한데
+- [리버스 플랭크](exercise) 할 때 뭔가 안좋아
+- [리버스 플랭크](exercise) 할 때 좀 이상한데
+- [록스타](exercise)할 때 뭔가 안좋은데
+- [록스타](exercise)를 할 때 좀 이상하다
+- [록스타](exercise) 할 때 뭔가 안좋은데
+- [록스타](exercise) 할 때 좀 이상하다
+- [러시안 트위스트 1](exercise)할 때 뭔가 안좋다
+- [러시안 트위스트 1](exercise)을 할 때 좀 이상해
+- [러시안 트위스트 1](exercise) 할 때 뭔가 안좋다
+- [러시안 트위스트 1](exercise) 할 때 좀 이상해
+- [러시안 트위스트 2](exercise)할 때 상태가 안좋아
+- [러시안 트위스트 2](exercise)을 할 때 문제가 생겼어
+- [러시안 트위스트 2](exercise) 할 때 상태가 안좋아
+- [러시안 트위스트 2](exercise) 할 때 문제가 생겼어
+- [한발 균형잡기](exercise)할 때 상태가 안좋아요
+- [한발 균형잡기](exercise)를 하는데 문제가 생겼어
+- [한발 균형잡기](exercise) 할 때 상태가 안좋아요
+- [한발 균형잡기](exercise) 하는데 문제가 생겼어
+- [한발 테이블탑 브릿지](exercise)할 때 상태가 안좋습니다
+- [한발 테이블탑 브릿지](exercise)를 하다가 문제가 생겼어
+- [한발 테이블탑 브릿지](exercise) 할 때 상태가 안좋습니다
+- [한발 테이블탑 브릿지](exercise) 하다가 문제가 생겼어
+- [한발 앞뒤 뛰기](exercise)를 할 때 문제가 생겼어
+- [한발 앞뒤 뛰기](exercise)할 때 상태가 안좋아졌어
+- [한발 앞뒤 뛰기](exercise) 할 때 문제가 생겼어
+- [한발 앞뒤 뛰기](exercise) 할 때 상태가 안좋아졌어
+- [한발 점프 스쿼트](exercise)를 할 때 뭔가 안좋아
+- [한발 점프 스쿼트](exercise)할 때 좀 이상한데
+- [한발 점프 스쿼트](exercise) 할 때 뭔가 안좋아
+- [한발 점프 스쿼트](exercise) 할 때 좀 이상한데
+- [한발 발 닿기](exercise)를 할 때 뭔가 안좋은데
+- [한발 발 닿기](exercise)할 때 좀 이상하다
+- [한발 발 닿기](exercise) 할 때 뭔가 안좋은데
+- [한발 발 닿기](exercise) 할 때 좀 이상하다
+- [한발 정강이 닿기](exercise)를 할 때 뭔가 안좋다
+- [한발 정강이 닿기](exercise)할 때 좀 이상해
+- [한발 정강이 닿기](exercise) 할 때 뭔가 안좋다
+- [한발 정강이 닿기](exercise) 할 때 좀 이상해
+- [한발 스쿼트](exercise)를 할 때 상태가 안좋아
+- [한발 스쿼트](exercise)할 때 문제가 생겼어
+- [한발 스쿼트](exercise) 할 때 상태가 안좋아
+- [한발 스쿼트](exercise) 할 때 문제가 생겼어
+- [시저스 킥](exercise)을 할 때 상태가 안좋아요
+- [시저스 킥](exercise)하는데 문제가 생겼어
+- [시저스 킥](exercise) 할 때 상태가 안좋아요
+- [시저스 킥](exercise) 하는데 문제가 생겼어
+- [어깨 스트레칭](exercise)을 할 때 상태가 안좋습니다
+- [어깨 스트레칭](exercise)하다가 문제가 생겼어
+- [어깨 스트레칭](exercise) 할 때 상태가 안좋습니다
+- [어깨 스트레칭](exercise) 하다가 문제가 생겼어
+- [사이드 런지 터치다운](exercise)할 때 문제가 생겼어
+- [사이드 런지 터치다운](exercise)을 할 때 상태가 안좋아졌어
+- [사이드 런지](exercise)할 때 뭔가 안좋아
+- [사이드 런지](exercise)를 할 때 좀 이상한데
+- [사이드 런지](exercise) 할 때 뭔가 안좋아
+- [사이드 런지](exercise) 할 때 좀 이상한데
+- [사이드 플랭크 오블리크 크런치](exercise)할 때 뭔가 안좋은데
+- [사이드 플랭크 오블리크 크런치](exercise)를 할 때 좀 이상하다
+- [사이드 플랭크 오블리크 크런치](exercise) 할 때 뭔가 안좋은데
+- [사이드 플랭크 오블리크 크런치](exercise) 할 때 좀 이상하다
+- [사이드 스타 플랭크](exercise)할 때 뭔가 안좋다
+- [사이드 스타 플랭크](exercise)를 할 때 좀 이상해
+- [사이드 스타 플랭크](exercise) 할 때 뭔가 안좋다
+- [사이드 스타 플랭크](exercise) 할 때 좀 이상해
+- [사이드 투 사이드 푸시업](exercise)할 때 상태가 안좋아
+- [사이드 투 사이드 푸시업](exercise)을 할 때 문제가 생겼어
+- [사이드 투 사이드 푸시업](exercise) 할 때 상태가 안좋아
+- [사이드 투 사이드 푸시업](exercise) 할 때 문제가 생겼어
+- [한발 브릿지](exercise)할 때 상태가 안좋아요
+- [한발 브릿지](exercise)를 하는데 문제가 생겼어
+- [한발 브릿지](exercise) 할 때 상태가 안좋아요
+- [한발 브릿지](exercise) 하는데 문제가 생겼어
+- [한발 데드리프트](exercise)할 때 상태가 안좋습니다
+- [한발 데드리프트](exercise)를 하다가 문제가 생겼어
+- [한발 데드리프트](exercise) 할 때 상태가 안좋습니다
+- [한발 데드리프트](exercise) 하다가 문제가 생겼어
+- [한발 파이크 푸시업](exercise)을 할 때 문제가 생겼어
+- [한발 파이크 푸시업](exercise)할 때 상태가 안좋아졌어
+- [한발 파이크 푸시업](exercise) 할 때 문제가 생겼어
+- [한발 파이크 푸시업](exercise) 할 때 상태가 안좋아졌어
+- [한발 푸시업](exercise)을 할 때 뭔가 안좋아
+- [한발 푸시업](exercise)할 때 좀 이상한데
+- [한발 푸시업](exercise) 할 때 뭔가 안좋아
+- [한발 푸시업](exercise) 할 때 좀 이상한데
+- [한발 브이업](exercise)을 할 때 뭔가 안좋은데
+- [한발 브이업](exercise)할 때 좀 이상하다
+- [한발 브이업](exercise) 할 때 뭔가 안좋은데
+- [한발 브이업](exercise) 할 때 좀 이상하다
+- [싯업](exercise)을 할 때 뭔가 안좋다
+- [싯업](exercise)할 때 좀 이상해
+- [싯업](exercise) 할 때 뭔가 안좋다
+- [싯업](exercise) 할 때 좀 이상해
+- [스키 복근 운동](exercise)을 할 때 상태가 안좋아
+- [스키 복근 운동](exercise)할 때 문제가 생겼어
+- [스키 복근 운동](exercise) 할 때 상태가 안좋아
+- [스키 복근 운동](exercise) 할 때 문제가 생겼어
+- [스키 점프](exercise)를 할 때 상태가 안좋아요
+- [스키 점프](exercise)하는데 문제가 생겼어
+- [스키 점프](exercise) 할 때 상태가 안좋아요
+- [스키 점프](exercise) 하는데 문제가 생겼어
+- [스피드 스케이팅](exercise)을 할 때 상태가 안좋습니다
+- [스피드 스케이팅](exercise)하다가 문제가 생겼어
+- [스피드 스케이팅](exercise) 할 때 상태가 안좋습니다
+- [스피드 스케이팅](exercise) 하다가 문제가 생겼어
+- [스쿼트 잭](exercise)할 때 문제가 생겼어
+- [스쿼트 잭](exercise)을 할 때 상태가 안좋아졌어
+- [스쿼트 잭](exercise) 할 때 문제가 생겼어
+- [스쿼트 잭](exercise) 할 때 상태가 안좋아졌어
+- [스쿼트 사이드 킥](exercise)할 때 뭔가 안좋아
+- [스쿼트 사이드 킥](exercise)을 할 때 좀 이상한데
+- [스쿼트 사이드 킥](exercise) 할 때 뭔가 안좋아
+- [스쿼트 사이드 킥](exercise) 할 때 좀 이상한데
+- [스쿼트 스타](exercise)할 때 뭔가 안좋은데
+- [스쿼트 스타](exercise)를 할 때 좀 이상하다
+- [스쿼트 스타](exercise) 할 때 뭔가 안좋은데
+- [스쿼트 스타](exercise) 할 때 좀 이상하다
+- [스쿼트 투 하이 니](exercise)할 때 뭔가 안좋다
+- [스쿼트 투 하이 니](exercise)를 할 때 좀 이상해
+- [스쿼트 투 하이 니](exercise) 할 때 뭔가 안좋다
+- [스쿼트 투 하이 니](exercise) 할 때 좀 이상해
+- [스쿼트 투 하이 니 점프](exercise)할 때 상태가 안좋아
+- [스쿼트 투 하이 니 점프](exercise)를 할 때 문제가 생겼어
+- [스쿼트 투 하이 니 점프](exercise) 할 때 상태가 안좋아
+- [스쿼트 투 하이 니 점프](exercise) 할 때 문제가 생겼어
+- [스쿼트](exercise)할 때 상태가 안좋아요
+- [스쿼트](exercise)를 하는데 문제가 생겼어
+- [스쿼트](exercise) 할 때 상태가 안좋아요
+- [스쿼트](exercise) 하는데 문제가 생겼어
+- [스쿼팅 퀵 피트](exercise)할 때 상태가 안좋습니다
+- [스쿼팅 퀵 피트](exercise)를 하다가 문제가 생겼어
+- [스쿼팅 퀵 피트](exercise) 할 때 상태가 안좋습니다
+- [스쿼팅 퀵 피트](exercise) 하다가 문제가 생겼어
+- [스태거드 푸시업](exercise)을 할 때 문제가 생겼어
+- [스태거드 푸시업](exercise)할 때 상태가 안좋아졌어
+- [스태거드 푸시업](exercise) 할 때 문제가 생겼어
+- [스태거드 푸시업](exercise) 할 때 상태가 안좋아졌어
+- [스탠딩 쿼드리셉스 스트레칭](exercise)을 할 때 뭔가 안좋아
+- [스탠딩 쿼드리셉스 스트레칭](exercise)할 때 좀 이상한데
+- [스탠딩 쿼드리셉스 스트레칭](exercise) 할 때 뭔가 안좋아
+- [스탠딩 쿼드리셉스 스트레칭](exercise) 할 때 좀 이상한데
+- [팔 벌려 점프 뛰기](exercise)를 할 때 뭔가 안좋은데
+- [팔 벌려 점프 뛰기](exercise)할 때 좀 이상하다
+- [팔 벌려 점프 뛰기](exercise) 할 때 뭔가 안좋은데
+- [팔 벌려 점프 뛰기](exercise) 할 때 좀 이상하다
+- [스타 토 터치](exercise)를 할 때 뭔가 안좋다
+- [스타 토 터치](exercise)할 때 좀 이상해
+- [스타 토 터치](exercise) 할 때 뭔가 안좋다
+- [스타 토 터치](exercise) 할 때 좀 이상해
+- [스트레이트 레그 바이시클 크런치](exercise)를 할 때 상태가 안좋아
+- [스트레이트 레그 바이시클 크런치](exercise)할 때 문제가 생겼어
+- [스트레이트 레그 바이시클 크런치](exercise) 할 때 상태가 안좋아
+- [스트레이트 레그 바이시클 크런치](exercise) 할 때 문제가 생겼어
+- [슈퍼맨 자세](exercise)를 할 때 상태가 안좋아요
+- [슈퍼맨 자세](exercise)하는데 문제가 생겼어
+- [슈퍼맨 자세](exercise) 할 때 상태가 안좋아요
+- [슈퍼맨 자세](exercise) 하는데 문제가 생겼어
+- [테이블탑 크런치](exercise)를 할 때 상태가 안좋습니다
+- [테이블탑 크런치](exercise)하다가 문제가 생겼어
+- [테이블탑 크런치](exercise) 할 때 상태가 안좋습니다
+- [테이블탑 크런치](exercise) 하다가 문제가 생겼어
+- [트라이셉 딥](exercise)할 때 뭔가 안좋아
+- [트라이셉 딥](exercise)을 할 때 좀 이상한데
+- [트라이셉 딥](exercise) 할 때 뭔가 안좋아
+- [트라이셉 딥](exercise) 할 때 좀 이상한데
+- [턱 점프](exercise)할 때 뭔가 안좋은데
+- [턱 점프](exercise)를 할 때 좀 이상하다
+- [턱 점프](exercise) 할 때 뭔가 안좋은데
+- [턱 점프](exercise) 할 때 좀 이상하다
+- [타입라이터 푸시업](exercise)할 때 뭔가 안좋다
+- [타입라이터 푸시업](exercise)을 할 때 좀 이상해
+- [타입라이터 푸시업](exercise) 할 때 뭔가 안좋다
+- [타입라이터 푸시업](exercise) 할 때 좀 이상해
+- [얼티밋 버피](exercise)할 때 상태가 안좋아
+- [얼티밋 버피](exercise)를 할 때 문제가 생겼어
+- [얼티밋 버피](exercise) 할 때 상태가 안좋아
+- [얼티밋 버피](exercise) 할 때 문제가 생겼어
+- [업 다운](exercise)할 때 상태가 안좋습니다
+- [업 다운](exercise)을 하다가 문제가 생겼어
+- [브이업](exercise)을 할 때 문제가 생겼어
+- [브이업](exercise)할 때 상태가 안좋아졌어
+- [브이업](exercise) 할 때 문제가 생겼어
+- [브이업](exercise) 할 때 상태가 안좋아졌어
+- [워킹 하이 니](exercise)를 할 때 뭔가 안좋아
+- [워킹 하이 니](exercise)할 때 좀 이상한데
+- [워킹 하이 니](exercise) 할 때 뭔가 안좋아
+- [워킹 하이 니](exercise) 할 때 좀 이상한데
+- [워킹 런지](exercise)를 할 때 뭔가 안좋은데
+- [워킹 런지](exercise)할 때 좀 이상하다
+- [워킹 런지](exercise) 할 때 뭔가 안좋은데
+- [워킹 런지](exercise) 할 때 좀 이상하다
+- [월 브릿지](exercise)를 할 때 뭔가 안좋다
+- [월 브릿지](exercise)할 때 좀 이상해
+- [월 브릿지](exercise) 할 때 뭔가 안좋다
+- [월 브릿지](exercise) 할 때 좀 이상해
+- [월 클라임](exercise)을 할 때 상태가 안좋아
+- [월 클라임](exercise)할 때 문제가 생겼어
+- [월 클라임](exercise) 할 때 상태가 안좋아
+- [월 클라임](exercise) 할 때 문제가 생겼어
+- [월 핸드스탠드 킥 업](exercise)을 할 때 상태가 안좋아요
+- [월 핸드스탠드 킥 업](exercise)하는데 문제가 생겼어
+- [월 핸드스탠드 킥 업](exercise) 할 때 상태가 안좋아요
+- [월 핸드스탠드 킥 업](exercise) 하는데 문제가 생겼어
+- [월 래터럴 풀 다운](exercise)을 할 때 상태가 안좋습니다
+- [월 래터럴 풀 다운](exercise)하다가 문제가 생겼어
+- [벽 짚고 가슴 스트레칭](exercise)할 때 문제가 생겼어
+- [벽 짚고 가슴 스트레칭](exercise)을 할 때 상태가 안좋아졌어
+- [벽 짚고 가슴 스트레칭](exercise) 할 때 문제가 생겼어
+- [벽 짚고 가슴 스트레칭](exercise) 할 때 상태가 안좋아졌어
+- [벽 밀쳐내기](exercise)할 때 뭔가 안좋아
+- [벽 밀쳐내기](exercise)를 할 때 좀 이상한데
+- [벽 밀쳐내기](exercise) 할 때 뭔가 안좋아
+- [벽 밀쳐내기](exercise) 할 때 좀 이상한데
+- [월 싯](exercise)할 때 뭔가 안좋은데
+- [월 싯](exercise)을 할 때 좀 이상하다
+- [월 싯](exercise) 할 때 뭔가 안좋은데
+- [월 싯](exercise) 할 때 좀 이상하다
+- [와이드 클라이머 점프](exercise)할 때 뭔가 안좋다
+- [와이드 클라이머 점프](exercise)를 할 때 좀 이상해
+- [와이드 클라이머 점프](exercise) 할 때 뭔가 안좋다
+- [와이드 클라이머 점프](exercise) 할 때 좀 이상해
+- [와이드 클라이머 트위스트](exercise)할 때 상태가 안좋아
+- [와이드 클라이머 트위스트](exercise)를 할 때 문제가 생겼어
+- [와이드 클라이머 트위스트](exercise) 할 때 상태가 안좋아
+- [와이드 클라이머 트위스트](exercise) 할 때 문제가 생겼어
+- [와이드 하이 니](exercise)할 때 상태가 안좋아요
+- [와이드 하이 니](exercise)를 하는데 문제가 생겼어
+- [와이드 하이 니](exercise) 할 때 상태가 안좋아요
+- [와이드 하이 니](exercise) 하는데 문제가 생겼어
+- [와이드 니 푸시업](exercise)할 때 상태가 안좋습니다
+- [와이드 니 푸시업](exercise)을 하다가 문제가 생겼어
+- [와이드 니 푸시업](exercise) 할 때 상태가 안좋습니다
+- [와이드 니 푸시업](exercise) 하다가 문제가 생겼어
+- [와이드 브이업](exercise)을 할 때 문제가 생겼어
+- [와이드 브이업](exercise)할 때 상태가 안좋아졌어
+- [와이드 브이업](exercise) 할 때 문제가 생겼어
+- [와이드 브이업](exercise) 할 때 상태가 안좋아졌어
+- [와이드 푸시업](exercise)을 할 때 뭔가 안좋아
+- [와이드 푸시업](exercise)할 때 좀 이상한데
+- [와이드 푸시업](exercise) 할 때 뭔가 안좋아
+- [와이드 푸시업](exercise) 할 때 좀 이상한데
+- [윈드쉴드 와이퍼](exercise)를 할 때 뭔가 안좋은데
+- [윈드쉴드 와이퍼](exercise)할 때 좀 이상하다
+- [윈드쉴드 와이퍼](exercise) 할 때 뭔가 안좋은데
+- [윈드쉴드 와이퍼](exercise) 할 때 좀 이상하다
+- 문제가 생겼어
+- 방금 문제가 생겼어
+- 지금 운동하다가 문제가 생겼어
+- 큰일났어
+- 큰일이야
+- 문제가 생겼습니다
+
+## intent:ready
+- 준비 됨
+- 준비 됐어
+- 준비 됐습니다
+- 준비 됐어요
+- 난 준비됨
+- 난 준비됐어
+- 전 준비됐습니다
+- 전 준비됐어요
+- 나 준비됨
+- 나 준비됐어
+- 저 준비됐습니다
+- 저 준비됐어요
+- 완전 준비됨
+- 완전 준비됐어
+- 완전 준비됐습니다
+- 완전 준비됐어요
+- 준비 완료됨
+- 준비 완료됐어
+- 준비 완료됐습니다
+- 준비 완료됐어요
+- 난 준비 완료됨
+- 난 준비 완료됐어
+- 전 준비 완료됐습니다
+- 전 준비 완료됐어요
+- 나 준비 완료됨
+- 나 준비 완료됐어
+- 저 준비 완료됐습니다
+- 저 준비 완료됐어요
+- 지금 준비 됨
+- 지금 준비 됐어
+- 지금 준비 됐습니다
+- 지금 준비 됐어요
+- 지금 난 준비됨
+- 지금 난 준비됐어
+- 지금 전 준비됐습니다
+- 지금 전 준비됐어요
+- 지금 나 준비됨
+- 지금 나 준비됐어
+- 지금 저 준비됐습니다
+- 지금 저 준비됐어요
+- 지금 완전 준비됨
+- 지금 완전 준비됐어
+- 지금 완전 준비됐습니다
+- 지금 완전 준비됐어요
+- 지금 준비 완료됨
+- 지금 준비 완료됐어
+- 지금 준비 완료됐습니다
+- 지금 준비 완료됐어요
+- 지금 난 준비 완료됨
+- 지금 난 준비 완료됐어
+- 지금 전 준비 완료됐습니다
+- 지금 전 준비 완료됐어요
+- 지금 나 준비 완료됨
+- 지금 나 준비 완료됐어
+- 지금 저 준비 완료됐습니다
+- 지금 저 준비 완료됐어요
+
+## intent:say_no
+- ㄴㄴ
+- ss
+- ㄴㄴㄴㄴ
+- ssss
+- ㄴ
+- s
+- 아니
+- 아니요
+- 아닙니다
+- 아니에요
+- 아니예요
+- 아닌데
+- 아니야
+- 아님
+- 싫어
+- 싫은데
+- 싫음
+- 싫습니다
+- 싫지롱
+- 거절합니다
+- 거절한다
+- 거절
+- 싫
+- no
+- 노노
+- 노
+- 개싫어
+- 오바야
+- 오바
+- 오바임
+- 개오바임
+- 개오반데
+- 없었어
+- 없어
+- ㄴㄴ 없었어
+- ㄴㄴ 없어
+- 없음
+- 없다
+- 없습니다
+- 없어요
+
+## intent:say_yes
+- ㅇㅋ
+- dz
+- ㅇㅋㅇㅋ
+- dzdz
+- 오케이
+- 오키
+- 오키도키
+- 오케
+- 얍
+- 예스
+- 맞아
+- ㅇㅇ
+- ㅇ
+- ㅇㅇㅇㅇ
+- 맞습니다
+- 맞아요
+- 네 말이 맞아
+- 맞음
+- 맞는데
+- 알았어
+- 알았습니다
+- 알겠습니다
+- 알았어요
+- 알겠어요
+- 알아들었습니다
+- 알아들었어요
+- 엉
+- 앙
+- 어
+- 응
+- 응응
+- 네
+- 네네
+- dz
+- ㅇㅋ
+- 그래
+- 그랭
+- 고래
+- ㄱㄹ
+- 그래요
+- 그렇습니다
+- 그렇다
+
+## intent:start
+- 시작하자
+- 시작할래
+- 시작할게
+- 할래
+- 하자
+- 합시다
+- ㄱ
+- ㄱㄱ
+- ㄱㄱㄱ
+- ㄱㄱㄱㄱ
+- r
+- rr
+- 시작 ㄱ
+- 시작합시다
+- 갑시다
+- 가자
+- 가즈아
+- 고고
+- 고고고
+- 고
+- 기릿
+- 레츠기릿
+- go
+- 운동 시작하자
+- 운동 시작할래
+- 운동 시작할게
+- 운동 할래
+- 운동 할게
+- 운동 하자
+- 운동 합시다
+- 운동 ㄱ
+- 운동 ㄱㄱ
+- 운동 ㄱㄱㄱ
+- 운동 ㄱㄱㄱㄱ
+- 운동 시작 ㄱ
+- 운동 시작합시다
+- 운동 갑시다
+- 운동 가자
+- 운동 가즈아
+- 운동 고고
+- 운동 고고고
+- 운동 고
+- 운동 레츠기릿
+- 운동 go
+- 지금 시작하자
+- 지금 시작할래
+- 지금 할래
+- 지금 하자
+- 지금 합시다
+- 지금 ㄱ
+- 지금 ㄱㄱ
+- 지금 ㄱㄱㄱ
+- 지금 ㄱㄱㄱㄱ
+- 지금 r
+- 지금 rr
+- 지금 시작 ㄱ
+- 지금 시작합시다
+- 지금 갑시다
+- 지금 가자
+- 지금 가즈아
+- 지금 고고
+- 지금 고고고
+- 지금 고
+- 지금 기릿
+- 지금 레츠기릿
+- 지금 go
+- 지금 운동 시작하자
+- 지금 운동 시작할래
+- 지금 운동 할래
+- 지금 운동 하자
+- 지금 운동 합시다
+- 지금 운동 ㄱ
+- 지금 운동 ㄱㄱ
+- 지금 운동 ㄱㄱㄱ
+- 지금 운동 ㄱㄱㄱㄱ
+- 지금 운동 시작 ㄱ
+- 지금 운동 시작합시다
+- 지금 운동 갑시다
+- 지금 운동 가자
+- 지금 운동 가즈아
+- 지금 운동 고고
+- 지금 운동 고고고
+- 지금 운동 고
+- 지금 운동 레츠기릿
+- 지금 운동 go
+- ㄱㄱㄱ
+
+## intent:terminology
+- 무슨 소리야?
+- 무슨 뜻인지 모르겠어
+- 뭔소리야
+- 뭔 소린지 모르겠어
+- 뭐가 뭔지 모르겠어
+- 무슨 뜻이야?
+- 뭔소리지
+- 무슨 소리지
+- 뭔뜻이야
+- 무슨뜻이지
+- 뭔뜻이지
+- 무슨 말이야?
+- 무슨 말인지 모르겠어
+- 뭔말이야
+- 뭔 말인지 모르겠어
+- 무슨 말이지
+- 뭔말이지
+- 모르겠어
+- 대체 무슨 소리야?
+- 대체 무슨 뜻인지 모르겠어
+- 대체 뭔소리야
+- 대체 뭔 소린지 모르겠어
+- 대체 뭐가 뭔지 모르겠어
+- 대체 무슨 뜻이야?
+- 대체 뭔소리지
+- 대체 무슨 소리지
+- 대체 뭔뜻이야
+- 대체 무슨뜻이지
+- 대체 뭔뜻이지
+- 대체 무슨 말이야?
+- 대체 무슨 말인지 모르겠어
+- 대체 뭔말이야
+- 대체 뭔 말인지 모르겠어
+- 대체 무슨 말이지
+- 대체 뭔말이지
+- [180도 점프 스쿼트](terminology)
+- [180도 점프](terminology)
+- [4카운트 버피](terminology)
+- [6카운트 버피](terminology)
+- [엘리게이터 푸시업](terminology)
+- [팔 뒤로 돌리기](terminology)
+- [팔 앞으로 돌리기](terminology)
+- [후방 런지](terminology)
+- [딱정벌레 자세](terminology)
+- [벤트 레그 크로스 오버](terminology)
+- [바이시클 크런치](terminology)
+- [브릿지](terminology)
+- [버트 키커 점프 스쿼트](terminology)
+- [카프레이즈](terminology)
+- [고양이 자세](terminology)
+- [아기 자세](terminology)
+- [팔 내밀어 뛰기](terminology)
+- [코블러 스트레칭](terminology)
+- [커맨더 푸시업](terminology)
+- [테이블탑 브릿지](terminology)
+- [교차 펀치](terminology)
+- [크런치](terminology)
+- [컬시 런지](terminology)
+- [디클라인 푸시업](terminology)
+- [덩키 킥](terminology)
+- [종아리 스트레](terminology)
+- [소화전 운동](terminology)
+- [전속력 턱 점프 버피](terminology)
+- [전속력 버피](terminology)
+- [앞 점프 스쿼트](terminology)
+- [전방 런지](terminology)
+- [개구리 스쿼트](terminology)
+- [하이 니](terminology)
+- [하이 플랭크](terminology)
+- [하이 플랭크 더블 니](terminology)
+- [하이 플랭크 잭](terminology)
+- [하이 플랭크 점핑 잭](terminology)
+- [하이 플랭크 점프](terminology)
+- [하이 플랭크 니 크로스](terminology)
+- [하이 플랭크 니 드롭](terminology)
+- [하이 플랭크 니 투 엘보](terminology)
+- [하이 플랭크 레그 리프트](terminology)
+- [하이 플랭크 림 레이즈](terminology)
+- [하이 사이드 플랭크](terminology)
+- [힙 어브덕션](terminology)
+- [힙 어덕션](terminology)
+- [힙 오프너](terminology)
+- [인치웜 턱 점프](terminology)
+- [인치웜](terminology)
+- [인클라인 푸시업](terminology)
+- [인워드 카프레이즈](terminology)
+- [제자리 뛰기](terminology)
+- [점프 런지](terminology)
+- [점프 스쿼트](terminology)
+- [팔 벌려 뛰기](terminology)
+- [니 커맨드 푸시업](terminology)
+- [니 내로우 투 와이드 푸시업](terminology)
+- [니 플라이오 푸시업](terminology)
+- [니 푸시업 숄더 탭](terminology)
+- [니 푸시업 사이드 플랭크](terminology)
+- [니 푸시업](terminology)
+- [니 사이드 투 사이드 푸시업](terminology)
+- [니 스태거드 푸시업](terminology)
+- [니 턱 크런치](terminology)
+- [닐 앤 스탠드](terminology)
+- [엉덩이 굴근 스트레칭](terminology)
+- [래터럴 점프](terminology)
+- [레그 레이즈](terminology)
+- [림 레이즈 푸시업](terminology)
+- [로우 플랭크](terminology)
+- [로우 플랭크 암 리치](terminology)
+- [로우 플랭크 크런치](terminology)
+- [로우 플랭크 더블 니](terminology)
+- [로우 플랭크 니 크로스](terminology)
+- [로우 플랭크 니 드롭](terminology)
+- [로우 플랭크 니 투 엘보](terminology)
+- [로우 플랭크 트위스트](terminology)
+- [로우 사이드 플랭크](terminology)
+- [로우 사이드 플랭크 레그 리프트](terminology)
+- [로우 사이드 플랭크 트위스트](terminology)
+- [런지 앤 트위스트](terminology)
+- [런지 하이 니 점프](terminology)
+- [런지 투 프론트 킥](terminology)
+- [런지 투 하이 니](terminology)
+- [4자 스트레칭](terminology)
+- [마칭 월 싯](terminology)
+- [마운틴 클라이머](terminology)
+- [내로우 6카운트 버피](terminology)
+- [내로우 니 푸시업](terminology)
+- [내로우 푸시업](terminology)
+- [내로우 스쿼트](terminology)
+- [내로우 투 와이드 푸시업](terminology)
+- [한발 4카운트 버피](terminology)
+- [한발 6카운트 버피](terminology)
+- [아웃워드 카프레이즈](terminology)
+- [오버헤드 스쿼트](terminology)
+- [오버헤드 트라이셉 스트레칭](terminology)
+- [펜듈럼 런지](terminology)
+- [파이크 푸시업](terminology)
+- [피스톨 스쿼트](terminology)
+- [피봇 런지](terminology)
+- [필레 점프 스쿼트](terminology)
+- [필레 스쿼트](terminology)
+- [플라이오 푸시업](terminology)
+- [프리즈너 스쿼트](terminology)
+- [엑스자 엎드리기](terminology)
+- [펄싱 스쿼트](terminology)
+- [펀치](terminology)
+- [푸시업 잭](terminology)
+- [푸시업 숄더탭](terminology)
+- [푸시업 사이드 플랭크](terminology)
+- [푸시업](terminology)
+- [네발 니 투 엘보](terminology)
+- [네발 림 레이즈](terminology)
+- [퀵 피트](terminology)
+- [리버스 크런치](terminology)
+- [리버스 플랭크](terminology)
+- [록스타](terminology)
+- [러시안 트위스트 1](terminology)
+- [러시안 트위스트 2](terminology)
+- [한발 균형잡기](terminology)
+- [한발 테이블탑 브릿지](terminology)
+- [한발 앞뒤 뛰기](terminology)
+- [한발 점프 스쿼트](terminology)
+- [한발 발 닿기](terminology)
+- [한발 정강이 닿기](terminology)
+- [한발 스쿼트](terminology)
+- [시저스 킥](terminology)
+- [어깨 스트레칭](terminology)
+- [사이드 런지](terminology)
+- [사이드 플랭크 오블리크 크런치](terminology)
+- [사이드 스타 플랭크](terminology)
+- [사이드 투 사이드 푸시업](terminology)
+- [한발 브릿지](terminology)
+- [한발 데드리프트](terminology)
+- [한발 파이크 푸시업](terminology)
+- [한발 푸시업](terminology)
+- [한발 브이업](terminology)
+- [싯업](terminology)
+- [스키 복근 운동](terminology)
+- [스키 점프](terminology)
+- [스피드 스케이팅](terminology)
+- [스쿼트 잭](terminology)
+- [스쿼트 사이드 킥](terminology)
+- [스쿼트 스타](terminology)
+- [스쿼트 투 하이 니](terminology)
+- [스쿼트 투 하이 니 점프](terminology)
+- [스쿼트](terminology)
+- [스쿼팅 퀵 피트](terminology)
+- [스태거드 푸시업](terminology)
+- [스탠딩 쿼드리셉스 스트레칭](terminology)
+- [팔 벌려 점프 뛰기](terminology)
+- [스타 토 터치](terminology)
+- [스트레이트 레그 바이시클 크런치](terminology)
+- [슈퍼맨 자세](terminology)
+- [테이블탑 크런치](terminology)
+- [트라이셉 딥](terminology)
+- [턱 점프](terminology)
+- [타입라이터 푸시업](terminology)
+- [얼티밋 버피](terminology)
+- [브이업](terminology)
+- [워킹 하이 니](terminology)
+- [워킹 런지](terminology)
+- [월 브릿지](terminology)
+- [월 클라임](terminology)
+- [월 핸드스탠드 킥 업](terminology)
+- [벽 짚고 가슴 스트레칭](terminology)
+- [벽 밀쳐내기](terminology)
+- [월 싯](terminology)
+- [와이드 클라이머 점프](terminology)
+- [와이드 클라이머 트위스트](terminology)
+- [와이드 하이 니](terminology)
+- [와이드 니 푸시업](terminology)
+- [와이드 브이업](terminology)
+- [와이드 푸시업](terminology)
+- [윈드쉴드 와이퍼](terminology)
+- [180도 점프 스쿼트](terminology)가 무슨 소리야?
+- [180도 점프](terminology)가 무슨 뜻인지 모르겠어
+- [4카운트 버피](terminology)가 뭔소리야
+- [6카운트 버피](terminology)가 뭔 소린지 모르겠어
+- [엘리게이터 푸시업](terminology)이 뭐야
+- [팔 뒤로 돌리기](terminology)가 무슨 뜻인가요?
+- [팔 앞으로 돌리기](terminology)가 뭐죠
+- [후방 런지](terminology)가 무슨 소리지
+- [딱정벌레 자세](terminology)가 뭔뜻이야
+- [벤트 레그 크로스 오버](terminology)가 무슨뜻이지
+- [바이시클 크런치](terminology)가 무슨 말이야?
+- [브릿지](terminology)가 무슨 말인지 모르겠어
+- [버트 키커 점프 스쿼트](terminology)가 뭔말이야
+- [카프레이즈](terminology)가 뭔 말인지 모르겠어
+- [고양이 자세](terminology)가 무슨 말이지
+- [아기 자세](terminology)가 뭔말이지
+- [팔 내밀어 뛰기](terminology)가 모르겠어
+- [코블러 스트레칭](terminology)이 대체 무슨 소리야?
+- [커맨더 푸시업](terminology)이 대체 무슨 뜻인지 모르겠어
+- [테이블탑 브릿지](terminology)가 무슨 소리야?
+- [교차 펀치](terminology)가 무슨 뜻인지 모르겠어
+- [크런치](terminology)가 뭔소리야
+- [컬시 런지](terminology)가 뭔 소린지 모르겠어
+- [디클라인 푸시업](terminology)이 뭐야
+- [덩키 킥](terminology)이 무슨 뜻인가요?
+- [종아리 스트레](terminology)가 뭐죠
+- [소화전 운동](terminology)이 무슨 소리지
+- [전속력 턱 점프 버피](terminology)가 뭔뜻이야
+- [전속력 버피](terminology)가 무슨뜻이지
+- [앞 점프 스쿼트](terminology)가 무슨 말이야?
+- [전방 런지](terminology)가 무슨 말인지 모르겠어
+- [개구리 스쿼트](terminology)가 뭔말이야
+- [하이 니](terminology)가 뭔 말인지 모르겠어
+- [하이 플랭크](terminology)가 무슨 말이지
+- [하이 플랭크 더블 니](terminology)가 뭔말이지
+- [하이 플랭크 잭](terminology)이 모르겠어
+- [하이 플랭크 점핑 잭](terminology)이 대체 무슨 소리야?
+- [하이 플랭크 점프](terminology)가 대체 무슨 뜻인지 모르겠어
+- [하이 플랭크 니 크로스](terminology)가 무슨 소리야?
+- [하이 플랭크 니 드롭](terminology)이 무슨 뜻인지 모르겠어
+- [하이 플랭크 니 투 엘보](terminology)가 뭔소리야
+- [하이 플랭크 레그 리프트](terminology)가 뭔 소린지 모르겠어
+- [하이 플랭크 림 레이즈](terminology)가 뭐야
+- [하이 사이드 플랭크](terminology)가 무슨 뜻인가요?
+- [힙 어브덕션](terminology)이 뭐죠
+- [힙 어덕션](terminology)이 무슨 소리지
+- [힙 오프너](terminology)가 뭔뜻이야
+- [인치웜 턱 점프](terminology)가 무슨뜻이지
+- [인치웜](terminology)이 무슨 말이야?
+- [인클라인 푸시업](terminology)이 무슨 말인지 모르겠어
+- [인워드 카프레이즈](terminology)가 뭔말이야
+- [제자리 뛰기](terminology)가 뭔 말인지 모르겠어
+- [점프 런지](terminology)가 무슨 말이지
+- [점프 스쿼트](terminology)가 뭔말이지
+- [팔 벌려 뛰기](terminology)가 모르겠어
+- [니 커맨드 푸시업](terminology)이 대체 무슨 소리야?
+- [니 내로우 투 와이드 푸시업](terminology)이 대체 무슨 뜻인지 모르겠어
+- [니 플라이오 푸시업](terminology)이 무슨 소리야?
+- [니 푸시업 숄더 탭](terminology)이 무슨 뜻인지 모르겠어
+- [니 푸시업 사이드 플랭크](terminology)가 뭔소리야
+- [니 푸시업](terminology)이 뭔 소린지 모르겠어
+- [니 사이드 투 사이드 푸시업](terminology)이 뭐야
+- [니 스태거드 푸시업](terminology)이 무슨 뜻인가요?
+- [니 턱 크런치](terminology)가 뭐죠
+- [니 업 다운](terminology)이 뭔뜻이야
+- [닐 앤 스탠드](terminology)가 무슨뜻이지
+- [엉덩이 굴근 스트레칭](terminology)이 무슨 말이야?
+- [래터럴 점프 터치다운](terminology)이 무슨 말인지 모르겠어
+- [래터럴 점프](terminology)가 뭔말이야
+- [레그 레이즈](terminology)가 뭔 말인지 모르겠어
+- [림 레이즈 푸시업](terminology)이 무슨 말이지
+- [로우 플랭크](terminology)가 뭔말이지
+- [로우 플랭크 암 리치](terminology)가 모르겠어
+- [로우 플랭크 크런치](terminology)가 대체 무슨 소리야?
+- [로우 플랭크 더블 니](terminology)가 대체 무슨 뜻인지 모르겠어
+- [로우 플랭크 니 크로스](terminology)가 무슨 소리야?
+- [로우 플랭크 니 드롭](terminology)이 무슨 뜻인지 모르겠어
+- [로우 플랭크 니 투 엘보](terminology)가 뭔소리야
+- [로우 플랭크 트위스트](terminology)가 뭔 소린지 모르겠어
+- [로우 사이드 플랭크](terminology)가 뭐야
+- [로우 사이드 플랭크 레그 리프트](terminology)가 무슨 뜻인가요?
+- [로우 사이드 플랭크 트위스트](terminology)가 뭐죠
+- [런지 앤 트위스트](terminology)가 무슨 소리지
+- [런지 하이 니 점프](terminology)가 뭔뜻이야
+- [런지 투 프론트 킥](terminology)이 무슨뜻이지
+- [런지 투 하이 니](terminology)가 무슨 말이야?
+- [4자 스트레칭](terminology)이 무슨 말인지 모르겠어
+- [마칭 월 싯](terminology)이 뭔말이야
+- [마운틴 클라이머](terminology)가 뭔 말인지 모르겠어
+- [내로우 6카운트 버피](terminology)가 무슨 말이지
+- [내로우 니 푸시업](terminology)이 뭔말이지
+- [내로우 푸시업](terminology)이 모르겠어
+- [내로우 스쿼트](terminology)가 대체 무슨 소리야?
+- [내로우 투 와이드 푸시업](terminology)이 대체 무슨 뜻인지 모르겠어
+- [한발 4카운트 버피](terminology)가 무슨 소리야?
+- [한발 6카운트 버피](terminology)가 무슨 뜻인지 모르겠어
+- [아웃워드 카프레이즈](terminology)가 뭔소리야
+- [오버헤드 스쿼트](terminology)가 뭔 소린지 모르겠어
+- [오버헤드 트라이셉 스트레칭](terminology)이 뭐야
+- [펜듈럼 런지](terminology)가 무슨 뜻인가요?
+- [파이크 푸시업](terminology)이 뭐죠
+- [피스톨 스쿼트](terminology)가 무슨 소리지
+- [피봇 런지](terminology)가 뭔뜻이야
+- [필레 점프 스쿼트](terminology)가 무슨 말이야?
+- [필레 스쿼트](terminology)가 무슨 말인지 모르겠어
+- [플라이오 푸시업](terminology)이 뭔말이야
+- [프리즈너 스쿼트](terminology)가 뭔 말인지 모르겠어
+- [엑스자 엎드리기](terminology)가 무슨 말이지
+- [펄싱 스쿼트](terminology)가 뭔말이지
+- [펀치](terminology)가 모르겠어
+- [푸시업 잭](terminology)이 대체 무슨 소리야?
+- [푸시업 숄더탭](terminology)이 대체 무슨 뜻인지 모르겠어
+- [푸시업 사이드 플랭크](terminology)가 무슨 소리야?
+- [푸시업](terminology)이 무슨 뜻인지 모르겠어
+- [네발 니 투 엘보](terminology)가 뭔소리야
+- [네발 림 레이즈](terminology)가 뭔 소린지 모르겠어
+- [퀵 피트](terminology)가 뭐야
+- [리버스 크런치](terminology)가 무슨 뜻인가요?
+- [리버스 플랭크](terminology)가 뭐죠
+- [록스타](terminology)가 무슨 소리지
+- [러시안 트위스트 1](terminology)이 뭔뜻이야
+- [러시안 트위스트 2](terminology)이 무슨뜻이지
+- [한발 균형잡기](terminology)가 무슨 말이야?
+- [한발 테이블탑 브릿지](terminology)가 무슨 말인지 모르겠어
+- [한발 앞뒤 뛰기](terminology)가 뭔말이야
+- [한발 점프 스쿼트](terminology)가 뭔 말인지 모르겠어
+- [한발 발 닿기](terminology)가 무슨 말이지
+- [한발 정강이 닿기](terminology)가 뭔말이지
+- [한발 스쿼트](terminology)가 모르겠어
+- [시저스 킥](terminology)이 대체 무슨 소리야?
+- [어깨 스트레칭](terminology)이 대체 무슨 뜻인지 모르겠어
+- [사이드 런지 터치다운](terminology)이 무슨 소리야?
+- [사이드 런지](terminology)가 무슨 뜻인지 모르겠어
+- [사이드 플랭크 오블리크 크런치](terminology)가 뭔소리야
+- [사이드 스타 플랭크](terminology)가 뭔 소린지 모르겠어
+- [사이드 투 사이드 푸시업](terminology)이 뭐야
+- [한발 브릿지](terminology)가 무슨 뜻인가요?
+- [한발 데드리프트](terminology)가 뭐죠
+- [한발 파이크 푸시업](terminology)이 무슨 소리지
+- [한발 푸시업](terminology)이 뭔뜻이야
+- [한발 브이업](terminology)이 무슨뜻이지
+- [싯업](terminology)이 무슨 말이야?
+- [스키 복근 운동](terminology)이 무슨 말인지 모르겠어
+- [스키 점프](terminology)가 뭔말이야
+- [스피드 스케이팅](terminology)이 뭔 말인지 모르겠어
+- [스쿼트 잭](terminology)이 무슨 말이지
+- [스쿼트 사이드 킥](terminology)이 뭔말이지
+- [스쿼트 스타](terminology)가 모르겠어
+- [스쿼트 투 하이 니](terminology)가 대체 무슨 소리야?
+- [스쿼트 투 하이 니 점프](terminology)가 대체 무슨 뜻인지 모르겠어
+- [스쿼트](terminology)가 무슨 소리야?
+- [스쿼팅 퀵 피트](terminology)가 무슨 뜻인지 모르겠어
+- [스태거드 푸시업](terminology)이 뭔소리야
+- [스탠딩 쿼드리셉스 스트레칭](terminology)이 뭔 소린지 모르겠어
+- [팔 벌려 점프 뛰기](terminology)가 뭐야
+- [스타 토 터치](terminology)가 무슨 뜻인가요?
+- [스트레이트 레그 바이시클 크런치](terminology)가 뭐죠
+- [슈퍼맨 자세](terminology)가 무슨 소리지
+- [테이블탑 크런치](terminology)가 뭔뜻이야
+- [트라이셉 딥](terminology)이 무슨 말이야?
+- [턱 점프](terminology)가 무슨 말인지 모르겠어
+- [타입라이터 푸시업](terminology)이 뭔말이야
+- [얼티밋 버피](terminology)가 뭔 말인지 모르겠어
+- [업 다운](terminology)이 뭔말이지
+- [브이업](terminology)이 모르겠어
+- [워킹 하이 니](terminology)가 대체 무슨 소리야?
+- [워킹 런지](terminology)가 대체 무슨 뜻인지 모르겠어
+- [월 브릿지](terminology)가 무슨 소리야?
+- [월 클라임](terminology)이 무슨 뜻인지 모르겠어
+- [월 핸드스탠드 킥 업](terminology)이 뭔소리야
+- [월 래터럴 풀 다운](terminology)이 뭔 소린지 모르겠어
+- [벽 짚고 가슴 스트레칭](terminology)이 뭐야
+- [벽 밀쳐내기](terminology)가 무슨 뜻인가요?
+- [월 싯](terminology)이 뭐죠
+- [와이드 클라이머 점프](terminology)가 무슨 소리지
+- [와이드 클라이머 트위스트](terminology)가 뭔뜻이야
+- [와이드 하이 니](terminology)가 무슨뜻이지
+- [와이드 니 푸시업](terminology)이 무슨 말이야?
+- [와이드 브이업](terminology)이 무슨 말인지 모르겠어
+- [와이드 푸시업](terminology)이 뭔말이야
+- [윈드쉴드 와이퍼](terminology)가 뭔 말인지 모르겠어
+- [인치웜](terminology)이 뭐야?
+
+## intent:thanks
+- ㄳㄳ
+- ㄳ
+- ㄳㄳㄳ
+- ㄱㅅ
+- ㄱㅅㄱㅅ
+- 감사
+- 감사하빈다
+- 감사합니다
+- 감사요
+- ㄳ요
+- ㄱㅅ요
+- rtrt
+- rt
+- 기억시옷
+- 고마워
+- 고맙습니다
+- 고마워요
+- 고맙
+- 고맙다
+- 아리가또
+- 감사감사
+- 감사해요
+- 땡큐
+- thank you
+- thanks
+- 땡스
+- 개감사
+- 개고맙
+- 알려줘서 ㄳㄳ
+- 알려줘서 ㄳ
+- 알려줘서 ㄳㄳㄳ
+- 알려줘서 ㄱㅅ
+- 알려줘서 ㄱㅅㄱㅅ
+- 알려줘서 감사
+- 알려줘서 감사하빈다
+- 알려줘서 감사합니다
+- 알려줘서 감사요
+- 알려줘서 ㄳ요
+- 알려줘서 ㄱㅅ요
+- 알려줘서 rtrt
+- 알려줘서 rt
+- 알려줘서 기억시옷
+- 알려줘서 고마워
+- 알려줘서 고맙습니다
+- 알려줘서 고마워요
+- 알려줘서 고맙
+- 알려줘서 고맙다
+- 알려줘서 아리가또
+- 알려줘서 감사감사
+- 알려줘서 감사해요
+- 알려줘서 땡큐
+- 알려줘서 thank you
+- 알려줘서 thanks
+- 알려줘서 땡스
+- 알려줘서 개감사
+- 알려줘서 개고맙
+- 도와줘서 ㄳㄳ
+- 도와줘서 ㄳ
+- 도와줘서 ㄳㄳㄳ
+- 도와줘서 ㄱㅅ
+- 도와줘서 ㄱㅅㄱㅅ
+- 도와줘서 감사
+- 도와줘서 감사하빈다
+- 도와줘서 감사합니다
+- 도와줘서 감사요
+- 도와줘서 ㄳ요
+- 도와줘서 ㄱㅅ요
+- 도와줘서 rtrt
+- 도와줘서 rt
+- 도와줘서 기억시옷
+- 도와줘서 고마워
+- 도와줘서 고맙습니다
+- 도와줘서 고마워요
+- 도와줘서 고맙
+- 도와줘서 고맙다
+- 도와줘서 아리가또
+- 도와줘서 감사감사
+- 도와줘서 감사해요
+- 도와줘서 땡큐
+- 도와줘서 thank you
+- 도와줘서 thanks
+- 도와줘서 땡스
+- 도와줘서 개감사
+- 도와줘서 개고맙
+
+## synonym:a
+- {"property" : "a"}
+
+## synonym:b
+- {"property" : "b"}
+
+## synonym:balanced
+- {"objective" : "balanced"}
+
+## synonym:c
+- {"property" : "c"}
+
+## synonym:d
+- {"property" : "d"}
+
+## synonym:e
+- {"property" : "e"}
+
+## synonym:exercise
+- {"which" : "exercise"}
+
+## synonym:f
+- {"property" : "f"}
+
+## synonym:false
+- {"cycle" : "false"}
+
+## synonym:high
+- {"previous_exp": "high"}
+
+## synonym:lose_weight
+- {"objective" : "lose_weight"}
+
+## synonym:low
+- {"previous_exp": "low"}
+
+## synonym:mid
+- {"previous_exp": "mid"}
+
+## synonym:muscle
+- {"objective" : "muscle"}
+
+## synonym:terminology
+- {"which" : "terminology"}
+
+## synonym:true
+- {"cycle" : "true"}
+
+## regex:no
+- ^s+
+- ^ㄴ+
+
+## regex:number
+- \b[1-9](세트)\b
+- \b[1-9][0-9]*번\b
+- \b[1-9][0-9]*분\b
+- \b[1-9][0-9]*회\b
+
+## regex:start
+- ^r+
+- ^ㄱ+
+
+## regex:yes
+- ^(dz)+
+- ^(ㅇㅋ)+
+- ^d+
+- ^ㅇ+
+
+## lookup:part
+  data/lookup/part.txt
+
+## lookup:exercise
+  data/lookup/exercise.txt
+
+## lookup:problem_part
+- 무릎
+- 어깨
+- 손목
+- 발목
+- 허리
+- 고관절
+- 골반

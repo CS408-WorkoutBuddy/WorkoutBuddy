@@ -1,0 +1,29 @@
+# Configuration for Rasa NLU.
+# https://rasa.com/docs/rasa/nlu/components/
+language: xx
+
+pipeline:
+  - name: KoreanTokenizer
+  - name: RegexFeaturizer
+  - name: CRFEntityExtractorKorean
+  - name: EntitySynonymMapper
+  - name: CountVectorsFeaturizer
+  - name: CountVectorsFeaturizer
+    analyzer: char_wb
+    min_ngram: 1
+    max_ngram: 4
+  - name: EmbeddingIntentClassifier
+    intent_tokenization_flag: true
+    intent_split_symbol: "+"
+
+# Configuration for Rasa Core.
+# https://rasa.com/docs/rasa/core/policies/
+policies:
+  - name: MemoizationPolicy
+  - name: KerasPolicy
+  - name: MappingPolicy
+  - name: FormPolicy
+  - name: FallbackPolicy
+    nlu_threshold: 0.7
+    core_threshold: 0.5
+    fallback_action_name: 'action_default_fallback'

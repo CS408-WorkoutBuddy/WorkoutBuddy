@@ -1,0 +1,233 @@
+%YAML 1.1
+---
+actions:
+- action_change_routine
+- action_check_routine
+- action_check_userinfo
+- action_delete_user
+- action_exercise_explanation
+- action_exercise_recommendation
+- action_explain_terminology
+- action_guide_terminology
+- action_load_user_routine
+- action_problem_search
+- action_record_daily
+- action_registration
+- action_routine_recommendation
+- action_routine_register
+- action_update_user_routine
+- utter_ER
+- utter_RR
+- utter_anything_else
+- utter_ask_changing_exercise
+- utter_ask_exercise
+- utter_ask_number
+- utter_ask_problem_part
+- utter_ask_terminology
+- utter_final_check
+- utter_first_guidance
+- utter_great
+- utter_new_user_guide
+- utter_notimplemented
+- utter_objective
+- utter_old_user_guide
+- utter_prev_exp
+- utter_property1
+- utter_property2
+- utter_registration_complete
+- utter_routine_registration_complete
+- utter_registration_start
+- utter_routine_guide
+- utter_seeyou
+- utter_tellme1
+- utter_tellme2
+- utter_thanks
+- utter_userinfo_fails
+- utter_which
+- utter_wrong_changing_exercise
+- utter_wrong_exercise
+- utter_wrong_number
+- utter_wrong_part
+- utter_wrong_terminology
+- utter_youneedaccount
+entities:
+- changing_exercise
+- exercise
+- number
+- objective
+- part
+- previous_exp
+- problem_part
+- property
+- terminology
+- which
+forms:
+- change_form
+- problem_form
+- terminology_form
+intents:
+- done
+- good
+- greet
+- terminology
+- change
+- start
+- say_yes
+- thanks
+- choose
+- say_no
+- make_account
+- ready
+- hard
+- problem
+- hard+terminology
+- hard+change
+- inquire_routine_recommendation
+- inquire_exercise_recommendation
+- delete_user
+- check_routine
+- number
+slots:
+  changing_exercise:
+    type: unfeaturized
+  daily_routine:
+    type: unfeaturized
+  exercise:
+    type: unfeaturized
+  new_user:
+    type: bool
+  number:
+    type: unfeaturized
+  objective:
+    type: unfeaturized
+  part:
+    type: unfeaturized
+  previous_exp:
+    type: categorical
+    values:
+    - high
+    - middle
+    - low
+  problem_part:
+    type: unfeaturized
+  property:
+    type: unfeaturized
+  recommendation_exercise:
+    type: unfeaturized
+  recommendation_routine:
+    type: unfeaturized
+  requested_slot:
+    type: unfeaturized
+  terminology:
+    type: unfeaturized
+  user_level:
+    type: unfeaturized
+  which:
+    type: categorical
+    values:
+    - terminology
+    - exercise
+templates:
+  utter_ER:
+  - text: 내 추천 운동은! {recommendation_exercise} 이거야!
+  utter_RR:
+  - text: 네게 맞는 추천 루틴은 {recommendation_routine} 이거야! 어때?
+  utter_anything_else:
+  - text: 다른 문제는 또 없었어?
+  utter_ask_changing_exercise:
+  - text: 어떤 운동을 바꿀거야?
+  utter_ask_exercise:
+  - text: 무슨일이야.. 무슨 운동을 하다가 그랬어?
+  utter_ask_number:
+  - text: 어떤 내용으로 바꿀까?
+  utter_ask_problem_part:
+  - text: ㅠㅠ어느 부위에 문제가 생겼어?
+  utter_ask_terminology:
+  - text: 어떤 용어가 궁금한거야?
+  utter_default:
+  - text: 무슨 말을 하는지 잘 못 알아들었어 ㅠㅠ 다시 다르게 말해줄 수 있어?
+  utter_final_check:
+  - text: 와우! 고생했어. 오늘 운동은 어땠어?
+  utter_first_guidance:
+  - text: <안내> 봇과의 대화를 초기화하려면 /restart 를 입력하세요
+  utter_great:
+  - text: 정말 좋아 아주 좋아!
+  utter_new_user_guide:
+  - text: 안녕! 반가워. 우리 초면이구나. 몇 가지 정보를 좀 알아야 하는데, 질문 좀 해도 될까?
+  utter_notimplemented:
+  - text: '<system> : 시스템이 재시작합니다.'
+  utter_objective:
+  - buttons:
+    - payload: '/choose{"objective" : "muscle"}'
+      title: 근육량을 좀 더 늘리고 싶어
+    - payload: '/choose{"objective" : "lose_weight"}'
+      title: 살을 좀 빼고 싶어
+    - payload: '/choose{"objective" : "balanced"}'
+      title: 둘 다 적절히 하고싶어
+    text: 운동의 목적이 뭐야?
+  utter_old_user_guide:
+  - text: 안녕! 오늘도 정말 운동하기 좋은 날이네. 무슨 일이야? 지금 운동하러 갈거야?
+  utter_prev_exp:
+  - buttons:
+    - payload: '/choose{"previous_exp": "high"}'
+      title: 어느 정도 이상 경험이 있고 내 루틴도 있어.
+    - payload: '/choose{"previous_exp": "middle"}'
+      title: 경험은 있지만 딱히 루틴은 없어.
+    - payload: '/choose{"previous_exp": "low"}'
+      title: 거의 경험이 없어
+    text: 지금까지 헬스 경험이 있어?
+  utter_property1:
+  - buttons:
+    - payload: '/choose{"property" : "a"}'
+      title: 무분할 전신운동
+    - payload: '/choose{"property" : "b"}'
+      title: 2분할 상 / 하체
+    - payload: '/choose{"property" : "c"}'
+      title: 2분할 등가슴 / 다리어깨
+    text: 어떤 루틴을 선호해?
+  utter_property2:
+  - buttons:
+    - payload: '/choose{"property" : "d"}'
+      title: 2분할 밀기 / 당기기
+    - payload: '/choose{"property" : "e"}'
+      title: 3분할 가슴 / 등 / 어깨+하체
+    - payload: '/choose{"property" : "f"}'
+      title: 4분할
+    text: 이어서
+  utter_routine_registration_complete:
+  - text: 루틴 등록이 완료됐어!
+  utter_registration_complete:
+  - text: 정보 등록이 완료됐어! 다시 한번 말걸어서 루틴을 추천받아봐!
+  utter_registration_start:
+  - text: 오케이. 몇가지 물어볼게. 네게 가장 잘 맞는걸 골라줘!
+  utter_routine_guide:
+  - text: 오늘의 루틴이야. 이대로 진행할래??
+  utter_seeyou:
+  - text: 고생했어! 여기까지 오늘 한 운동 정보 기록했다. 다음 운동때 보자!
+  utter_tellme1:
+  - text: 좋아! 방금 알려준 순서대로 운동을 진행하다가 무슨 문제가 생기면 언제든지 바로 알려줘.
+  utter_tellme2:
+  - text: 그리고 문제없이 루틴이 끝나면 네 운동 정보를 기록해야 하니까 끝났다고 얘기해 주면 돼.
+  utter_thanks:
+  - text: 고맙긴. 오늘도 득근을 위해!
+  utter_userinfo_fails:
+  - text: '<system> : 유저 정보 불러오기에 실패하였습니다. bot restarts'
+  utter_which:
+  - buttons:
+    - payload: '/choose{"which" : "terminology"}'
+      title: 용어가 무슨 뜻인지 모르겠어
+    - payload: '/choose{"which" : "exercise"}'
+      title: 쉬운 루틴으로 바꿔 줘
+    text: 어떤 것이 어렵다는거야??
+  utter_wrong_changing_exercise:
+  - text: 데이터에 없는 운동이거나 오타가 난 것 같아 ㅠㅠ
+  utter_wrong_exercise:
+  - text: 데이터에 없는 운동이거나 오타가 난 것 같아 ㅠㅠ
+  utter_wrong_number:
+  - text: 유효한 숫자를 입력해줘... 잘못 입력했는지 확인해봐!
+  utter_wrong_part:
+  - text: 데이터에 없는 부위네 ㅠㅠ
+  utter_wrong_terminology:
+  - text: 데이터에 없는 용어인데... 잘못 입력했는지 확인해봐!
+  utter_youneedaccount:
+  - text: 나랑 함께하려면 정보를 좀 알려줘야해 ㅠㅠ
