@@ -53,7 +53,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 	* rasa 폴더 위치의 기본값: C:/Users/user/Anaconda3/envs/***env_name***/Lib/site-packages/rasa
 4. rasa/nlu/tokenizers 폴더에 chatbot/rasa_korean_material/korean_tokenizer.py 파일을 복사하기
 5. rasa/nlu/extractors 폴더에 chatbot/rasa_korean_material/crf_entity_extractor_korean.py 파일을 복사하기
-6. MeCab 설치
+6. mecab-ko (또는 MeCab) 설치
 7. MeCab의 사전 폴더에 chatbot/rasa_korean_material/dic 폴더의 내용을 덮어씌우기
 8. actions/init_db.py 실행
 9. chatbot/endpoints.yml의 action_endpoint 수정
