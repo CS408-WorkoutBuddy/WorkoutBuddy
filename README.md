@@ -23,10 +23,24 @@ python -m spacy link en_core_web_md en
 9. actions 폴더에서 ```rasa run actions``` 명령어 실행하기
 
 ## Facebook에서 WorkoutBuddy 실행하기
-1. heroku에 chatbot을 위한 app 생성하기 (이하 ***chatbot_app***)
-2. heroku에 actions를 위한 app 생성하기 (이하 ***actions_app***)
-3. chatbot/endpoints.yml의 action_endpoint 수정
-* https://***actions_app***.herokuapp.com/webhook
+1. facebook for developers에서 Messenger 앱 추가
+  * https://developers.facebook.com/apps
+2. 새로운 페이지 만들기 버튼을 눌러 챗봇이 적용될 페이지 생성
+3. 페이지에 Messenger 버튼 추가
+4. 생성한 Messenger 앱에 새로 만든 페이지 추가
+5. heroku에 chatbot을 위한 app 생성 (이하 ***chatbot_app***)
+6. heroku에 actions를 위한 app 생성 (이하 ***actions_app***)
+7. chatbot/endpoints.yml의 action_endpoint 수정
+  * https://***actions_app***.herokuapp.com/webhook
+8. creedentials.yml의 facebook 항목 수정
+  * verify: ***verify_token*** (원하는 문자열)
+  * secret: ***secret_code*** (설정 - 기본 설정 - 앱 시크릿 코드)
+  * page-access-token: ***page_access_token*** (messenger - 토큰 생성)
+9. Heroku 서버에 업로드
+> heroku login  
+> chatbot 폴더 진입
+> git init
+> heroku git:remote
 
 ## WorkoutBuddy 수정하기
 1. 어쩌구
