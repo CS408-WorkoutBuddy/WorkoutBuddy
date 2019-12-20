@@ -3,10 +3,10 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 아래 문서는 Windows, Anaconda Python 3.6.9를 기준으로 작성되었습니다.  
 
 ## WorkoutBuddy 예제 실행
-1. abc
-2. abc
-\3. abc
-4
+1. abc  
+2. abc  
+\3. abc  
+4  
 
 ## Facebook에서 WorkoutBuddy 실행
 
