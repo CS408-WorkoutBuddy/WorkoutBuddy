@@ -56,8 +56,8 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 ## 로컬에서 WorkoutBuddy 실행
 
 ### 1. 기본 환경 구축
-1.1. rasa[spacy]==1.3.9, pymysql 패키지를 설치합니다.  
-> pip install rasa[spacy]==1.3.9  
+1.1. rasa\[spacy\]==1.3.9, pymysql 패키지를 설치합니다.  
+> pip install rasa\[spacy\]==1.3.9  
 > pip install pymysql  
 
 1.2. rasa 실행 환경을 구축합니다.  
@@ -102,12 +102,12 @@ Tokenizer에서 parsing한 정보와 원래 문장에서의 entity위치 정보�
 그러므로 최대한 외래어를 entity로 사용하지 않는 방향으로 사용해야 하며 꼭 사용해야 할 때는 entity에 대한 용어들을 mecab 사전에 꼭 추가해 주셔야 합니다.  
   
 그러나 사전에 추가하더라도 오류를 내는 문장들이 있습니다.  
-> 거침없이 [로우 킥](entity)  
+> 거침없이 \[로우 킥\](entity)  
 
 위 문장을 mecab을 이용할 시 "로우 킥" 은 무조건 "롭ㄴ 킥"으로 바뀝니다. (자비롭다 or 자비로운 에 사용하는 로우로 해석)  
 이 경우 '로우'를 mecab사전에 추가하여도 발생하는 문제이므로 최대한 이런 문장을 만들지 말아야 합니다.  
 
 ### 2. space로 끝나는 entity 금지
 entity 양식의 끝에 빈 칸을 넣을 경우에도 오류가 발생합니다.  
-> 지붕뚫고 [하이 킥 ](entity)   : 오류 발생  
-> 지붕뚫고 [하이 킥](entity)    : 정상 작동  
+> 지붕뚫고 \[하이 킥 \](entity)   : 오류 발생  
+> 지붕뚫고 \[하이 킥\](entity)    : 정상 작동  
