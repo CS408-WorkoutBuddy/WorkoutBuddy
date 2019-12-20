@@ -3,8 +3,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 
 ## 로컬에서 WorkoutBuddy 실행하기
 로컬에서 WorkoutBuddy 챗봇을 실행하려면 다음 과정을 따라야합니다.
-* 1. 어쩌구
-저쩌구
+* 1. 어쩌구  저쩌구
 
 ## Facebook에서 WorkoutBuddy 실행하기
 Facebook에서 WorkoutBuddy 챗봇을 실행하려면 다음 과정을 따라야합니다.
