@@ -46,10 +46,11 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 > git push heroku master  
 
 ### 3. Facebook app과 Heroku에 업로드한 app 연동
-3.1. facebook 앱에 콜백 URL 추가
-	* URL: https://***chatbot_app***.herokuapp.com/webhooks/facebook/webhook
-	* 확인 토큰: ***verify_token*** (credentials.yml에서 입력한 문자열)
-3.2. 로컬에서 mypysql 패키지를 설치한 후 actions/init_db.py 실행
+3.1. facebook 앱에 콜백 URL 추가  
+> URL: https://***chatbot_app***.herokuapp.com/webhooks/facebook/webhook  
+> 확인 토큰: ***verify_token*** (credentials.yml에서 입력한 문자열)  
+
+3.2. 로컬에서 mypysql 패키지를 설치한 후 actions/init_db.py 실행  
 3.3. 생성했던 페이지에 추가했던 메시지 보내기 버튼을 눌러 챗봇과 대화  
 
 ## 로컬에서 WorkoutBuddy 실행
@@ -84,7 +85,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 ## 유의사항
 1. WorkoutBuddy 챗봇이 Facebook에서 정상 동작하지 않는 경우, ***chatbot_app***을 재시작 할 것
 
-## Pipeline for Korean
+## RASA pipeline 한글화
 
 KoreanTokenizer
 문장을 일정 단위로 분해해 주는 pipeline입니다.
