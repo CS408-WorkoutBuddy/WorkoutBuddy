@@ -44,15 +44,11 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 
 ## 로컬에서 WorkoutBuddy 실행하기
 1. rasa[spacy]==1.3.9, pymysql 패키지 설치
-```
-pip install rasa[spacy]==1.3.9
-pip install pymysql
-```
+> pip install rasa[spacy]==1.3.9  
+> pip install pymysql
 2. rasa 실행 환경 구축
-```
-python -m spacy download en_core_web_md
-python -m spacy link en_core_web_md en
-```
+> python -m spacy download en_core_web_md  
+> python -m spacy link en_core_web_md en
 3. rasa 폴더에 chatbot/rasa_korean_material/registry.py 파일을 덮어씌우기
 	* rasa 폴더 위치의 기본값: C:/Users/user/Anaconda3/envs/***env_name***/Lib/site-packages/rasa
 4. rasa/nlu/tokenizers 폴더에 chatbot/rasa_korean_material/korean_tokenizer.py 파일을 복사하기
