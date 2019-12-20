@@ -5,7 +5,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 ## Facebook에서 WorkoutBuddy 실행
 ### 1. 새로운 facebook app 추가
 1.1. facebook for developers에서 Messenger 앱 추가  
-	* https://developers.facebook.com/apps  
+* https://developers.facebook.com/apps  
 1.2. 새로운 페이지 만들기 버튼을 눌러 챗봇이 적용될 페이지 생성  
 1.3. 페이지에 Messenger 버튼 추가  
 1.4. 생성한 facebook 앱에 새로 만든 페이지 추가  
