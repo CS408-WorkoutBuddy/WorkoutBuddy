@@ -2,18 +2,6 @@
 WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.  
 아래 문서는 Windows, Anaconda Python 3.6.9를 기준으로 작성되었습니다.  
 
-## WorkoutBuddy 예제 실행
-1. chatbot app을 활성화합니다.  
-> https://rasachatbot1.herokuapp.com/  
-> "Hello from Rasa: 1.3.9" 문구 확인  
-
-2. actions app을 활성화합니다.  
-> http://rasaactions1.herokuapp.com/  
-> "Not Found" 문구 확인  
-
-3. 챗봇과 대화가 가능합니다.  
-> https://www.messenger.com/t/105380957537337  
-
 ## Facebook에서 WorkoutBuddy 실행
 
 ### 1. 새로운 Facebook app 추가
