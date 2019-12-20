@@ -3,7 +3,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 아래 문서는 Windows, Anaconda Python 3.6.9를 기준으로 작성되었습니다.
 
 ## Facebook에서 WorkoutBuddy 실행
-###### test
+##### test
 1. facebook for developers에서 Messenger 앱 추가
 	* https://developers.facebook.com/apps
 2. 새로운 페이지 만들기 버튼을 눌러 챗봇이 적용될 페이지 생성
