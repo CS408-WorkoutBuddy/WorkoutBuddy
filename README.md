@@ -12,7 +12,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 > "Not Found" 문구 확인  
 
 3. 챗봇과 대화가 가능합니다.  
-> m.me/105380957537337  
+> https://www.messenger.com/t/105380957537337  
 
 ## Facebook에서 WorkoutBuddy 실행
 
