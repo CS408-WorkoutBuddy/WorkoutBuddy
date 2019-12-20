@@ -14,6 +14,8 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 
 ### 2. Heroku에  app 업로드
 2.1. Heroku에 chatbot을 위한 app을 생성합니다. (이하 ***chatbot_app***)  
+> https://www.heroku.com  
+
 2.2. Heroku에 actions를 위한 app을 생성합니다. (이하 ***actions_app***)  
 2.3. ***actions_app***에 ClearDB Add-on을 추가합니다.  
 2.4. chatbot/endpoints.yml의 action_endpoint를 수정합니다.  
