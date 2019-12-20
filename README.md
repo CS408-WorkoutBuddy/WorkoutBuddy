@@ -14,8 +14,8 @@ pip install pymysql
     * rasa 폴더 위치의 기본값 C:/Users/user/Anaconda3/envs/***env_name***/Lib/site-packages/rasa
 5. rasa/nlu/tokenizers 폴더에 chatbot/rasa_korean_material/korean_tokenizer.py 파일을 복사하기
 6. rasa/nlu/extractors 폴더에 chatbot/rasa_korean_material/crf_entity_extractor_korean.py 파일을 복사하기
-7. chatbot 폴더에서 rasa shell 명령어 실행하기
-8. actions 폴더에서 rasa run actions 
+7. chatbot 폴더에서 ```rasa shell``` 명령어 실행하기
+8. actions 폴더에서 ```rasa run actions``` 명령어 실행하기
 
 ## Facebook에서 WorkoutBuddy 실행하기
 * 1. 어쩌구
