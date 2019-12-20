@@ -4,7 +4,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 
 ## Facebook에서 WorkoutBuddy 실행하기
 1. facebook for developers에서 Messenger 앱 추가
-  * https://developers.facebook.com/apps
+   * https://developers.facebook.com/apps
 2. 새로운 페이지 만들기 버튼을 눌러 챗봇이 적용될 페이지 생성
 3. 페이지에 Messenger 버튼 추가
 4. 생성한 facebook 앱에 새로 만든 페이지 추가
@@ -12,14 +12,14 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 6. heroku에 actions를 위한 app 생성 (이하 ***actions_app***)
 7. ***actions_app***에 ClearDB Add-on 추가
 8. chatbot/endpoints.yml의 action_endpoint 수정
-  * https://***actions_app***.herokuapp.com/webhook
+   * https://***actions_app***.herokuapp.com/webhook
 9. chatbot/credentials.yml의 facebook 항목 수정
-  * verify: ***verify_token*** (원하는 문자열)
-  * secret: ***secret_code*** (설정 - 기본 설정 - 앱 시크릿 코드)
-  * page-access-token: ***page_access_token*** (messenger - 토큰 생성)
+   * verify: ***verify_token*** (원하는 문자열)
+   * secret: ***secret_code*** (설정 - 기본 설정 - 앱 시크릿 코드)
+   * page-access-token: ***page_access_token*** (messenger - 토큰 생성)
 10. actions/db.py의 pymysql.connect() 매개변수 수정
-  * DB의 URL은 ***actions_app***의 설정 창에서 Reveal Config Vars 버튼을 눌러 확인 가능
-  * URL의 형태: mysql://user:password@host/db?reconnect=true
+   * DB의 URL은 ***actions_app***의 설정 창에서 Reveal Config Vars 버튼을 눌러 확인 가능
+   * URL의 형태: mysql://user:password@host/db?reconnect=true
 11. Heroku 서버에 업로드
 > heroku login  
 >   
@@ -37,8 +37,8 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 > git commit -am "***message***"  
 > git push heroku master
 12. facebook 앱에 콜백 URL 추가
-  * URL: https://***chatbot_app***.herokuapp.com/webhooks/facebook/webhook
-  * 확인 토큰: ***verify_token*** (credentials.yml에서 입력한 문자열)
+   * URL: https://***chatbot_app***.herokuapp.com/webhooks/facebook/webhook
+   * 확인 토큰: ***verify_token*** (credentials.yml에서 입력한 문자열)
 13. 로컬에서 mypysql 패키지를 설치한 후 actions/init_db.py 실행
 14. 생성했던 페이지에 추가했던 메시지 보내기 버튼을 눌러 챗봇과 대화
 
