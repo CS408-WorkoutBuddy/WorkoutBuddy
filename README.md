@@ -8,7 +8,7 @@ WorkoutBuddy는 rasa와 MeCab을 이용하여 구현된 챗봇입니다.
 > "Hello from Rasa: 1.3.9" 문구 확인  
 
 2. actions app을 활성화합니다.  
-> http://rasaactions1.herokuapp.com/
+> http://rasaactions1.herokuapp.com/  
 > "Not Found" 문구 확인  
 
 3. 챗봇과 대화가 가능합니다.  
